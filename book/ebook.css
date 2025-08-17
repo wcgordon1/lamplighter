@@ -1,0 +1,128 @@
+/* E-book styles optimized for e-ink displays */
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  margin: 2em;
+  color: #2c2c2c;
+  background: #ffffff;
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 1.5em 0 0.8em 0;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin: 1.2em 0 0.6em 0;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1em 0 0.5em 0;
+  page-break-after: avoid;
+}
+
+p {
+  margin: 0.8em 0;
+  text-align: justify;
+  text-indent: 1.5em;
+}
+
+p:first-of-type {
+  text-indent: 0;
+}
+
+blockquote {
+  margin: 1em 2em;
+  padding-left: 1em;
+  border-left: 3px solid #cccccc;
+  font-style: italic;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+/* Chapter breaks */
+.chapter-break {
+  page-break-before: always;
+  margin-top: 2em;
+}
+
+/* Scene breaks */
+.scene-break {
+  text-align: center;
+  margin: 2em 0;
+}
+
+.scene-break::after {
+  content: "• • •";
+  font-size: 1.2em;
+  color: #666666;
+}
+
+/* Poetry/dialogue formatting */
+.poem {
+  margin: 1em 0;
+  text-align: center;
+}
+
+.poem p {
+  text-indent: 0;
+  margin: 0.3em 0;
+}
+
+/* Table of contents */
+.toc {
+  margin: 2em 0;
+}
+
+.toc h2 {
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+
+.toc ol {
+  list-style-type: decimal;
+  margin-left: 2em;
+}
+
+.toc li {
+  margin: 0.5em 0;
+}
+
+/* Front and back matter */
+.frontmatter, .backmatter {
+  text-align: center;
+  margin: 3em 0;
+}
+
+.frontmatter h1, .backmatter h1 {
+  font-size: 2.2em;
+  margin-bottom: 1em;
+}
+
+.copyright, .dedication {
+  font-style: italic;
+  margin: 2em 0;
+}
+
+/* Ensure clean page breaks */
+h1, h2, h3 {
+  page-break-after: avoid;
+}
+
+p, blockquote, .poem {
+  page-break-inside: avoid;
+}

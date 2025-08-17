@@ -1,0 +1,378 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Characters",
+  "type": "object",
+  "properties": {
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "role", "age", "tags", "bio", "wants", "fears"],
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "role": { "type": "string" },
+          "age": { "type": "integer" },
+          "pronouns": { "type": "string" },
+          "appearance": { "type": "string" },
+          "voice": { "type": "string" },
+          "skills": { "type": "array", "items": { "type": "string" } },
+          "wants": { "type": "string" },
+          "needs": { "type": "string" },
+          "fears": { "type": "string" },
+          "arc": { "type": "string" },
+          "relationships": {
+            "type": "array",
+            "items": { "type": "object",
+              "properties": {
+                "targetId": {"type": "string"},
+                "label": {"type": "string"},
+                "tension": {"type": "string"}
+              }
+            }
+          },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "continuity": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}
+
+{
+  "characters": [
+    {
+      "id": "ivy",
+      "name": "Ivy Merrin",
+      "role": "Protagonist; 'Listener' lamplighter-in-training",
+      "age": 14,
+      "pronouns": "she/her",
+      "appearance": "thin, quick; dark hair; scuffed boots; brass transit token on a cord; often smells faintly of chalk dust and sea air",
+      "voice": "curious, plain-spoken; short sentences under stress; wry humor with friends",
+      "skills": ["seam-hearing (sensitive to lamplight hums)", "improvised sigils", "lantern rhythm sense", "street-map memory"],
+      "wants": "Find the truth about her mother's disappearance and keep Aunt June and Greywater safe",
+      "needs": "Choose the living over longing; accept help and trust allies",
+      "fears": "Opening a seam too wide; losing the people who took her in",
+      "arc": "Reluctant novice → tested apprentice → responsible Warden who binds the Keystone and accepts a permanent route",
+      "relationships": [
+        { "targetId": "june", "label": "aunt/guardian", "tension": "June’s protectiveness vs Ivy’s duty" },
+        { "targetId": "kestrel", "label": "mentor", "tension": "method vs instinct" },
+        { "targetId": "tamsin", "label": "friend/ally", "tension": "heart vs craft" },
+        { "targetId": "rooke", "label": "friend/ally", "tension": "mutual courage; water-fear support" },
+        { "targetId": "cole", "label": "rival-turned-ally", "tension": "status vs intuition" },
+        { "targetId": "bram", "label": "antagonist", "tension": "civic power vs stewardship" },
+        { "targetId": "button", "label": "companion", "tension": "protective bond" }
+      ],
+      "tags": ["PoV", "hero", "listener", "keystone-attuned", "never-kills"],
+      "continuity": [
+        "First seen Ch1 arriving at Greywater rowhouse",
+        "Finds brass transit token embedded in doorframe crack (Ch1)",
+        "Instinctive salt ring at laundromat wind incident (Ch3)",
+        "Formally joins Night Wardens (Ch5)",
+        "Attunes Keystone with heartbeat cadence (Ch21)",
+        "Chooses to bind Veil rather than keep breach open to hear mother (Ch22)",
+        "Granted official route by Ms. Kestrel (Ch24)"
+      ]
+    },
+    {
+      "id": "june",
+      "name": "June Merrin",
+      "role": "Aunt/guardian; seamstress who keeps old rowhouse and neighborhood stitched together",
+      "age": 39,
+      "pronouns": "she/her",
+      "appearance": "broad-shouldered; rolled sleeves; hair pinned with sewing needles; salt kept in a tea tin by the door",
+      "voice": "plain, protective, sometimes sharp from worry",
+      "skills": ["practical warding habits", "community ties", "making do with little"],
+      "wants": "Keep Ivy safe and away from the dangers that took Ivy’s mother",
+      "needs": "Accept that Ivy’s gift is part of who she is",
+      "fears": "The city ‘taking what it’s owed’ again",
+      "arc": "From forbidding Warden work to backing Ivy’s choice and sharing letters from Ivy’s mother",
+      "relationships": [
+        { "targetId": "ivy", "label": "niece/ward", "tension": "safety vs duty" },
+        { "targetId": "kestrel", "label": "strained respect", "tension": "past loss vs present need" }
+      ],
+      "tags": ["family", "civilian"],
+      "continuity": [
+        "Sprinkles salt across threshold in opening scene (Ch1)",
+        "Reveals Ivy’s mother’s Warden history (Ch12)",
+        "Gives sealed letters at the end (Ch24)"
+      ]
+    },
+    {
+      "id": "button",
+      "name": "Button",
+      "role": "One-eyed stray dog; companion and quiet barometer for seams",
+      "age": 3,
+      "pronouns": "he/him",
+      "appearance": "shaggy brown mutt; left eye clouded; collar made from old lampwick",
+      "voice": "nonverbal; communicates through posture and attention to hums",
+      "skills": ["early warning for thin places", "unshakable loyalty", "finding dropped items by scent"],
+      "wants": "Stay with Ivy; avoid the cold wind that smells like wet paper",
+      "needs": "Security and routine after street years",
+      "fears": "River promenade when seams tug at crowds",
+      "arc": "Stray to library dog; becomes unofficial mascot of the Wardens",
+      "relationships": [
+        { "targetId": "ivy", "label": "person", "tension": "protect/comfort" },
+        { "targetId": "kestrel", "label": "ally", "tension": "allowed in archive after hours" }
+      ],
+      "tags": ["animal", "companion"],
+      "continuity": [
+        "Begins following Ivy in Ch2",
+        "Holds position inside chalk rings reliably by mid-book",
+        "Adopted as library dog after climax (Ch23)"
+      ]
+    },
+    {
+      "id": "kestrel",
+      "name": "Ms. Kestrel",
+      "role": "Head librarian; Night Wardens’ convenor",
+      "age": 47,
+      "pronouns": "she/her",
+      "appearance": "sharp-eyed; hair streaked with silver; ink-stained fingers; carries a sun-warmed brass lantern",
+      "voice": "measured, wry, specific; avoids metaphors; dislikes gossip",
+      "skills": ["binding sigils", "legal strategy and paperwork", "covert signaling via lamp codes"],
+      "wants": "Hold the Veil and keep the Wardens respected in public life",
+      "needs": "Trust new blood and let instinct inform method",
+      "fears": "Public backlash; repeating the loss tied to Ivy’s mother",
+      "arc": "Guarded gatekeeper → pragmatic leader who empowers Ivy",
+      "relationships": [
+        { "targetId": "ivy", "label": "mentor", "tension": "method vs instinct" },
+        { "targetId": "june", "label": "old friend", "tension": "blame for the past vs shared grief" },
+        { "targetId": "bram", "label": "adversary (political)", "tension": "lawful process vs civic sabotage" }
+      ],
+      "tags": ["mentor", "warden-lead"],
+      "continuity": [
+        "Binds laundromat wind with chalk sigil (Ch3)",
+        "Initiates Ivy (Ch5)",
+        "Detained on permit violation (Ch13)",
+        "Signals coordinates via lamppost blink code (Ch16)",
+        "Arrives with legal orders to arrest Bram (Ch22)",
+        "Grants Ivy a formal route (Ch24)"
+      ]
+    },
+    {
+      "id": "tamsin",
+      "name": "Tamsin Park",
+      "role": "Warden trainee; mechanical tinkerer",
+      "age": 15,
+      "pronouns": "she/her",
+      "appearance": "short, practical haircut; oil under nails; patched satchel with spools of wire",
+      "voice": "quick, dry, solution-first; jokes under pressure",
+      "skills": ["lantern maintenance", "improvised gear", "chalk lattices", "reading city schematics"],
+      "wants": "Keep her family’s repair shop afloat; prove craft can save lives",
+      "needs": "Ask for help before problems get dangerous",
+      "fears": "Letting people down when things break",
+      "arc": "From clever sidekick to indispensable craft lead who earns a paid apprenticeship",
+      "relationships": [
+        { "targetId": "ivy", "label": "best-friend ally", "tension": "instinct vs engineering" },
+        { "targetId": "rooke", "label": "team-mate", "tension": "jokes vs earnestness" },
+        { "targetId": "cole", "label": "friendly-competitive", "tension": "field improvisation vs textbook sigils" }
+      ],
+      "tags": ["ally", "warden-trainee", "engineer"],
+      "continuity": [
+        "Receives kit with Ivy and Rooke (Ch5)",
+        "Designs river promenade lattice (Ch9)",
+        "Sketches gear reroute plans in City Works tunnels (Ch14–16)",
+        "Jams tower gear during climax (Ch21)",
+        "Awarded city lamp-grid apprenticeship (Ch23)"
+      ]
+    },
+    {
+      "id": "rooke",
+      "name": "Noah “Rooke”",
+      "role": "Warden trainee; quietly brave; struggles with deep water",
+      "age": 15,
+      "pronouns": "he/him",
+      "appearance": "tall, narrow; sleeves too short; wears a knotted cord as a reminder to breathe",
+      "voice": "gentle, literal; speaks only when needed",
+      "skills": ["knotwork", "steady hands", "people rescue techniques", "listening more than he talks"],
+      "wants": "Be useful and not freeze near the tide tunnels",
+      "needs": "Trust his body under fear; accept that bravery looks like small steps",
+      "fears": "Dark water; being the reason someone drowns",
+      "arc": "Hesitant trainee → rescuer who rings the bell early and starts swim classes after",
+      "relationships": [
+        { "targetId": "ivy", "label": "friend", "tension": "mutual encouragement" },
+        { "targetId": "tamsin", "label": "ally", "tension": "earnestness vs quips" },
+        { "targetId": "cole", "label": "uneasy", "tension": "mocked for fear early on" }
+      ],
+      "tags": ["ally", "warden-trainee"],
+      "continuity": [
+        "Helps haul teen from river promenade (Ch9)",
+        "Crosses siphon in Glazier’s Tunnel despite fear (Ch15)",
+        "Rings bell early to break Bram’s timing (Ch21)",
+        "Enrolls in swim class after (Ch23)"
+      ]
+    },
+    {
+      "id": "cole",
+      "name": "Cole Archer",
+      "role": "Senior trainee; status-conscious rival who leaks a map to the Council",
+      "age": 16,
+      "pronouns": "he/him",
+      "appearance": "neat uniform; perfect chalk lines; too-new boots",
+      "voice": "confident in public; defensive when challenged",
+      "skills": ["textbook sigils", "public speaking", "lamp code drills"],
+      "wants": "Recognition; to be the one who ‘saves the city’",
+      "needs": "Humility; courage not based on applause",
+      "fears": "Being sidelined; being wrong in public",
+      "arc": "From swaggering antagonist-lite → remorseful ally who helps at the tower and accepts discipline",
+      "relationships": [
+        { "targetId": "ivy", "label": "rival-ally", "tension": "status vs intuition" },
+        { "targetId": "kestrel", "label": "teacher", "tension": "trust breached by leak" },
+        { "targetId": "bram", "label": "unwitting pawn", "tension": "flattered to be ‘useful’" }
+      ],
+      "tags": ["rival", "redeemable"],
+      "continuity": [
+        "Needles Ivy on first routes (Ch7)",
+        "Leaks Warden map to Council under ‘safety’ pretext (Ch13)",
+        "Wavers at tower then aids Ivy and team (Ch19–21)",
+        "Faces Warden discipline; apologizes sincerely (Ch23)"
+      ]
+    },
+    {
+      "id": "bram",
+      "name": "Bram Dore",
+      "role": "Antagonist; popular councilman engineering a Keystone hijack via Founders’ Week",
+      "age": 38,
+      "pronouns": "he/him",
+      "appearance": "well-tailored; lantern-sigil cufflink; practiced smile",
+      "voice": "warm on the stump, clipped and technical in private",
+      "skills": ["political theater", "procurement sleight-of-hand", "press manipulation"],
+      "wants": "Harness the Keystone to centralize power and make Greywater ‘safe’ on his terms",
+      "needs": "Accept limits and the city’s living will",
+      "fears": "Irrelevance; losing control of the narrative",
+      "arc": "Civic darling → exposed saboteur; arrested after the failed hijack",
+      "relationships": [
+        { "targetId": "kestrel", "label": "adversary", "tension": "public order vs community stewardship" },
+        { "targetId": "ivy", "label": "opponent", "tension": "manipulation vs integrity" },
+        { "targetId": "mara", "label": "aide", "tension": "loyalty fraying under pressure" }
+      ],
+      "tags": ["antagonist", "civic"],
+      "continuity": [
+        "Pushes Founders’ Week spectacle, restricts lamp work (Ch10)",
+        "Has Kestrel detained on permit technicality (Ch13)",
+        "Conduit discovered under City Works (Ch14–16)",
+        "Offers Ivy a bargain to reach her mother’s voice (Ch18)",
+        "Attempt hijack during Midnight Toll (Ch20–21)",
+        "Arrested when Veil is bound (Ch22)"
+      ]
+    },
+    {
+      "id": "edna",
+      "name": "Edna Pike",
+      "role": "Historical Warden; author of the Pike Diary that describes the Keystone Lantern",
+      "age": 26,
+      "pronouns": "she/her",
+      "appearance": "seen only in archival sketches: stout boots, oil cloak, brass notebook",
+      "voice": "pragmatic and laconic in diary excerpts",
+      "skills": ["Keystone theory", "route cartography", "bell cadence notation"],
+      "wants": "Anchor the city’s Veil reliably after early lamplighter failures",
+      "needs": "A successor who can ‘listen’ rather than merely measure",
+      "fears": "Civic tampering with the Keystone during celebrations",
+      "arc": "Posthumous mentor through her writings; proves a Listener must wake the Keystone",
+      "relationships": [
+        { "targetId": "ivy", "label": "posthumous guide", "tension": "interpretation vs direct instruction" },
+        { "targetId": "kestrel", "label": "institutional heir", "tension": "library custody of the diary" }
+      ],
+      "tags": ["historical", "mentor-text"],
+      "continuity": [
+        "Diary found in deep archives (Ch11)",
+        "Sketch of brass token matches Ivy’s (Ch11)",
+        "Keystone notes decode route to sub-basement (Ch16)"
+      ]
+    },
+    {
+      "id": "mara",
+      "name": "Mara Quill",
+      "role": "Council aide and fixer for Bram Dore",
+      "age": 29,
+      "pronouns": "she/her",
+      "appearance": "navy coat; shorthand pad; lantern-sigil lapel pin (copy)",
+      "voice": "crisp, efficient; conceals nerves with precision",
+      "skills": ["document handling", "press briefings", "quiet threats couched as policy"],
+      "wants": "Career stability under Bram’s rising star",
+      "needs": "Recognize complicity; choose whistle over loyalty",
+      "fears": "Public disgrace; losing her job",
+      "arc": "From loyal aide to reluctant witness who turns state’s evidence after the arrest",
+      "relationships": [
+        { "targetId": "bram", "label": "boss", "tension": "ambition vs ethics" },
+        { "targetId": "kestrel", "label": "institutional opponent", "tension": "permits and closures" }
+      ],
+      "tags": ["civic", "gray-area"],
+      "continuity": [
+        "Seen passing a copied lantern sigil among staffers (Ch13)",
+        "Subpoenaed after Ch22; provides conduit invoices"
+      ]
+    },
+    {
+      "id": "morrow",
+      "name": "Sergeant Alden Morrow",
+      "role": "Police sergeant who executes Bram’s ‘public order’ detentions",
+      "age": 42,
+      "pronouns": "he/him",
+      "appearance": "oilskin cape; heavy keys; tired eyes",
+      "voice": "formal on duty; apologetic one-on-one",
+      "skills": ["crowd control", "paperwork perfection", "looking the other way"],
+      "wants": "Keep his pension; avoid headlines",
+      "needs": "Draw a line where law is abused",
+      "fears": "Becoming the face of a bad order",
+      "arc": "Enforcer to reluctant cooperator; stands down during the arrest",
+      "relationships": [
+        { "targetId": "kestrel", "label": "detains then respects", "tension": "duty vs conscience" },
+        { "targetId": "bram", "label": "orders from", "tension": "chain of command" }
+      ],
+      "tags": ["law", "secondary"],
+      "continuity": [
+        "Leads detention of Kestrel (Ch13)",
+        "Holds perimeter at clocktower during Midnight Toll (Ch20–21)",
+        "Does not obstruct legal orders at end (Ch22)"
+      ]
+    },
+    {
+      "id": "carrow",
+      "name": "Ephraim Carrow",
+      "role": "Clocktower caretaker; knows the gear ladders and bell access",
+      "age": 61,
+      "pronouns": "he/him",
+      "appearance": "lantern soot in pores; ring of keys; limp from old fall",
+      "voice": "slow, gravelly; fond of the bell like a person",
+      "skills": ["bell maintenance", "gear timing", "knows hidden service catwalks"],
+      "wants": "Keep the bell true and the tower safe",
+      "needs": "Trust the Wardens when politics intrude",
+      "fears": "Bell misstrike cracking the tower stone",
+      "arc": "Cautious outsider → ally who props a service door at critical moment",
+      "relationships": [
+        { "targetId": "ivy", "label": "unlikely ally", "tension": "secrecy vs safety" },
+        { "targetId": "rooke", "label": "coach at stairs", "tension": "fear vs function" }
+      ],
+      "tags": ["ally", "infrastructure"],
+      "continuity": [
+        "Gives a gruff warning about tampering (Ch8/11 implied)",
+        "Lets team into sub-basement during Founders’ noise (Ch18–19)"
+      ]
+    },
+    {
+      "id": "librarian_aide",
+      "name": "Tilda Weir",
+      "role": "Library aide; manages archive keys and late notices",
+      "age": 22,
+      "pronouns": "she/her",
+      "appearance": "cardigan with ink blots; pencil behind ear",
+      "voice": "bright, whisper-fast; rules stickler unless persuaded",
+      "skills": ["key control", "stacks navigation", "quietly moving boxes no one asked about"],
+      "wants": "Keep her job; keep the archive orderly",
+      "needs": "Courage to ‘lose’ a key for the right reason",
+      "fears": "Audit of the rare-books room",
+      "arc": "From timid rule-keeper to small act of defiance aiding the Wardens",
+      "relationships": [
+        { "targetId": "kestrel", "label": "supervisor", "tension": "policy vs discretion" },
+        { "targetId": "ivy", "label": "co-conspirator", "tension": "keys borrowed, not logged" }
+      ],
+      "tags": ["support", "library"],
+      "continuity": [
+        "Helps Ivy access deep archives for Pike diary (Ch11)",
+        "Covers for Kestrel’s absence during detention (Ch13)"
+      ]
+    }
+  ]
+}

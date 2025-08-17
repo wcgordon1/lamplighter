@@ -1,0 +1,767 @@
+{
+    "project": "The Lamplighter's Daughter",
+    "updated": "2025-08-17",
+    "notes": "Relative dates are keyed to Founders’ Day (Day 0). Midnight Toll occurs between Ch20–Ch21.",
+    "timeline": [
+      {
+        "id": "ch01",
+        "chapter": 1,
+        "title": "A Door of Salt",
+        "day": -12,
+        "timeOfDay": "Night",
+        "locations": ["rowhouse_lane"],
+        "pov": "ivy",
+        "target_words": 3200,
+        "beats": [
+          "Ivy arrives at Aunt June’s rowhouse in Greywater and notices the neat scatter of salt across the threshold.",
+          "A hairline seam hums in the frame; a brass transit token turns up in a cracked tile and warms in her palm.",
+          "A one-eyed stray dog lingers in the rain, refusing to cross the salt."
+        ],
+        "motifs": ["threshold", "salt", "lamplight", "token"],
+        "seam_level": 1,
+        "cadence_used": null,
+        "conflict": "internal: homesickness vs curiosity; external: subtle seam tug at the door",
+        "stakes": "Home safety and whether Ivy can settle or must keep running.",
+        "clues": [
+          "Token bears a tiny lantern stamp.",
+          "Salt laid as habit, not superstition.",
+          "Doorframe chill stronger than street air."
+        ],
+        "props_state_changes": [
+          "token → Ivy (on cord)",
+          "salt tin noted at June’s door"
+        ],
+        "open_threads_added": [
+          "Who left the token?",
+          "Why do thresholds in Greywater need salt?"
+        ],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["open ring break toward home", "token warms in true cadence"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Button (dog) observed but not yet adopted; Ivy sleeps in back room facing alley lamp."
+      },
+      {
+        "id": "ch02",
+        "chapter": 2,
+        "title": "Stacks and Strays",
+        "day": -11,
+        "timeOfDay": "Afternoon",
+        "locations": ["library", "warden_room"],
+        "pov": "ivy",
+        "target_words": 3000,
+        "beats": [
+          "Aunt June sends Ivy to the library; the stray dog shadows her at a distance.",
+          "Ms. Kestrel notices Ivy flinch when a lamp halo goes slightly oval and tests her with a humming reading-room lantern.",
+          "Ivy glimpses the basement door marked for staff; a map of lamp numbers hangs behind the desk."
+        ],
+        "motifs": ["paper", "lamplight", "map"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "external: Kestrel’s guarded curiosity vs Ivy’s privacy",
+        "stakes": "Whether Ivy is seen as odd or as useful.",
+        "clues": [
+          "Lamp halos change shape near thin spots.",
+          "Library keeps a ‘blink box’ for lamppost control (not explained yet)."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["What is the library’s basement for?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["blink code lamps as a quiet language"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Button permitted just inside the vestibule during rain (unofficial)."
+      },
+      {
+        "id": "ch03",
+        "chapter": 3,
+        "title": "Harbor Suds",
+        "day": -11,
+        "timeOfDay": "Evening",
+        "locations": ["old_quay", "harbor_suds"],
+        "pov": "ivy",
+        "target_words": 3300,
+        "beats": [
+          "Dryer vent at the laundromat exhales a cold wind that smells like wet paper; receipts creep toward it.",
+          "Kestrel arrives, coaching Ivy to lay a salt spiral while she binds with a reading-room lantern.",
+          "The ‘order of operations’—salt, chalk, lantern—is introduced."
+        ],
+        "motifs": ["salt", "wind", "lamplight"],
+        "seam_level": 2,
+        "cadence_used": "latch",
+        "conflict": "external: waking seam pulls on a child’s scarf",
+        "stakes": "Public safety and Ivy’s confidence.",
+        "clues": [
+          "Wet chalk smears draw trouble; erase fully before redrawing.",
+          "Salt rings must have a ‘home break’ toward light."
+        ],
+        "props_state_changes": [
+          "Ivy issued a small tin of sea salt after incident"
+        ],
+        "open_threads_added": ["Why do some vents behave like mouths?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["‘salt → chalk → lantern’ becomes craft law"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Owner keeps a salt tin by the till from now on."
+      },
+      {
+        "id": "ch04",
+        "chapter": 4,
+        "title": "Edge of Water",
+        "day": -10,
+        "timeOfDay": "Dawn",
+        "locations": ["breakwater", "ferry_landing"],
+        "pov": "ivy",
+        "target_words": 2800,
+        "beats": [
+          "Ivy explores the breakwater; the city seems small across the bay.",
+          "A ferry horn’s even tone settles a queasy feeling near the steps.",
+          "Aunt June warns her off the clocktower without saying why."
+        ],
+        "motifs": ["water", "horn", "fog"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "internal: pull toward danger vs Aunt June’s rules",
+        "stakes": "Trust between Ivy and June.",
+        "clues": [
+          "Even, living rhythms stabilize thinness.",
+          "June flinches at any mention of the tower."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["Why the tower fear?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["ferry tones as stabilizers"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Use scene for city scale and wind texture."
+      },
+      {
+        "id": "ch05",
+        "chapter": 5,
+        "title": "The Night Wardens",
+        "day": -10,
+        "timeOfDay": "Night",
+        "locations": ["warden_room", "lamp_yard"],
+        "pov": "ivy",
+        "target_words": 3400,
+        "beats": [
+          "Kestrel inducts Ivy; Tamsin and Rooke meet her over tea and maps.",
+          "Kits issued: workhorse lantern, salt tins, chalk, logbook, silver route keys.",
+          "Blink code demo on Library Row—lamps speak in short and long near-empty streets."
+        ],
+        "motifs": ["lamplight", "paper", "gear"],
+        "seam_level": 0,
+        "cadence_used": "march (practice)",
+        "conflict": "external: Cole’s cool skepticism; internal: imposter feelings",
+        "stakes": "Belonging to the team; responsibility weight.",
+        "clues": [
+          "Lamp numbers on plates match map plate in the reading room.",
+          "Sugar-water flask for overbinding recovery."
+        ],
+        "props_state_changes": [
+          "Ivy receives lantern + logbook + keys"
+        ],
+        "open_threads_added": ["What’s the gold key for?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["log stamps; blink code baseline"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Establish action beats style and team dynamic."
+      },
+      {
+        "id": "ch06",
+        "chapter": 6,
+        "title": "Parts and Promises",
+        "day": -9,
+        "timeOfDay": "Afternoon",
+        "locations": ["market_ward", "tamsin_shop"],
+        "pov": "ivy",
+        "target_words": 3000,
+        "beats": [
+          "At Park & Daughter Repairs, Tamsin sources mantles and chalk by the case.",
+          "Rent pressure on the shop gives Tamsin a personal clock.",
+          "Ivy practices vent wheel on a stripped lantern body."
+        ],
+        "motifs": ["gear", "paper ledgers", "light"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "external: money stress vs duty time; internal: Ivy’s need to be useful fast",
+        "stakes": "Tamsin’s future and the team’s kit reliability.",
+        "clues": [
+          "Vent wheel quarter-clicks matter.",
+          "Mantle tongs live in lantern base."
+        ],
+        "props_state_changes": ["clapper wedges rough-cut blanks appear (seed)"],
+        "open_threads_added": ["Will Tamsin get an apprenticeship?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["wedges; vent sensitivity"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Button naps under the bench; first sense of him as a barometer."
+      },
+      {
+        "id": "ch07",
+        "chapter": 7,
+        "title": "Lines That Sing",
+        "day": -8,
+        "timeOfDay": "Evening",
+        "locations": ["trolley_depot", "river_bridge"],
+        "pov": "ivy",
+        "target_words": 3300,
+        "beats": [
+          "Ivy learns to listen along the trolley lines; insulators sing at certain loads.",
+          "A level-2 wake near the bridge gives a clean exercise in chalk lattice to the railing.",
+          "Cole needles Ivy about ‘listening vs measuring.’"
+        ],
+        "motifs": ["rails", "hum", "chevrons"],
+        "seam_level": 2,
+        "cadence_used": "tide",
+        "conflict": "external: rising pull by the bridge; interpersonal: Ivy vs Cole",
+        "stakes": "Public crossing safety; Ivy’s credibility.",
+        "clues": [
+          "Ascending street numbers = homeward direction.",
+          "Lines carry rhythm further than ground alone."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["Cole’s need for status may bend him."],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["bridge as diagnostic instrument"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Mark first official logbook stamp: BOUND."
+      },
+      {
+        "id": "ch08",
+        "chapter": 8,
+        "title": "Clock Quarter",
+        "day": -7,
+        "timeOfDay": "Late Afternoon",
+        "locations": ["pike_steps", "clocktower"],
+        "pov": "ivy",
+        "target_words": 3000,
+        "beats": [
+          "The Pike Steps throw a wrong echo that arrives a breath early.",
+          "Caretaker Carrow eyes the trio near the tower and warns them off ‘tampering.’",
+          "The token cools near the tower—something about the phase is wrong."
+        ],
+        "motifs": ["bell", "stone", "echo"],
+        "seam_level": 1,
+        "cadence_used": null,
+        "conflict": "external: civic boundaries; internal: curiosity sharpened by fear",
+        "stakes": "Foreshadow the tower as both hazard and solution.",
+        "clues": [
+          "Bell is tuned a hair flat.",
+          "Carrow owns clapper access; wedges are possible."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["Why flat bell? What lies below?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["Carrow as reluctant ally"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Keep fog visual to shape the tower mood."
+      },
+      {
+        "id": "ch09",
+        "chapter": 9,
+        "title": "River Teeth",
+        "day": -6,
+        "timeOfDay": "Sunset",
+        "locations": ["promenade", "bandstand"],
+        "pov": "ivy",
+        "target_words": 3500,
+        "beats": [
+          "A crowd gathers for music; wind shifts upriver; lamp halos thin.",
+          "Level-3 pull drifts folks to the parapet—Rooke rescues a teen while Ivy and Tamsin chalk chevrons and lattice the railing.",
+          "Public sees work that looks like maintenance, not magic."
+        ],
+        "motifs": ["water", "chevrons", "crowd rhythm"],
+        "seam_level": 3,
+        "cadence_used": "tide",
+        "conflict": "external: crowd hazard; internal: Rooke vs water fear",
+        "stakes": "Lives on the edge; Wardens’ public legitimacy.",
+        "clues": [
+          "Even 3-count music calms the pull.",
+          "Phones make people step wrong during wakes."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["Press will notice if this repeats."],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["public stakes; Rooke’s arc"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Add CIVILIAN-ASSIST stamp to logs."
+      },
+      {
+        "id": "ch10",
+        "chapter": 10,
+        "title": "Bunting and Orders",
+        "day": -3,
+        "timeOfDay": "Morning",
+        "locations": ["founders_green", "council_hall"],
+        "pov": "ivy",
+        "target_words": 3000,
+        "beats": [
+          "Founders’ Week prep surges; Bram Dore frames a safety initiative.",
+          "New permit rules constrain after-hours lamp work; Wardens are labeled ‘informal.’",
+          "Midnight Toll is promoted as centerpiece—thirteen strikes once a year."
+        ],
+        "motifs": ["paper", "spectacle", "bell"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "external: politics vs procedure",
+        "stakes": "Whether Wardens can legally do their job during crowds.",
+        "clues": [
+          "Bram’s aide, Mara, manages invoices and talking points.",
+          "Public expects spectacle, not caution."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["Will permits block counter-sigils at the Toll?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["Midnight Toll as timing hazard"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Set TV trucks and bunting visuals."
+      },
+      {
+        "id": "ch11",
+        "chapter": 11,
+        "title": "The Pike Diary",
+        "day": -3,
+        "timeOfDay": "Evening (after hours)",
+        "locations": ["deep_stacks", "library"],
+        "pov": "ivy",
+        "target_words": 3400,
+        "beats": [
+          "With Tilda’s quiet help, Ivy and Kestrel pull the Pike Diary from rare stacks.",
+          "Drawings show the Keystone Lantern, salt prism, and cadence notation.",
+          "Diary warns: festival desynchrony once cracked a route; ‘a Listener must wake the anchor.’"
+        ],
+        "motifs": ["paper", "ink", "lamplight"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "external: access rules; internal: Ivy’s heritage hinted",
+        "stakes": "Knowledge vs time; keeping custody of the truth.",
+        "clues": [
+          "Facet mark on prism orientation.",
+          "Listener attunement outranks machine timing."
+        ],
+        "props_state_changes": ["copy extracts made; original returned to stacks"],
+        "open_threads_added": ["Is Ivy the Listener the diary implies?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["prism facet; Listener-only attunement"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Note smell of oilcloth; green-shade desk lamps."
+      },
+      {
+        "id": "ch12",
+        "chapter": 12,
+        "title": "Letters Not Sent",
+        "day": -2,
+        "timeOfDay": "Night (kitchen table)",
+        "locations": ["rowhouse_lane"],
+        "pov": "ivy",
+        "target_words": 3100,
+        "beats": [
+          "Aunt June admits Ivy’s mother was a Warden; the sea story was a cover.",
+          "They argue about fate vs choice; June’s fear is raw.",
+          "Button presses close when voices rise—living barometer."
+        ],
+        "motifs": ["threshold", "salt", "dog"],
+        "seam_level": 1,
+        "cadence_used": null,
+        "conflict": "internal: truth vs protection",
+        "stakes": "Whether Ivy enters the work with blessing or defiance.",
+        "clues": [
+          "June has sealed letters from Ivy’s mother.",
+          "Kitchen lamp often burns late when June waits."
+        ],
+        "props_state_changes": ["letters remain sealed for now"],
+        "open_threads_added": ["What do the letters say?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["Button as safety signal"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Keep scene intimate; no exposition dump."
+      },
+      {
+        "id": "ch13",
+        "chapter": 13,
+        "title": "Break the Line",
+        "day": -1,
+        "timeOfDay": "Afternoon",
+        "locations": ["council_hall", "police_house", "lamp_yard"],
+        "pov": "ivy",
+        "target_words": 3300,
+        "beats": [
+          "Ms. Kestrel is detained under a ‘public order’ provision; Cole’s copied map plate surfaces at Council.",
+          "Coverage gaps open across the old quarter; Wardens split thin.",
+          "Ivy learns blink code to route around police presence."
+        ],
+        "motifs": ["paper", "blink code", "gear"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "external: legal force; interpersonal: trust breach with Cole",
+        "stakes": "Who controls the lamps during the festival night.",
+        "clues": [
+          "Detention template pre-printed with festival language.",
+          "Mara moves copies and calendars with speed."
+        ],
+        "props_state_changes": ["keys re-stamped planned post-festival"],
+        "open_threads_added": ["Can Kestrel get out in time?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["blink routing as clandestine ops"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Sergeant Morrow portrayed as procedural, not cruel."
+      },
+      {
+        "id": "ch14",
+        "chapter": 14,
+        "title": "Underworks",
+        "day": -1,
+        "timeOfDay": "Evening",
+        "locations": ["city_works", "tide_network"],
+        "pov": "ivy",
+        "target_words": 3400,
+        "beats": [
+          "Tamsin leads the trio through City Works; ozone stings the nose near a locked bay.",
+          "They find a ceramic-brass conduit collar half-installed on a feeder line.",
+          "A hum rides rails and water—someone is prepping a forced resonance."
+        ],
+        "motifs": ["ozone", "rails", "valves"],
+        "seam_level": 2,
+        "cadence_used": "march",
+        "conflict": "external: trespass risk; internal: decision to escalate",
+        "stakes": "Evidence vs getting thrown out; time ticking.",
+        "clues": [
+          "Invoices from shell firms stamped received.",
+          "Collar grub screws lacquered to hide tool marks."
+        ],
+        "props_state_changes": ["photos/sketches taken; no removal yet"],
+        "open_threads_added": ["Who authorized the retrofit?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["conduit collar evidence trail"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Keep geometry confusing; mark exits with chevrons."
+      },
+      {
+        "id": "ch15",
+        "chapter": 15,
+        "title": "Glassways",
+        "day": -1,
+        "timeOfDay": "Night",
+        "locations": ["glaziers_tunnel"],
+        "pov": "ivy",
+        "target_words": 3600,
+        "beats": [
+          "Shades proliferate in a disused spur with stacked mirror panes.",
+          "Ivy and team build a mirror corridor and chalk loop; waltz cadence settles the haze.",
+          "Lesson: no metal strikes; reflection and rhythm are the tools."
+        ],
+        "motifs": ["mirror", "waltz", "haze"],
+        "seam_level": 4,
+        "cadence_used": "waltz",
+        "conflict": "external: suffocation hazard; internal: composure under pressure",
+        "stakes": "Team survival and training under real risk.",
+        "clues": [
+          "Shades chase breath and motion.",
+          "Closed loops confuse them long enough to bind."
+        ],
+        "props_state_changes": ["mirror clips added to kit"],
+        "open_threads_added": ["Will mirrors be available near the tower routes?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["waltz cadence as shade solution"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Rooke shows steadiness; set up his bell-stair courage."
+      },
+      {
+        "id": "ch16",
+        "chapter": 16,
+        "title": "Short–Long–Long–Short",
+        "day": 0,
+        "timeOfDay": "Pre-dawn",
+        "locations": ["lamp_yard", "tide_network", "city_works"],
+        "pov": "ivy",
+        "target_words": 3200,
+        "beats": [
+          "Kestrel (now free) orchestrates routes through lamppost blink code.",
+          "Ivy decodes coordinates to sub-basement access points; map plate updated.",
+          "Conduit feeds triangulated toward the tower."
+        ],
+        "motifs": ["blink code", "rails", "maps"],
+        "seam_level": 2,
+        "cadence_used": "march",
+        "conflict": "external: stealth vs patrols; internal: growing resolve",
+        "stakes": "Getting under the tower unseen.",
+        "clues": [
+          "Code start pattern · – – · marks messages from Kestrel.",
+          "Some lamp numbers skipped by superstition—confuses outsiders."
+        ],
+        "props_state_changes": ["map overlays created; spare mantles staged"],
+        "open_threads_added": ["Who will guard the surface routes?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["coordinate passing via lamps pays off in tower run"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Show dawn fog thinning; city starting to bustle."
+      },
+      {
+        "id": "ch17",
+        "chapter": 17,
+        "title": "Stone Memory",
+        "day": 0,
+        "timeOfDay": "Afternoon",
+        "locations": ["pike_steps", "clocktower"],
+        "pov": "ivy",
+        "target_words": 3000,
+        "beats": [
+          "Ivy places a palm on the tower stair and ‘hears’ a laugh she knows—the Veil holds a city memory of her mother.",
+          "Wrong echo on the steps disorients her; the token cools near the tower door.",
+          "Choice foreshadowing: the past’s voice or the living city."
+        ],
+        "motifs": ["stone", "echo", "token"],
+        "seam_level": 1,
+        "cadence_used": null,
+        "conflict": "internal: longing vs duty",
+        "stakes": "What Ivy will choose under pressure.",
+        "clues": [
+          "Memory impressions, not messages.",
+          "Heartbeat felt in fingers against stone."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["What did June’s letters hold back?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["heartbeat cadence as moral axis"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Keep it unsentimental; quick, potent scene."
+      },
+      {
+        "id": "ch18",
+        "chapter": 18,
+        "title": "Door Propped a Thumb",
+        "day": 0,
+        "timeOfDay": "Evening",
+        "locations": ["bell_stairs", "clocktower", "keystone_chamber"],
+        "pov": "ivy",
+        "target_words": 3400,
+        "beats": [
+          "Carrow ‘accidentally’ leaves a service door propped; inside smells of oil and old brass.",
+          "Bram confronts Ivy below, offers her a bargain: help him and hear her mother’s voice.",
+          "Ivy refuses to commit; the team observes the collar installed on the cradle."
+        ],
+        "motifs": ["bell", "gear", "ozone"],
+        "seam_level": 2,
+        "cadence_used": "bell (breath with clapper echo) practice",
+        "conflict": "external: manipulator vs integrity; internal: temptation",
+        "stakes": "Whether Ivy can be played.",
+        "clues": [
+          "Collar’s lacquered band hides set screws.",
+          "Vent wheel has quarter-click detents."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["How to break Bram’s timing?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["clapper wedges as phase tool"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Bram warm on the surface, clipped in private."
+      },
+      {
+        "id": "ch19",
+        "chapter": 19,
+        "title": "Noise Cover",
+        "day": 0,
+        "timeOfDay": "Night (parade peak)",
+        "locations": ["tide_network", "city_works", "keystone_chamber"],
+        "pov": "ivy",
+        "target_words": 3400,
+        "beats": [
+          "Under parade drums, the team moves through underworks using tap code and chevrons.",
+          "Tamsin pre-fits clapper wedges; Rooke maps rest landings on bell stairs.",
+          "Blink code routes Kestrel and Facilities to legal positions topside."
+        ],
+        "motifs": ["drum rhythm", "blink code", "chevrons"],
+        "seam_level": 2,
+        "cadence_used": "march",
+        "conflict": "external: patrols and locked doors; internal: trust after Cole’s leak",
+        "stakes": "Set the board before the thirteenth strike.",
+        "clues": [
+          "Vent wheel to be nudged +¼ after bell to damp ringing.",
+          "Button refuses the last stair: a warning."
+        ],
+        "props_state_changes": ["wedges ready; spare mantles staged by base"],
+        "open_threads_added": ["Can Rooke ring if fear spikes?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["rest landings; early ring possibility"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Keep geography crisp; no getting lost."
+      },
+      {
+        "id": "ch20",
+        "chapter": 20,
+        "title": "Thirteen",
+        "day": 0,
+        "timeOfDay": "Midnight (start of Toll)",
+        "locations": ["founders_green", "clocktower", "keystone_chamber"],
+        "pov": "ivy",
+        "target_words": 3600,
+        "beats": [
+          "Festival peaks; counters are missing where detentions thinned coverage.",
+          "Bram surges current through the collar as the bell reaches the extra strike.",
+          "Seams open around the tower; shades begin to gather near mirrors in the tunnels."
+        ],
+        "motifs": ["spectacle", "bell", "ozone"],
+        "seam_level": 4,
+        "cadence_used": "bell (brief), then waltz for shade spill",
+        "conflict": "external: engineered opening; internal: fear of failure",
+        "stakes": "Citywide stability and lives in the crowd.",
+        "clues": [
+          "Mantle glare + ozone smell = forced resonance.",
+          "Echo now steps ahead of sound by a solid beat."
+        ],
+        "props_state_changes": ["none"],
+        "open_threads_added": ["Will the wedges and early ring be enough?"],
+        "open_threads_resolved": [],
+        "callbacks_seeded": ["public cameras catch nothing useful—fog cover"],
+        "callbacks_paid_off": [],
+        "continuity_notes": "Keep cross-cutting clean: street ↔ stairs ↔ chamber."
+      },
+      {
+        "id": "ch21",
+        "chapter": 21,
+        "title": "Heartbeat",
+        "day": 0,
+        "timeOfDay": "Midnight (offset, climax)",
+        "locations": ["bell_stairs", "keystone_chamber", "clocktower"],
+        "pov": "ivy",
+        "target_words": 3800,
+        "beats": [
+          "Rooke rings the bell early; Tamsin jams the gear and adjusts the vent wheel +¼ to damp.",
+          "Ivy seats the salt prism, sets palm to vent, and attunes the Keystone to her heartbeat; the token heats then steadies.",
+          "Bind holds; hairline crack forms in the prism from heat; shades collapse where the mirror loop stands."
+        ],
+        "motifs": ["heartbeat", "lamplight steady", "gear"],
+        "seam_level": 5,
+        "cadence_used": "heartbeat",
+        "conflict": "internal: the echo of her mother vs the living city",
+        "stakes": "Choosing stewardship over longing.",
+        "clues": [
+          "Living cadence outranks machine phase when held steady.",
+          "Lull cadence helps with aftercare."
+        ],
+        "props_state_changes": [
+          "salt prism → seated (crack noted)",
+          "conduit collar → ready for seizure"
+        ],
+        "open_threads_added": [],
+        "open_threads_resolved": [
+          "How to stop Bram’s timing",
+          "Can Ivy truly bind at scale"
+        ],
+        "callbacks_seeded": [],
+        "callbacks_paid_off": [
+          "wedges pay off",
+          "token warmth confirms cadence",
+          "mirror corridor calms shades"
+        ],
+        "continuity_notes": "Describe light as steady rather than bright. No hero speech."
+      },
+      {
+        "id": "ch22",
+        "chapter": 22,
+        "title": "The Paper Ring",
+        "day": 1,
+        "timeOfDay": "Morning After",
+        "locations": ["clocktower", "police_house", "council_hall"],
+        "pov": "ivy",
+        "target_words": 3200,
+        "beats": [
+          "Kestrel arrives with orders; Facilities help remove the collar; Sergeant Morrow does not obstruct.",
+          "Mara Quill produces invoices; Bram is arrested.",
+          "Citywide halos return to circles; inquiry announced."
+        ],
+        "motifs": ["paper", "lamplight steady", "bell now clean"],
+        "seam_level": 1,
+        "cadence_used": "lull",
+        "conflict": "external: closing the legal loop; internal: exhaustion",
+        "stakes": "Whether truth is recorded, not just felt.",
+        "clues": [
+          "Chain of custody logged for collar.",
+          "Public notices lights look ‘calmer’ though not brighter."
+        ],
+        "props_state_changes": [
+          "conduit collar → seized (evidence)",
+          "wedges → returned to Carrow"
+        ],
+        "open_threads_added": ["Some contractors vanish (future hook)"],
+        "open_threads_resolved": [
+          "Legal status of Bram’s actions",
+          "Wardens’ legitimacy during festival"
+        ],
+        "callbacks_seeded": [],
+        "callbacks_paid_off": ["stamp truth square on forms"],
+        "continuity_notes": "Button sleeps under the archive table—city safe dog."
+      },
+      {
+        "id": "ch23",
+        "chapter": 23,
+        "title": "Repairs",
+        "day": 2,
+        "timeOfDay": "Afternoon",
+        "locations": ["market_ward", "library", "lamp_yard"],
+        "pov": "ivy",
+        "target_words": 3000,
+        "beats": [
+          "Tamsin offered a paid lamp-grid apprenticeship; Cole accepts discipline and starts making amends.",
+          "Facilities posts a liaison board that includes Warden contact for ‘odd lamps.’",
+          "Button becomes the library dog; Rooke signs up for swim classes."
+        ],
+        "motifs": ["gear", "paper notices", "dog"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "internal: what’s next; external: city logistics reset",
+        "stakes": "Enduring systems that prevent repeat crises.",
+        "clues": [
+          "Prism replacement is a future need.",
+          "Keys will be re-stamped and logged."
+        ],
+        "props_state_changes": [
+          "keys → re-stamping scheduled",
+          "Button → library custody"
+        ],
+        "open_threads_added": ["Where to find a new salt prism (future arc)"],
+        "open_threads_resolved": [
+          "Tamsin’s job security",
+          "Cole’s immediate contrition"
+        ],
+        "callbacks_seeded": ["future prism quest"],
+        "callbacks_paid_off": ["Button = safe city signal"],
+        "continuity_notes": "Tone hopeful, not saccharine."
+      },
+      {
+        "id": "ch24",
+        "chapter": 24,
+        "title": "Route",
+        "day": 3,
+        "timeOfDay": "Dusk",
+        "locations": ["rowhouse_lane", "library", "promenade"],
+        "pov": "ivy",
+        "target_words": 2900,
+        "beats": [
+          "Ms. Kestrel grants Ivy a permanent route; the card lists lamp numbers like a quiet oath.",
+          "Aunt June passes on sealed letters; Ivy chooses to open them later, not tonight.",
+          "The lamp halos along Ivy’s route sit steady as coins; the city listens back."
+        ],
+        "motifs": ["lamplight steady", "threshold", "route card"],
+        "seam_level": 0,
+        "cadence_used": null,
+        "conflict": "internal: living over longing—choice made",
+        "stakes": "Closure without doors slammed; future duty accepted.",
+        "clues": [
+          "Route includes the Pike Steps—courage reclaimed.",
+          "Diary copies filed; original secured."
+        ],
+        "props_state_changes": [
+          "route card → Ivy",
+          "letters → Ivy (unread)"
+        ],
+        "open_threads_added": [],
+        "open_threads_resolved": [
+          "Will Ivy stay and serve?",
+          "Family truth acknowledged without fantasy rescue"
+        ],
+        "callbacks_seeded": [],
+        "callbacks_paid_off": ["homeward language and open ring break visual"],
+        "continuity_notes": "Final image: fog lifting; halos round; Button trotting ahead."
+      }
+    ]
+  }
+  

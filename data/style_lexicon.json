@@ -1,0 +1,385 @@
+{
+    "$schema": "https://example.com/style-lexicon.schema.json",
+    "version": "1.0.0",
+    "project": "The Lamplighter's Daughter",
+    "updated": "2025-08-17",
+    "notes": [
+      "This file defines house style for prose generation and revision.",
+      "No EM Dashes. Do not use U+2014. Prefer comma, period, or colon. En dash U+2013 allowed only for numeric ranges and dates.",
+      "Voice is human, lean, and local to Greywater. Concrete over abstract. Rhythm over rhetoric."
+    ],
+    "punctuation_rules": {
+      "no_em_dash": true,
+      "allow_en_dash_ranges_only": true,
+      "semicolon_policy": "Rare. Use only to join two short, closely linked independents.",
+      "colon_policy": "Allowed for definitions or lists. Do not overuse for drama.",
+      "ellipsis_policy": "Avoid except for interrupted dialogue or genuine trailing thought. Max one per chapter.",
+      "exclamation_policy": "Max one per chapter, dialogue only.",
+      "em_dash_replacements": [
+        { "pattern": "\\u2014", "replace_with": ", " },
+        { "pattern": "\\s-\\s{0,1}-\\s", "replace_with": ", " }
+      ]
+    },
+    "register_and_voice": {
+      "person": "third-limited primary (Ivy). Secondary limited allowed for short beats with Kestrel, Tamsin, or Rooke.",
+      "contractions": "Use natural contractions (it's, don't, can't). Avoid stiff formality.",
+      "tone": "grounded, attentive, unsentimental, with brief dry humor under stress.",
+      "narration_rules": [
+        "Prefer direct perception. Replace filter verbs like 'she saw' with the thing seen when context is clear.",
+        "No head hopping within a scene. Switch PoV only on a clear scene break.",
+        "Describe with civic materials and rhythms: lamps, rails, bells, tide, paper, brass, chalk, salt."
+      ],
+      "figurative_language": {
+        "max_similes_per_scene": 1,
+        "prefer_domains": ["light", "tide", "gear", "paper", "stone", "brass", "rail"],
+        "avoid_domains": ["cosmic", "angelic", "dreamscape", "mythic", "space-age"],
+        "metaphor_rule": "A metaphor must make the mechanism clearer or sharpen emotion. If it merely decorates, cut it."
+      }
+    },
+    "sentence_rhythm": {
+      "target_avg_words": { "min": 12, "max": 18 },
+      "max_same_length_run": 3,
+      "allow_single_sentence_paragraphs": 1,
+      "paragraph_target_sentences": { "min": 2, "max": 6 },
+      "adverb_caps": {
+        "ly_adverbs_per_paragraph": 2,
+        "ly_adverbs_per_1000_words": 10
+      }
+    },
+    "structure_constraints": {
+      "ban_five_paragraph_essay": true,
+      "limit_lists": true,
+      "list_rules": "Bulleted lists only for in-world artifacts, rules, or checklists. Not for narrative beats.",
+      "intro_bans": [
+        "^In the world of",
+        "^In today's fast-paced world",
+        "^The concept of",
+        "^This chapter will",
+        "^In recent years"
+      ],
+      "outro_bans": [
+        "^In conclusion",
+        "^In summary",
+        "^In essence",
+        "^To sum up"
+      ],
+      "narrative_flow": [
+        "Open on image + motion.",
+        "Goal - obstacle - turn within each scene.",
+        "End on image, choice, or reversal. No recap endings."
+      ]
+    },
+    "transition_rules": {
+      "banned_transitions": ["Furthermore", "Moreover", "Additionally", "Therefore", "In addition", "Consequently", "On the one hand", "On the other hand"],
+      "preferred_soft_starts": ["Then", "But", "So", "Later", "After", "Before long", "Meanwhile", "By dusk", "At the step"],
+      "frequency_note": "Do not start more than two consecutive sentences with the same transition."
+    },
+    "banned_fillers": [
+      "it is important to note that",
+      "it is worth noting that",
+      "in order to",
+      "due to the fact that",
+      "in an effort to",
+      "in today's fast-paced world",
+      "in the ever-evolving landscape",
+      "navigate the complexities of",
+      "unlock the potential",
+      "harness the power of",
+      "delve into",
+      "a tapestry of",
+      "it's a testament to",
+      "on the one hand",
+      "on the other hand",
+      "in conclusion",
+      "in summary",
+      "in essence",
+      "needless to say",
+      "at the end of the day",
+      "as you know"
+    ],
+    "banned_phrases_regex": [
+      "let out a breath (?:she|he|they|I) (?:didn't|did not) know (?:she|he|they|I) was holding",
+      "\\bvery\\b",
+      "\\breally\\b",
+      "\\bsuddenly\\b",
+      "\\bsomehow\\b",
+      "\\bfor some reason\\b",
+      "\\btime seemed to (?:slow|stop)\\b",
+      "\\bknife of (?:cold|ice)\\b",
+      "\\bhammering (?:heart|hearts) like (?:drums|a drum)\\b"
+    ],
+    "replace_map": {
+      "in order to": "to",
+      "due to the fact that": "because",
+      "it is important to note that": "",
+      "suddenly": "at once",
+      "very": "",
+      "really": "",
+      "somehow": "",
+      "for some reason": "",
+      "delve into": "study",
+      "harness the power of": "use",
+      "unlock the potential": "make use of",
+      "navigate the complexities of": "handle",
+      "in conclusion": "",
+      "in summary": ""
+    },
+    "preferred_verbs": {
+      "movement": [
+        "brace",
+        "edge",
+        "slip",
+        "lean",
+        "shoulder",
+        "pivot",
+        "steady",
+        "stall",
+        "thread",
+        "hitch",
+        "square",
+        "nose",
+        "creep",
+        "pad",
+        "plant",
+        "tuck",
+        "ease",
+        "haul",
+        "brace-lift",
+        "set"
+      ],
+      "sight_and_light": [
+        "tighten",
+        "thin",
+        "glaze",
+        "ghost",
+        "flare",
+        "fog",
+        "brighten",
+        "dim",
+        "halo",
+        "glint",
+        "bead",
+        "sweat",
+        "pool",
+        "stain",
+        "strobe"
+      ],
+      "sound_and_rhythm": [
+        "hum",
+        "thrum",
+        "tick",
+        "ring",
+        "wool",
+        "chime",
+        "hiss",
+        "drum",
+        "hush",
+        "knock",
+        "carry",
+        "echo",
+        "double",
+        "dampen"
+      ],
+      "craft_actions": [
+        "salt",
+        "circle",
+        "spiral",
+        "break",
+        "lattice",
+        "loop",
+        "chevron",
+        "anchor",
+        "prime",
+        "vent",
+        "seat",
+        "attune",
+        "bind",
+        "wedge",
+        "jam",
+        "re-draw",
+        "erase",
+        "log"
+      ],
+      "emotion_and_thought": [
+        "steady herself",
+        "let the breath go",
+        "count the beat",
+        "choose",
+        "set the worry aside",
+        "hold the line",
+        "keep watch",
+        "trust",
+        "refuse",
+        "commit"
+      ],
+      "weather_and_water": [
+        "sheet",
+        "blow",
+        "push",
+        "slap",
+        "slick",
+        "pool",
+        "lift",
+        "veil",
+        "thicken"
+      ]
+    },
+    "on_brand_comparisons": {
+      "lamplight": [
+        "the halo tightened into a coin",
+        "light sat steady rather than bright",
+        "glass fogged, then cleared on her breath"
+      ],
+      "fog": [
+        "fog pressed the street narrow",
+        "edges wore a soft coat",
+        "the city kept its voice low"
+      ],
+      "bell": [
+        "the strike landed a hair late",
+        "the echo stepped ahead of the sound",
+        "a clean ring like a ladle on porcelain"
+      ],
+      "rails_and_trolley": [
+        "the line hummed under the skin of the air",
+        "insulators sang a thin note",
+        "sparks stitched blue at the switch"
+      ],
+      "water_and_tide": [
+        "the tide shouldered the quay",
+        "river slap counted the seconds wrong",
+        "steps breathed damp and old"
+      ],
+      "paper_and_brass": [
+        "a stamp set truth square",
+        "brass kept the warmth of a hand",
+        "paper whispered when turned"
+      ],
+      "dog": [
+        "Button leaned a quiet yes",
+        "his ears set like little sails to wind",
+        "he went still, and the room listened with him"
+      ]
+    },
+    "dialogue_rules": {
+      "tag_policy": "Use said and asked. Fancy tags rare. Use action beats to attribute speakers.",
+      "beat_frequency": "Insert a physical beat at least every 3-4 lines to anchor bodies in space.",
+      "no_rhetorical_questions_in_narration": true,
+      "punctuation": "Keep punctuation simple. No exclamation marks outside dialogue."
+    },
+    "ai_flaws_and_counters": {
+      "stylistic_and_tonal_clues": {
+        "problems": [
+          "Overly formal register, evasive tone, no contractions",
+          "Relentless neutrality without a perspective",
+          "Stock positivity and canned uplift at paragraph ends"
+        ],
+        "counters": [
+          "Force contractions; add one grounded detail per paragraph (object, smell, texture)",
+          "Have the narrator pick a side through selection of detail, not editorials",
+          "End paragraphs on image, action, or choice, not advice"
+        ]
+      },
+      "structural_patterns": {
+        "problems": [
+          "Rigid intro-body-conclusion template",
+          "Overreliance on lists",
+          "Mechanical transitions"
+        ],
+        "counters": [
+          "Begin in scene; skip thesis statements",
+          "Use lists only for in-world artifacts and procedures",
+          "Replace formal transitions with time-place beats or motion"
+        ]
+      },
+      "content_clues": {
+        "problems": [
+          "Surface-level takes",
+          "Outdated assertions",
+          "Internal inconsistencies"
+        ],
+        "counters": [
+          "Pull from the bible files: magic_rules, props_artifacts, setting_catalog",
+          "Cross-check continuity cards and running_summary",
+          "Prefer concrete civic detail over summary"
+        ]
+      },
+      "language_and_phrasing": {
+        "problems": [
+          "Repetitive SVO sentence frames",
+          "Empty idioms and corporate metaphors",
+          "Awkward or nonsensical similes"
+        ],
+        "counters": [
+          "Vary sentence starts with prepositional and participial openers sparingly",
+          "Swap idioms for sensory specifics",
+          "Limit to one clean simile per scene in on-brand domains"
+        ]
+      },
+      "uncanny_valley": {
+        "problems": [
+          "Flawless polish that ignores human breath",
+          "Simulated personal anecdotes",
+          "Keyword drift without understanding"
+        ],
+        "counters": [
+          "Bake in breath counts and micro-actions",
+          "Never invent backstory beyond canon",
+          "Tie each claim to a physical cue or a logged artifact"
+        ]
+      }
+    },
+    "regex_tests_for_linter": {
+      "em_dash": "\\u2014",
+      "banned_beginnings": "^(In the world of|In today's fast-paced world|The concept of|In recent years)",
+      "banned_endings": "^(In conclusion|In summary|In essence|To sum up)",
+      "empty_phrases": "(it is important to note that|in order to|due to the fact that|in an effort to|ever-evolving landscape|unlock the potential|harness the power of|delve into|navigate the complexities of)",
+      "aiisms": "(tapestry of|testament to)",
+      "weak_adverbs": "\\b(very|really|suddenly|somehow)\\b",
+      "filter_verbs": "\\b(saw|noticed|realized|felt|seemed|watched|heard)\\b",
+      "rhetorical_q": "\\?\\s*$"
+    },
+    "thresholds": {
+      "max_empty_phrases_per_1000": 0,
+      "max_aiisms_per_1000": 0,
+      "max_filter_verbs_per_1000": 8,
+      "max_rhetorical_questions_per_chapter": 0,
+      "max_lists_per_chapter": 1,
+      "max_consecutive_sentences_same_start": 2
+    },
+    "chapter_open_close": {
+      "openers": [
+        "Concrete image + motion within the first two sentences.",
+        "A small physical problem that hints at the seam or the scene goal."
+      ],
+      "closers": [
+        "A choice made or refused.",
+        "A physical image that tilts the chapter into the next one.",
+        "A paid-off motif beat (halo tightens to round, bell clears, salt ring break opened toward home)."
+      ]
+    },
+    "motif_alignment": {
+      "primary_each_chapter": true,
+      "secondary_echo": true,
+      "allowed_motifs": ["lamplight", "fog", "bell", "salt", "chalk", "lantern breath", "rails", "mirror", "threshold", "water", "paper", "gear", "dog", "token"],
+      "note": "Mark chosen motifs at the top of each chapter file for continuity."
+    },
+    "style_examples": {
+      "good_lines": [
+        "The lamp's halo tightened into a coin as her breath found the count.",
+        "Chalk dust ghosted her fingers. The lattice held.",
+        "The bell sounded woolly in fog, then, a breath later, clean as porcelain."
+      ],
+      "bad_lines_and_reasons": [
+        {
+          "text": "In today's fast-paced world, it is important to note that lamplighters must navigate the complexities of seam management.",
+          "reason": "Corporate intro, empty phrases, banned transition."
+        },
+        {
+          "text": "Suddenly, she realized that she had let out a breath she didn't know she was holding.",
+          "reason": "Banned 'suddenly' and cliche breath line."
+        }
+      ]
+    }
+  }
+  

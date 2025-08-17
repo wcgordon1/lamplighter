@@ -1,0 +1,558 @@
+{
+  "locations": [
+    {
+      "id": "clocktower",
+      "name": "Greywater Clocktower",
+      "type": "landmark",
+      "mood": "fog-drowned, bellmetal tang, civic spine of the old quarter",
+      "senses": {
+        "sound": "damp gears, rope slip, gulls wheeling, a bell a hair flat in heavy fog",
+        "smell": "wet stone, oil rag, old brass warmed by hands",
+        "light": "amber lamp halos that go oval when the bell is off-phase; dew beads on the bell face at dawn"
+      },
+      "danger": "thin place beneath the bell; bell misstrike can desynchronize nearby seams; slick stair treads in fog",
+      "firstSeen": "Ch.8",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Keystone housing mounted on a vibration-damped plinth in the sub-basement (see keystone_chamber).",
+        "Bram’s conduit collar taps City Works feeders; evidence seized after the climax.",
+        "Clapper wedges can alter phase by fractions; misuse risks hairline cracks over years.",
+        "Caretaker Carrow keeps a ring of keys; grudging ally when safety is at stake.",
+        "Public access hours end at dusk; festival exceptions create convenient noise cover.",
+        "Lamp halos around the tower read like a barometer—round when stable, oval when phase is wrong."
+      ]
+    },
+    {
+      "id": "keystone_chamber",
+      "name": "Clocktower Sub-Basement (Keystone Chamber)",
+      "type": "infrastructure",
+      "mood": "low, close, humming; the city’s breath in a room",
+      "senses": {
+        "sound": "a felt hum in teeth and fingertips, mantle tick cooling, distant bell through stone",
+        "smell": "hot dust, faint ozone when tampered-with, salt from the prism",
+        "light": "steady amber through a mica inspection slit; true when attuned, glare when forced"
+      },
+      "danger": "phase amplification if bell timing is wrong or external current is injected; heat spike if the prism is cracked",
+      "firstSeen": "Ch.18",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Cradle bolts checked before each operation; isolation pads must be intact.",
+        "Salt Prism seats facet-mark up; hairline crack noted during climax—raises operating temperature.",
+        "Vent Wheel quarter-clicks only; hunting for a lock creates resonance wobble.",
+        "Conduit collar grub screws hidden under a lacquered band; collar removal is evidence-handled.",
+        "Heartbeat cadence (Listener-only) overrides machine phase—canon method for city-scale bind.",
+        "Aftercare: lull cadence and sugar water; log overbinding symptoms."
+      ]
+    },
+    {
+      "id": "bell_stairs",
+      "name": "Bell Stairs & Catwalks",
+      "type": "infrastructure",
+      "mood": "steep, iron-narrow, echoing with each step",
+      "senses": {
+        "sound": "footfall doubled by wrong echo when phase slips; rope whisper; clapper thud in wood then bronze",
+        "smell": "rope tar, old oil, cold air from louvers",
+        "light": "knife-thin slats through louvers by day; lantern cones at night"
+      },
+      "danger": "vertigo during wrong-echo periods; falls; hearing shock if under the bell at strike",
+      "firstSeen": "Ch.18",
+      "lastSeen": "Ch.21",
+      "notes": [
+        "Rooke rehearses breath pacing on these steps; early ring executed here.",
+        "Tamsin’s cloth-wrapped wedges ride in a pocket; inserted quickly then retrieved post-event.",
+        "Catwalk screws are a generation old; don’t run.",
+        "Marked rest landings every 20 steps for rescue staging."
+      ]
+    },
+    {
+      "id": "library",
+      "name": "Greywater Public Library",
+      "type": "civic",
+      "mood": "orderly, watchful, a sanctuary of paper and brass",
+      "senses": {
+        "sound": "page rustle, pencil scratch, distant trolley bell layered under quiet",
+        "smell": "old paper, paste, oiled hinges, tea from the staff room",
+        "light": "frosted glass skylights; lamp cones precise over reading tables"
+      },
+      "danger": "slipping on polished floors during rain; rare stacks ladders",
+      "firstSeen": "Ch.2",
+      "lastSeen": "Ch.24",
+      "notes": [
+        "Ms. Kestrel’s domain; permits filed here; lamp-control blink box adjacent on Library Row.",
+        "Reading-room lanterns stored below; novice training occurs after hours.",
+        "Tilda Weir controls archive keys; felt-tag system by color.",
+        "Deep stacks contain the Pike Diary; access logged and countersigned.",
+        "Public neutrality maintained—arguments happen in whispers, decisions in writing."
+      ]
+    },
+    {
+      "id": "deep_stacks",
+      "name": "Library Rare Archives (Deep Stacks)",
+      "type": "archive",
+      "mood": "breathing quiet, dust motes drifting like thought",
+      "senses": {
+        "sound": "cloth on spines, the soft click of a lock, a far elevator rattle",
+        "smell": "paper lignin, leather soap, a ghost of lamp smoke in old bindings",
+        "light": "thin aisle lights, archivist lamps with green shades"
+      },
+      "danger": "ladder falls; dehydration if you forget time; restricted access violations have career costs",
+      "firstSeen": "Ch.11",
+      "lastSeen": "Ch.24",
+      "notes": [
+        "Pike Diary lives in an oilcloth wrapper; graphite drawings of the Keystone and cadence dots/dashes.",
+        "Stacks map sketched in pencil on the inside cover of a dictionary—Tilda’s private trick.",
+        "Humidity kept constant; chalk ghosts on book trucks from past demonstrations.",
+        "Kestrel’s signature required to move an item upstairs."
+      ]
+    },
+    {
+      "id": "warden_room",
+      "name": "Night Wardens’ Reading Room (Below Library)",
+      "type": "workspace",
+      "mood": "functional, lamp brass and chalk dust, camaraderie held together by tea",
+      "senses": {
+        "sound": "stamps thunking forms, quiet drills of lamp blink code, low talk",
+        "smell": "lamp oil, chalk, string twine, black tea",
+        "light": "steady cones over a map plate; shadows kept small on purpose"
+      },
+      "danger": "paper cuts, overbinding if someone ‘practices’ too long inside",
+      "firstSeen": "Ch.5",
+      "lastSeen": "Ch.24",
+      "notes": [
+        "Map plate with lamp numbers; silver keys checked out then back in.",
+        "Stamp kit: SEAM-SIGHTED, BOUND, SHADE-ACTIVITY, CIVILIAN-ASSIST.",
+        "Sugar-water flasks on a shelf; rule posted: no solo fieldwork for 24h after overbinding.",
+        "Route rota chalked on slate; erased and redrawn nightly."
+      ]
+    },
+    {
+      "id": "old_quay",
+      "name": "Old Quay (Harborfront)",
+      "type": "district",
+      "mood": "working waterfront with memory in iron",
+      "senses": {
+        "sound": "winch clanks, gulls, rope slap, the low beep of reversing carts",
+        "smell": "iodine, diesel, wet hemp, fried fish at noon",
+        "light": "lamps reflect in tide pools; halos bend in mist"
+      },
+      "danger": "slick algae stones; chain piles hide foot traps; level-2 seams along bollards in bad weather",
+      "firstSeen": "Ch.3",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Best early lesson ground: chevrons on railings point homeward, toward ascending street numbers.",
+        "Mooring rings act as strong anchors for lattices.",
+        "Festival boats amplify rhythm; manage crowds with whistle and tape.",
+        "Tide can surge across the lower stairs without warning on storm days."
+      ]
+    },
+    {
+      "id": "harbor_suds",
+      "name": "Harbor Suds Laundromat",
+      "type": "commercial",
+      "mood": "humdrum refuge where the wind sometimes breathes wrong",
+      "senses": {
+        "sound": "dryer drums, coin clink, sea wind in a vent like pages turning",
+        "smell": "soap powder, hot metal, sea damp",
+        "light": "buzzing fluorescents over amber spill from the street"
+      },
+      "danger": "vent acts as a level-2 seam under certain weather; loose cord hazards for kids",
+      "firstSeen": "Ch.3",
+      "lastSeen": "Ch.3",
+      "notes": [
+        "Ivy’s first field stall: salt spiral laid while Kestrel binds with a reading-room lantern.",
+        "Vent marked with a small chalk chevron pointing out—the ‘latch’ cadence scene.",
+        "Owner keeps a tin of salt near the till after the incident."
+      ]
+    },
+    {
+      "id": "promenade",
+      "name": "Promenade & Riverwalk",
+      "type": "waterfront",
+      "mood": "postcard-pretty edge where crowds gather and seams get ideas",
+      "senses": {
+        "sound": "busker chords, river slap, stroller wheels on boards, sugar stalls calling",
+        "smell": "fried dough, brine, sunscreen in summer",
+        "light": "evening lamps in a string; halos thin when wind shifts upriver"
+      },
+      "danger": "low parapet invites leaning; level-3 pulls during festivals if counters are down; pickpockets during crowd surges",
+      "firstSeen": "Ch.9",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Chevron lattices chalked on railings redistribute pull toward proper anchors.",
+        "Rooke’s rescue of a teen here marks his first public courage.",
+        "Busker rhythms can either stabilize (steady 3) or agitate (uneven drum loops).",
+        "Best public demo site after the inquiry—for teaching ‘homeward’ without spooking anyone."
+      ]
+    },
+    {
+      "id": "glaziers_tunnel",
+      "name": "Glazier’s Tunnel",
+      "type": "tunnel",
+      "mood": "disused spur with glass shadows and echoes that arrive a breath before you",
+      "senses": {
+        "sound": "drips counting time wrong, boot scuff in chorus, distant trolley carried through brick",
+        "smell": "cold brine, mildew, dust from old mirror backing",
+        "light": "lantern halos multiply in glass; mirror corridors make illusions of safety"
+      },
+      "danger": "shades proliferate if startled; mirror shards; ankle-twist rubble",
+      "firstSeen": "Ch.15",
+      "lastSeen": "Ch.15",
+      "notes": [
+        "Source of stacked mirror panes used to build looped reflection corridors.",
+        "Loop pattern with waltz cadence calms shades into settling rather than splitting.",
+        "A teaching ground for ‘don’t swing metal at haze’—it only scatters and reconverges."
+      ]
+    },
+    {
+      "id": "tide_network",
+      "name": "Tide Tunnels & Culverts (Network)",
+      "type": "infrastructure",
+      "mood": "arteries of the city where the Veil thins along the pulse of water",
+      "senses": {
+        "sound": "pump thrum, tide whoosh, the hollow talk of grates",
+        "smell": "wet stone, river silt, a coppery tang near power conduits",
+        "light": "patches from street grates above; lantern cones refracted by damp"
+      },
+      "danger": "king tide surges; low-oxygen pockets; level-4 feeding seams in neglected branches",
+      "firstSeen": "Ch.14",
+      "lastSeen": "Ch.21",
+      "notes": [
+        "Chalk holds better on rough brick than on painted surfaces; scrape first.",
+        "Chevron sequences must point toward known exits; getting this wrong leads people deeper.",
+        "Route keys (silver) open most maintenance doors; gold keys for sub-basement links.",
+        "Tap code resonates through rails; Ivy rides it to find phase."
+      ]
+    },
+    {
+      "id": "city_works",
+      "name": "City Works Junction (Underworks)",
+      "type": "infrastructure",
+      "mood": "workaday cathedral of valves and conduit, honest noise unless someone lies to it",
+      "senses": {
+        "sound": "fan drone, transformer hum, valve chatter, trolley resonance carried down",
+        "smell": "ozone, oil, iron filings, damp concrete",
+        "light": "inspection lamps that flicker slightly when load shifts; harsh white over amber spill from service bays"
+      },
+      "danger": "electrical shock; forced resonance if a collar is installed; confusing geometry for untrained people",
+      "firstSeen": "Ch.14",
+      "lastSeen": "Ch.16",
+      "notes": [
+        "Conduit collar installed by Bram’s engineer; ceramic and brass; invoices traced to shell firms.",
+        "Evidence bagged and signed after removal; a chain-of-custody success that flips Mara.",
+        "Sound carries oddly—wrong-echo pockets near the step-down transformers.",
+        "Facilities staff sympathetic but bound by rules; Wardens travel with a signed work order when possible."
+      ]
+    },
+    {
+      "id": "market_ward",
+      "name": "Market Ward Arcade",
+      "type": "district",
+      "mood": "bustle under cover, a dozen trades in friendly competition",
+      "senses": {
+        "sound": "stall calls, watch ticking at a repair bench, rain on the tin roof",
+        "smell": "apples, solder smoke, leather oil, coffee",
+        "light": "skylight stripes across polished concrete; lamp reflection in display glass"
+      },
+      "danger": "slick floors; crowd surge on holidays; level-2 wakes at the end of old rails under the floor",
+      "firstSeen": "Ch.6",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Best place to source mantles, mirror clips, chalk by the case.",
+        "Where rent pressure plays on Tamsin’s family—stakes for her apprenticeship arc.",
+        "Warden presence is casual—no uniforms, just smart eyes and good hands."
+      ]
+    },
+    {
+      "id": "tamsin_shop",
+      "name": "Park & Daughter Repairs (Tamsin’s Shop)",
+      "type": "commercial",
+      "mood": "organized chaos; every drawer a solution waiting for a problem",
+      "senses": {
+        "sound": "tiny drawers sliding, solder hiss, a spring ping skittering across the floor",
+        "smell": "flux, hot metal, oiled wood, tea gone cold",
+        "light": "task lamps; magnifier halo makes moons in pupils"
+      },
+      "danger": "burns; cuts; improvised prototypes that bite back",
+      "firstSeen": "Ch.6",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Clapper wedges carved here; vent wheel practice using a stripped lantern body.",
+        "Ledger with parts debt—gives emotional weight to her apprenticeship win.",
+        "Back door opens onto an alley where fog pools and sound carries strangely."
+      ]
+    },
+    {
+      "id": "rowhouse_lane",
+      "name": "Rowhouse Lane (Aunt June’s Street)",
+      "type": "residential",
+      "mood": "lived-in, stoop-quiet, watchful neighbors and warm kitchens",
+      "senses": {
+        "sound": "kettle hiss, quiet radios, a door chain knocking once in windless air",
+        "smell": "soap, stew, salt kept in a tea tin by the door",
+        "light": "window squares on wet pavement, door lamps turned low after ten"
+      },
+      "danger": "slick stoops; occasional level-1 hairlines at transoms in damp cold",
+      "firstSeen": "Ch.1",
+      "lastSeen": "Ch.24",
+      "notes": [
+        "Ivy finds the brass transit token embedded in a cracked tile of the doorframe.",
+        "June’s threshold salt becomes a visual motif for boundary and choice.",
+        "Neighbors notice patterns; gossip is a safety network if you listen kindly."
+      ]
+    },
+    {
+      "id": "founders_green",
+      "name": "Founders’ Green & Parade Route",
+      "type": "civic",
+      "mood": "public pride under bunting; spectacle with hidden logistics",
+      "senses": {
+        "sound": "band rehearsals, scaffolding clanks, fireworks test pops, PA checks",
+        "smell": "trampled grass, hot bulbs, sugar smoke from practice carts",
+        "light": "floods for the stage, strings of bulbs over vendor rows"
+      },
+      "danger": "crowd crush points; temporary structures; level-2 wakes when drums are uneven",
+      "firstSeen": "Ch.10",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Bram’s speeches pivot from nostalgia to control; press lines set here.",
+        "Wardens prefer to post at lamp rows where blink code can be discreetly used.",
+        "Good place to show public stakes and political theatre side-by-side."
+      ]
+    },
+    {
+      "id": "council_hall",
+      "name": "Council Hall & Chambers",
+      "type": "civic",
+      "mood": "polished, echoing, designed to impress and tire",
+      "senses": {
+        "sound": "heel click, microphone hum, restrained coughs, shutters of cameras",
+        "smell": "floor polish, paper, recycled air",
+        "light": "bright overheads that make everyone look a little unreal"
+      },
+      "danger": "policy turned into cudgel; reputations nicked by phrasing; zero patience for ‘folklore’ without paper",
+      "firstSeen": "Ch.10",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Bram frames Wardens as vigilantes; detention orders drafted in back offices.",
+        "Mara Quill’s desk a crossroads of memos, calendars, and invoices—later a source of truth.",
+        "No chalk permitted on floors; paper rules everything here."
+      ]
+    },
+    {
+      "id": "police_house",
+      "name": "Old Quarter Police House",
+      "type": "civic",
+      "mood": "functional, slightly apologetic, coffee and tired jokes",
+      "senses": {
+        "sound": "radio murmur, chain fence rattle in the wind, keyboard clack",
+        "smell": "stale coffee, wet wool, printer ozone",
+        "light": "cold fluorescents, one lamp with a warm bulb at the front desk"
+      },
+      "danger": "policy-driven detentions during festival; limited understanding of seams",
+      "firstSeen": "Ch.13",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Sergeant Morrow follows orders until the paperwork turns; not a villain, a system man.",
+        "Post-inquiry, a liaison noticeboard includes Warden contact for ‘odd lamps.’"
+      ]
+    },
+    {
+      "id": "ferry_landing",
+      "name": "Ferry Landing",
+      "type": "transit",
+      "mood": "wind-swept platform where departures feel like decisions",
+      "senses": {
+        "sound": "foghorn, gulls, rope groan on cleats, conductor calls",
+        "smell": "diesel, brine, tarred planks",
+        "light": "lamp cones blown into commas by wind; water throws reflections upward"
+      },
+      "danger": "gusts strong enough to pull; occasional level-2 wakes when foghorn rhythm doubles with bell",
+      "firstSeen": "Ch.4",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Good dialogue spot; moving light across faces makes truth look truer.",
+        "Ferry horns often stabilize seams—their long, even tones calm crowds."
+      ]
+    },
+    {
+      "id": "trolley_depot",
+      "name": "Trolley Depot & Overhead Yard",
+      "type": "transit",
+      "mood": "mechanical lullaby when the city sleeps, sparks at switches when it wakes",
+      "senses": {
+        "sound": "wheel grind, bell chime at test speed, transformer hum",
+        "smell": "grease, hot metal, dust baked into paint",
+        "light": "blue-white arcs at pantograph contact; dim bay lamps otherwise"
+      },
+      "danger": "electrical arcs; resonance rides copper during storms",
+      "firstSeen": "Ch.7",
+      "lastSeen": "Ch.21",
+      "notes": [
+        "Ivy uses line hum to triangulate a waking seam near the river in mid-book.",
+        "Depot foreman sympathetic; will flip breakers for a five-minute window if asked right."
+      ]
+    },
+    {
+      "id": "lamp_yard",
+      "name": "Lamp Yard & Control Box (Library Row)",
+      "type": "infrastructure",
+      "mood": "fenced utility with an air of secrets it has no time for",
+      "senses": {
+        "sound": "contactors clacking, relay ticks, a cat knocking something off a coil at night",
+        "smell": "ozone, dust on bakelite, rain on warm metal",
+        "light": "pilot lights wink; rows of numbered plates stacked like books"
+      },
+      "danger": "finger loss if careless; public panic if blink code overused",
+      "firstSeen": "Ch.5",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Blink code (short–long–long–short) initiates; Kestrel’s playground for discretion.",
+        "Numbered plate racks match map plates; Cole’s copied plate caused the coverage gap."
+      ]
+    },
+    {
+      "id": "pike_steps",
+      "name": "Pike Steps",
+      "type": "passage",
+      "mood": "narrow stone spine where the past steps first",
+      "senses": {
+        "sound": "footsteps that sometimes answer before you move, drain whisper",
+        "smell": "lichen and stone, stale beer from a side door",
+        "light": "thin above, broader below; lantern exaggerates angles"
+      },
+      "danger": "trip hazard; wrong echo causes vertigo; petty theft if alone at night",
+      "firstSeen": "Ch.8",
+      "lastSeen": "Ch.20",
+      "notes": [
+        "Practice ground for recognizing wrong echo vs. ordinary acoustics.",
+        "A fast route from Library Row to Clock Quarter for people who know it."
+      ]
+    },
+    {
+      "id": "breakwater",
+      "name": "Breakwater & Lighthouse",
+      "type": "waterfront",
+      "mood": "edge-of-world calm that can turn in a breath",
+      "senses": {
+        "sound": "rollers thudding stone, a gull’s solitary cry, wind wires singing",
+        "smell": "salt spray, kelp, damp rope",
+        "light": "lighthouse sweep that paints the fog; stars on rare clear nights"
+      },
+      "danger": "rogue waves; level-2 hairlines near the base when wind stacks against tide",
+      "firstSeen": "Ch.4",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Sea rhythm generally stabilizes seams—good recovery walk site.",
+        "The city looks small from here; use for reflective beats without sentimentality."
+      ]
+    },
+    {
+      "id": "salt_marsh",
+      "name": "South Salt Marsh",
+      "type": "natural",
+      "mood": "wide breathing space where the city’s pulse thins out",
+      "senses": {
+        "sound": "reeds hissing, distant road, insects in chorus",
+        "smell": "mud, brine, wild thyme crushed under heel",
+        "light": "flat silver on overcast; blinding glitter on sun breaks"
+      },
+      "danger": "sucking mud; disorientation in fog; rare seams along old ditches when pumps run long",
+      "firstSeen": "Ch.6",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Wardens rarely work here; good place to show contrast with city density.",
+        "Bird flocks create stabilizing patterns—living cadence motif outside human infrastructure."
+      ]
+    },
+    {
+      "id": "bandstand",
+      "name": "Promenade Bandstand",
+      "type": "venue",
+      "mood": "brass and bunting, a public throat for joy or fear",
+      "senses": {
+        "sound": "trumpet warmups, amplifier hiss, crowd swell",
+        "smell": "spilled lemonade, popcorn salt, canvas",
+        "light": "string bulbs, stage floods, phone screens like minnows"
+      },
+      "danger": "feedback harmonics can agitate waking seams; crowd crush risk at steps",
+      "firstSeen": "Ch.9",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Steady 3-count songs help; uneven drum loops hinder.",
+        "Post-inquiry, the band gets a ‘Warden-friendly’ setlist card for emergencies."
+      ]
+    },
+    {
+      "id": "wick_wheel",
+      "name": "Wick & Wheel (Lamp Shop)",
+      "type": "commercial",
+      "mood": "counter of small salvations; brass that remembers being held",
+      "senses": {
+        "sound": "drawer runners, bell over door, polite saw rasping on a mantle frame",
+        "smell": "brass polish, cardboard, faint lamp oil",
+        "light": "display lamps in tidy ranks; glass shades in a backlit cabinet"
+      },
+      "danger": "none beyond cuts; occasional counterfeit mantles from out-of-town wholesalers",
+      "firstSeen": "Ch.6",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Source for genuine bell-metal mantles and mica panes.",
+        "Shopkeeper knows every lamppost’s personality and who maintains it."
+      ]
+    },
+    {
+      "id": "noticeboard_row",
+      "name": "Noticeboard Row",
+      "type": "civic",
+      "mood": "the city talking to itself in paper",
+      "senses": {
+        "sound": "staple guns, murmured reading, a page tearing neatly",
+        "smell": "paste, damp cardstock, coffee from a nearby cart",
+        "light": "streetlamps keep the boards legible at dusk; posters fade to soft pastels"
+      },
+      "danger": "none beyond arguments; misinformation spreads if unchallenged",
+      "firstSeen": "Ch.6",
+      "lastSeen": "Ch.23",
+      "notes": [
+        "Warden safety notices get prime placement after the inquiry.",
+        "A good passive way to show public mood shifting across chapters."
+      ]
+    },
+    {
+      "id": "founders_statue",
+      "name": "Founders’ Statue Plaza",
+      "type": "landmark",
+      "mood": "bronze certainty amid changing banners",
+      "senses": {
+        "sound": "pigeon wings, shoe scuff, camera shutters",
+        "smell": "pigeons, metal warmed by sun, street pretzels",
+        "light": "shadow lines from raised arms; bunting throws colored shade"
+      },
+      "danger": "kids climb the plinth; minor falls; level-1 hairlines along plinth seams during drums",
+      "firstSeen": "Ch.10",
+      "lastSeen": "Ch.22",
+      "notes": [
+        "Public vows and speeches happen here; Bram’s best photo ops staged at this angle.",
+        "A chalk loop once drawn discretely around the plinth base to settle a hairline during rehearsal."
+      ]
+    },
+    {
+      "id": "river_bridge",
+      "name": "Trolley River Bridge",
+      "type": "transit",
+      "mood": "suspension of breath over moving water",
+      "senses": {
+        "sound": "trucks below, trolley bell above, wind chord over stay cables",
+        "smell": "river spray, sun on tar",
+        "light": "lattice shadows; lamps spaced for maintenance crews"
+      },
+      "danger": "resonance stacking during high wind; electrical arc risk under certain humidity",
+      "firstSeen": "Ch.7",
+      "lastSeen": "Ch.21",
+      "notes": [
+        "Ivy listens along the copper for seam beats; bridge serves as a diagnostic instrument.",
+        "Chevron marks renewed monthly on expansion joints—subtle but effective."
+      ]
+    }
+  ]
+}
