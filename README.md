@@ -12,6 +12,13 @@ book/           # Final manuscript files
 ├─ ebook.css    # E-book styling
 └─ assets/      # Cover, images, etc.
 
+manuscript/     # Working manuscript files
+├─ active/      # Current 3-4 chapters (keep in Cursor context)
+├─ completed/   # Archived chapters (reference on demand)
+├─ drafts/      # Work in progress
+├─ session_template.md
+└─ context_refresh_protocol.md
+
 rules/          # Writing rules and prompts
 ├─ prompts/     # AI generation prompts
 ├─ pov_rules.md
@@ -22,11 +29,14 @@ data/           # Canon and continuity
 ├─ characters.json
 ├─ locations.json
 ├─ continuity_cards.jsonl
-└─ banned_phrases.json
+├─ style_lexicon.json
+└─ timeline.json
 
 bible/          # Story bible and worldbuilding
-├─ story_bible.md
 ├─ magic_rules.md
+├─ props_artifacts.md
+├─ setting_catalogue.md
+├─ plot_faq.md
 └─ symbolism_motifs.md
 
 scripts/        # Build and utility scripts
@@ -36,11 +46,20 @@ outline/        # Plot outlines and beat sheets
 
 ## Workflow
 
-1. **Generate Chapter**: Use `rules/prompts/chapter_drafter.md`
-2. **Critic Pass**: Use `rules/prompts/critic_pass.md`
-3. **Fixer Pass**: Use `rules/prompts/fixer_pass.md`
-4. **Update Continuity**: Add CARD JSON to `data/continuity_cards.jsonl`
-5. **Repeat**: Every 3-4 chapters, regenerate running summary
+### **Daily Writing Session**
+1. **Session Start**: Fill out `manuscript/session_template.md`
+2. **Generate Chapter**: Use `rules/prompts/chapter_drafter.md`
+3. **Critic Pass**: Use `rules/prompts/critic_pass.md`
+4. **Fixer Pass**: Use `rules/prompts/fixer_pass.md`
+5. **Update Continuity**: Add CARD JSON to `data/continuity_cards.jsonl`
+6. **Session End**: Archive chapter, update running summary
+
+### **Context Management**
+- **Keep 3-4 chapters** in `manuscript/active/` (Cursor context)
+- **Archive completed chapters** to `manuscript/completed/`
+- **Update running summary** after each chapter
+- **Reference outlines** from `outline/chapter_outlines.md`
+- **Follow context refresh protocol** in `manuscript/context_refresh_protocol.md`
 
 ## Word Count Plan
 
@@ -55,6 +74,35 @@ outline/        # Plot outlines and beat sheets
 - **Style**: Grade 6-7 reading level, concrete sensory details
 - **No**: Purple prose, em dashes, emojis, head-jumping
 
-## Export
+## **Context Management**
+
+### **Why This System Works**
+- **Active context** stays manageable (3-4 chapters max)
+- **Running summary** provides living memory
+- **Archived chapters** available when needed
+- **Canon files** always pinned for consistency
+
+### **Daily Session Flow**
+1. **Open "Lamplighter — Drafting" chat** (keep this thread open)
+2. **Check running summary** for current state
+3. **Fill out session template** with context
+4. **Write chapter** using enhanced prompts
+5. **Archive completed chapter** to completed/
+6. **Update running summary** with new facts
+7. **Move next chapter** to active/
+
+### **Context Refresh Commands**
+```bash
+# See what's currently active
+ls manuscript/active/
+
+# Archive completed chapter
+mv manuscript/active/ch01_*.md manuscript/completed/
+
+# Activate next chapter
+mv manuscript/drafts/ch02_*.md manuscript/active/
+```
+
+## **Export**
 
 Final manuscript will be exported to EPUB3 format for e-book distribution.

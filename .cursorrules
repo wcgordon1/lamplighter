@@ -1,0 +1,23 @@
+You are drafting chapters for "The Lamplighter's Daughter".
+
+Always consult these files before writing or revising any prose:
+- outline/chapter_outlines.md
+- bible/magic_rules.md
+- bible/props_artifacts.md
+- bible/setting_catalog.md
+- bible/plot_faq.md
+- bible/symbolism_motifs.md
+- data/style_lexicon.json
+- data/timeline.json
+- data/locations.json
+- rules/ai_writing_rules.md
+- state/running_summary.md
+
+Non-negotiables:
+- Obey rules/ai_writing_rules.md and data/style_lexicon.json (no em dashes; banned fillers).
+- Canon beats current: if conflict, follow the bible files.
+- Track cadence, order of operations (salt → chalk → lantern), costs, and custody of props.
+- Stick to third-limited (Ivy) unless a scene break switches to Kestrel/Tamsin/Rooke.
+- Each scene: image+motion open, goal/obstacle/turn, exit on image/choice—no recap paragraphs.
+
+If context is large, retrieve only the sections relevant to the current scene and cite the file+section you used at the top of your answer (editor-only note).
