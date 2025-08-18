@@ -29,7 +29,7 @@ The blink was new, added during the infrastructure review as a visible signal th
 
 Ivy had suggested the feature during one of the Infrastructure Review Committee meetings, couching it in technical language about "visible system status indicators" and "preventive maintenance protocols." The committee had approved it unanimously, pleased with the practical benefits of early problem detection. None of them needed to know that the real purpose was to provide a daily reminder that the city's protections were active and functioning.
 
-Ivy paused at the corner of Rowhouse Lane, watching the lamps complete their startup sequence with the satisfaction of someone who understood what properly functioning infrastructure looked like. The halos were perfectly round, the light steady and amber, the familiar sight that marked the transition from day to night in a city whose boundaries held firm.
+Ivy paused at the corner of Rowhouse Lane, watching the lamps complete their startup sequence with the satisfaction of someone who understood what properly functioning infrastructure looked like. The familiar sight of evening's arrival in a city whose boundaries held firm.
 
 The brass token at her throat was warm against her skin, responding to a city at peace with its own rhythms. No cold burn of crisis, no urgent heat of emergency response. Just the steady warmth that spoke of work done well and duty fulfilled.
 
@@ -39,7 +39,7 @@ The reading room was quiet at this hour, most of the day's patrons having headed
 
 Kestrel emerged from behind the circulation desk, carrying the envelope with the careful handling it deserved. The paper was cream-colored and official, sealed with the City of Greywater emblem and marked with the kind of stamps and signatures that gave documents legal weight.
 
-"Your route," Kestrel said, offering the envelope with a slight smile. "Official assignment, renewable annually, with full municipal recognition of your authority to monitor and respond to infrastructure anomalies within the specified area."
+"Your route," Kestrel said, offering the envelope with a slight smile. "Official assignment, renewable annually, with full municipal recognition of your authority to monitor and respond to infrastructure anomalies within the specified area." She paused, watching Ivy's expression. "Routes aren't glamour. They're maintenance. But they keep people alive."
 
 Ivy opened the envelope carefully, revealing a card printed on heavy stock paper. At the top, her name: "Ivy Merrin, Authorized Route Warden." Below that, a list of lamp numbers that traced a path through the old quarter like a quiet oath.
 
@@ -61,7 +61,7 @@ They walked together toward Rowhouse Lane, where Aunt June was waiting with her 
 
 "Your mother's letters," June said, offering the packet with hands that shook slightly. "I kept them sealed because I thought... because I hoped that knowing her through my memories would be enough. But you're not a child anymore, and the choice should be yours."
 
-Ivy took the letters, feeling their weight in her hands. Three envelopes, each one addressed in her mother's handwriting to "My daughter, when she's ready." The paper was soft with age, the ink faded but still legible, the kind of correspondence that held answers to questions she'd been carrying since childhood.
+Ivy took the letters, feeling their weight in her hands. Three envelopes, each one addressed in her mother's handwriting to "My daughter, when she's ready." The paper was soft with age, the ink faded but still legible, and when she lifted them closer, they carried the faint scent of salt air and pressed flowers. The handwriting sloped the same way hers did when she was tired, the kind of correspondence that held answers to questions she'd been carrying since childhood.
 
 For a moment, she considered opening them immediately. Here, in the kitchen where she'd first learned about threshold salt and family protection, with June's blessing and the soft light from the stove casting everything in warm shadow. The temptation to know, to understand, to fill the gaps that had shaped so much of her journey to this moment.
 
@@ -79,11 +79,11 @@ The ordinary business of people whose work had saved their community and who wer
 
 As full darkness settled over the city, Ivy excused herself for her first official route patrol. The card in her pocket gave her the authority she'd been exercising informally for weeks, but the real authorization came from understanding what the work meant and choosing to do it anyway.
 
-She started at the library, where Button offered a professional nod before returning to his evening duties. Lamp 47 burned steady and true, its halo perfectly round, its light casting clean shadows that spoke of proper maintenance and careful tuning.
+She started at the library, where Button offered a professional nod before returning to his evening duties. Lamp 47 cast clean shadows that spoke of proper maintenance and careful tuning.
 
 From there, she walked the circuit that would become as familiar as her own heartbeat: across Founders' Green where bunting had been replaced by ordinary municipal notices, past the ferry landing where the horn sounded its evening departure with reliable precision, along the promenade where couples walked hand-in-hand under lights that no longer flickered with uncertainty.
 
-Each lamp post along her route stood ready for whatever problems the night might bring. Each halo sat steady as a coin, round and consistent and reassuring. The infrastructure of a city that worked properly, maintained by people who understood both its visible and invisible needs.
+Each lamp post along her route stood ready for whatever problems the night might bring. The infrastructure of a city that worked properly, maintained by people who understood both its visible and invisible needs.
 
 At the Pike Steps, she paused to listen for wrong echoes, hearing only the normal acoustics of stone and metal and the distant sound of trolley wheels on properly maintained track. The danger that had once lurked here was gone, replaced by the simple architecture of a stairway that connected one street to another without supernatural complications. She remembered her first time climbing these steps, the disorientation of echoes that arrived before sound, the way the wrongness had made her skin crawl with unidentified dread.
 
@@ -111,11 +111,11 @@ Ivy climbed the steps to June's house, fishing for her key while the brass token
 
 Inside, she hung her jacket on the peg by the door, feeling the weight of the route card and the letters shifting in their respective pockets. Official recognition and personal history, duty and choice, the future and the past all carried forward together into whatever tomorrow might bring.
 
-The lamp outside the kitchen window burned steady and true, its halo perfectly round, its light reaching just far enough to illuminate the small garden where June grew herbs for cooking and flowers for the simple pleasure of watching things grow.
+The lamp outside the kitchen window reached just far enough to illuminate the small garden where June grew herbs for cooking and flowers for the simple pleasure of watching things grow.
 
 Steady light for ordinary life, in a city whose extraordinary protections remained hidden beneath the surface of everyday routine. The way it should be, the way it would continue to be, as long as people chose to do the work that kept the boundaries strong.
 
-Ivy touched the brass token through her shirt, feeling its steady warmth, and settled in for the evening with the calm satisfaction of someone who had found her place in the world and chosen to keep it.
+Ivy touched the brass token through her shirt, feeling its steady warmth, and settled in for the evening with the calm satisfaction of someone who had found her place in the world and chosen to keep it. The work would never be finished, but as long as the lamps burned steady, she would be there to keep watch.
 
 ===CARD===
 {
