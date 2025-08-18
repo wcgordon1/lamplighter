@@ -47,12 +47,12 @@ outline/        # Plot outlines and beat sheets
 ## Workflow
 
 ### **Daily Writing Session**
-1. **Session Start**: Fill out `manuscript/session_template.md`
-2. **Generate Chapter**: Use `rules/prompts/chapter_drafter.md`
-3. **Critic Pass**: Use `rules/prompts/critic_pass.md`
-4. **Fixer Pass**: Use `rules/prompts/fixer_pass.md`
-5. **Update Continuity**: Add CARD JSON to `data/continuity_cards.jsonl`
-6. **Session End**: Archive chapter, update running summary
+1. **Session Start**: Run `./scripts/whats_next.sh` to see today's target
+2. **Generate Chapter**: Run `./scripts/generate_chapter.sh [number]` to create chapter file
+3. **Write Chapter**: Tell AI: "Write Chapter [X] using pinned canon and timeline.json"
+4. **Critic Pass**: Use `rules/prompts/critic_pass.md`
+5. **Fixer Pass**: Use `rules/prompts/fixer_pass.md`
+6. **Session End**: Run `./scripts/archive_chapter.sh [number]` to archive
 
 ### **Context Management**
 - **Keep 3-4 chapters** in `manuscript/active/` (Cursor context)
@@ -84,23 +84,25 @@ outline/        # Plot outlines and beat sheets
 
 ### **Daily Session Flow**
 1. **Open "Lamplighter — Drafting" chat** (keep this thread open)
-2. **Check running summary** for current state
-3. **Fill out session template** with context
-4. **Write chapter** using enhanced prompts
-5. **Archive completed chapter** to completed/
-6. **Update running summary** with new facts
-7. **Move next chapter** to active/
+2. **Run `./scripts/whats_next.sh`** to see today's target
+3. **Run `./scripts/generate_chapter.sh [X]`** to create chapter file
+4. **Tell AI** to write the chapter using pinned canon
+5. **Run `./scripts/archive_chapter.sh [X]`** when complete
+6. **AI automatically** references timeline.json and all canon files
 
 ### **Context Refresh Commands**
 ```bash
-# See what's currently active
+# See what to write today
+./scripts/whats_next.sh
+
+# Generate chapter file
+./scripts/generate_chapter.sh [number]
+
+# Archive when done
+./scripts/archive_chapter.sh [number]
+
+# Check what's active
 ls manuscript/active/
-
-# Archive completed chapter
-mv manuscript/active/ch01_*.md manuscript/completed/
-
-# Activate next chapter
-mv manuscript/drafts/ch02_*.md manuscript/active/
 ```
 
 ## **Export**
