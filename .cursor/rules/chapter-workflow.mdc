@@ -1,0 +1,34 @@
+---
+description: Chapter drafting workflow and requirements
+globs: ["manuscript/active/**/*"]
+alwaysApply: false
+---
+
+# Chapter Drafting Workflow
+
+## YAML Frontmatter Requirements
+Every chapter must include proper frontmatter from timeline.json:
+- chapter, title, pov, day, time
+- locations, motifs, seam_level, cadence_used
+- props_in_play, goals, risks, change
+
+## Word Count Targets
+- Use `scripts/word_count_target.sh [chapter_num]` to check targets
+- Target word counts are specified in timeline.json
+- Count PROSE ONLY, excluding YAML frontmatter and ===CARD=== sections
+- Aim within 100 words of target
+
+## Continuity Card Requirements
+End each chapter with ===CARD=== JSON containing:
+- chapter, timeline, onstage, locations
+- seam_level, cadence_used, cadence_counts
+- props_moved (track all prop custody changes)
+- new_facts (canon elements established this chapter)
+- callbacks, open_threads, next_hooks
+
+## New Facts Integration
+1. Before writing, extract all `new_facts` from previous chapter cards
+2. These are binding canon - reference them appropriately
+3. Magic system details, character behaviors, world rules established in `new_facts` cannot be contradicted
+
+@data/timeline.json

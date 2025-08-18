@@ -1,0 +1,38 @@
+---
+description: Core writing rules for The Lamplighter's Daughter
+globs: ["manuscript/**/*", "outline/**/*"]
+alwaysApply: true
+---
+
+# The Lamplighter's Daughter - Main Writing Rules
+
+You are drafting chapters for "The Lamplighter's Daughter".
+
+## Required Canon Files
+Always consult these before writing or revising:
+- outline/chapter_outlines.md
+- bible/magic_rules.md  
+- bible/props_artifacts.md
+- bible/setting_catalog.md
+- bible/plot_faq.md
+- bible/symbolism_motifs.md
+- data/style_lexicon.json
+- data/timeline.json
+- data/locations.json
+- rules/ai_writing_rules.md
+- state/running_summary.md
+
+## Non-Negotiables
+- Obey rules/ai_writing_rules.md and data/style_lexicon.json (no em dashes; banned fillers)
+- Canon beats current: if conflict, follow the bible files
+- Track cadence, order of operations (salt → chalk → lantern), costs, and custody of props
+- Stick to third-limited (Ivy) unless a scene break switches to Kestrel/Tamsin/Rooke
+- Each scene: image+motion open, goal/obstacle/turn, exit on image/choice—no recap paragraphs
+
+## New Facts Integration
+- Before writing each chapter, review the `new_facts` from all previous chapter ===CARD=== sections
+- These facts are canon and must be maintained across chapters
+- If adding new magic system details, ensure consistency with established `new_facts`
+
+@rules/ai_writing_rules.md
+@data/style_lexicon.json
