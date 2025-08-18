@@ -1,0 +1,45 @@
+---
+description: Strict canon protection and fact verification rules
+globs: ["manuscript/**/*"]
+alwaysApply: true
+---
+
+# Canon Protection Rules
+
+## CRITICAL: NO HALLUCINATION POLICY
+**You MUST NOT invent, change, or contradict established facts.**
+
+## Before Writing ANY Chapter:
+1. **Run `./scripts/extract_new_facts.sh`** - Review ALL established canon
+2. **Check timeline.json** - Verify day, time, locations, motifs
+3. **Read relevant outline section** - Follow beats exactly as written
+4. **Verify props custody** - Track all items from previous chapters
+
+## Forbidden Actions:
+- ❌ Adding new magic rules not in bible/magic_rules.md
+- ❌ Changing character personalities from data/characters.json  
+- ❌ Inventing new locations not in data/locations.json
+- ❌ Contradicting any `new_facts` from chapter cards
+- ❌ Changing established timelines or prop movements
+- ❌ Adding dialogue or motivations not implied by outline
+
+## Required Actions:
+- ✅ Reference established facts explicitly in narrative
+- ✅ Build on existing character development only
+- ✅ Use only magic system elements from bible files
+- ✅ Follow exact order of operations: salt → chalk → lantern
+- ✅ Maintain prop custody chains established in previous chapters
+
+## Verification Commands:
+```bash
+# Before writing, ALWAYS run:
+./scripts/extract_new_facts.sh          # Check established canon
+./scripts/word_count_target.sh [N]      # Verify word targets
+```
+
+## If Uncertain:
+- ASK the user rather than inventing
+- Reference the specific bible file or data source
+- Quote the relevant canon before proceeding
+
+**REMEMBER: Canon beats creativity. Follow established facts exactly.**

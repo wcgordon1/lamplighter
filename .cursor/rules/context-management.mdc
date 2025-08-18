@@ -1,0 +1,83 @@
+---
+description: Context management and chat cycling protocols for long-form writing
+globs: ["**/*"]
+alwaysApply: true
+---
+
+# Context Management Protocol
+
+## Current Chat Status
+**This chat has processed 4 chapters and multiple system updates.**
+**Context is approaching limits. Plan for cycling soon.**
+
+## Essential Files for New Chat Context
+When starting a fresh chat, IMMEDIATELY reference these files:
+
+### **Core Canon (Pin These)**
+- `outline/chapter_outlines.md` - All chapter beats and structure
+- `bible/magic_rules.md` - Magic system rules and order of operations
+- `bible/props_artifacts.md` - Props tracking and custody rules
+- `bible/setting_catalog.md` - Locations and environmental details
+- `bible/plot_faq.md` - Plot logic and character motivations
+- `bible/symbolism_motifs.md` - Thematic elements and callbacks
+- `data/style_lexicon.json` - Writing style rules and banned phrases
+- `data/timeline.json` - Chapter timing, word counts, progression
+- `data/locations.json` - City geography and district details
+- `data/characters.json` - Character voices, arcs, relationships
+- `rules/ai_writing_rules.md` - Detailed prose guidelines
+- `state/running_summary.md` - Project status and context
+
+### **Critical Scripts (Test These)**
+```bash
+# Verify scripts work in new environment:
+./scripts/extract_new_facts.sh          # Shows established canon
+./scripts/word_count_target.sh 5        # Next chapter target
+./scripts/whats_next.sh                 # Next chapter details
+ls .cursor/rules/                       # Confirm new rules system
+```
+
+## Chat Cycling Checklist
+
+### **Before Starting New Chat:**
+1. ✅ Commit all current work to git
+2. ✅ Run `./scripts/extract_new_facts.sh` and save output
+3. ✅ Check current chapter count and next target
+4. ✅ Update `state/running_summary.md` with progress
+
+### **First Actions in New Chat:**
+1. **Test Context**: Ask AI to list the pinned files and confirm access
+2. **Verify Scripts**: Run `./scripts/whats_next.sh` to confirm functionality  
+3. **Extract Canon**: Run `./scripts/extract_new_facts.sh` for established facts
+4. **Check Rules**: Confirm `.cursor/rules/` are loading properly
+5. **State Goal**: "Continue writing from Chapter X, following all established canon"
+
+### **Context Refresh Commands:**
+```bash
+# Quick status check
+./scripts/whats_next.sh
+
+# Established canon review  
+./scripts/extract_new_facts.sh
+
+# Current word counts
+ls manuscript/active/ && wc -w manuscript/active/ch*.md
+
+# Git status
+git log --oneline -5
+```
+
+## Warning Signs for Context Cycling:
+- 🚨 AI forgetting established character details
+- 🚨 Tool calls failing or timing out frequently  
+- 🚨 Responses becoming slower or less coherent
+- 🚨 AI contradicting recently established facts
+- 🚨 Word count or script errors increasing
+
+## Emergency Context Recovery:
+If AI seems confused about established facts:
+1. Run `./scripts/extract_new_facts.sh`
+2. Show AI the output and ask it to acknowledge all facts
+3. Reference specific bible files for clarification
+4. Consider starting fresh chat if problems persist
+
+**The Project Rules system (.cursor/rules/) should maintain consistency across chats, but always verify the AI has proper context on startup.**

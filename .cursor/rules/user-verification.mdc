@@ -1,0 +1,48 @@
+---
+description: User verification for major story changes or uncertain elements
+globs: ["manuscript/**/*"]
+alwaysApply: true
+---
+
+# User Verification Protocol
+
+## WHEN TO ASK USER BEFORE PROCEEDING:
+
+### **Magic System Elements**
+- Adding any new cadence not listed in bible/magic_rules.md
+- Introducing new prop types not in bible/props_artifacts.md  
+- Changing established order of operations (salt → chalk → lantern)
+- Any seam level behavior not documented in canon
+
+### **Character Development**
+- Dialogue that contradicts established voice patterns from data/characters.json
+- Character motivations not supported by existing arc progression
+- New relationships or conflicts not outlined in chapter beats
+- Personality traits that conflict with established characterization
+
+### **Plot Progression**  
+- Deviating from timeline.json schedule or locations
+- Resolving open threads not planned in current chapter outline
+- Adding subplot elements not referenced in existing canon
+- Changing the stakes or conflicts from chapter_outlines.md
+
+### **World Building**
+- New locations not in data/locations.json or outline
+- Historical facts about Greywater not established in canon
+- Government/authority structures beyond what's established
+- Cultural elements not implied by existing material
+
+## VERIFICATION PHRASES TO USE:
+- "This element isn't in the established canon. Should I..."
+- "I notice this would contradict [specific fact]. How should I..."  
+- "The outline doesn't specify this detail. Would you like me to..."
+- "This would be a new magic system element. Should I add it or..."
+
+## NEVER ASSUME:
+- Character backstories beyond what's established
+- Magic capabilities beyond documented rules
+- City geography beyond mapped locations  
+- Timeline events beyond timeline.json
+- Relationship dynamics beyond character.json
+
+**When in doubt, ask rather than invent. Canon accuracy beats creative liberty.**
