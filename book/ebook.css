@@ -1,128 +1,79 @@
-/* E-book styles optimized for e-ink displays */
+/* E-book styles optimized for Kindle (reflowable) */
 
+/* Let Kindle choose the reading font; keep generic family */
+html { -webkit-text-size-adjust: 100%; }
 body {
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.6;
-  margin: 2em;
+  font-family: serif;
+  line-height: 1.4;
+  margin: 0 6%;
   color: #2c2c2c;
   background: #ffffff;
+  widows: 2;
+  orphans: 2;
+  hyphens: auto;             /* works best with lang="en" set */
+  -webkit-hyphens: auto;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
-h1 {
-  font-size: 1.8em;
-  font-weight: bold;
-  margin: 1.5em 0 0.8em 0;
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
   page-break-after: avoid;
+  margin: 1.2em 0 0.5em 0;
 }
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.2em; }
 
-h2 {
-  font-size: 1.4em;
-  font-weight: bold;
-  margin: 1.2em 0 0.6em 0;
-  page-break-after: avoid;
-}
-
-h3 {
-  font-size: 1.2em;
-  font-weight: bold;
-  margin: 1em 0 0.5em 0;
-  page-break-after: avoid;
-}
-
+/* Paragraphs: indent all but first after headings/scene breaks */
 p {
-  margin: 0.8em 0;
+  margin: 0;
   text-align: justify;
-  text-indent: 1.5em;
+  text-indent: 1.2em;
 }
-
-p:first-of-type {
+h1 + p, h2 + p, h3 + p,
+.section-open + p,
+hr.scene-break + p,
+blockquote + p,
+figure + p {
   text-indent: 0;
+  margin-top: 0.6em;
 }
 
+/* Blockquote & poetry */
 blockquote {
-  margin: 1em 2em;
-  padding-left: 1em;
+  margin: 1em 0 1em 1.5em;
+  padding-left: 0.8em;
   border-left: 3px solid #cccccc;
   font-style: italic;
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
-
-em {
-  font-style: italic;
-}
-
-strong {
-  font-weight: bold;
-}
-
-/* Chapter breaks */
-.chapter-break {
-  page-break-before: always;
-  margin-top: 2em;
-}
+.poem { margin: 1em 0; text-align: left; }
+.poem p { text-indent: 0; margin: 0.3em 0; }
 
 /* Scene breaks */
-.scene-break {
+hr.scene-break {
+  border: none;
   text-align: center;
-  margin: 2em 0;
+  margin: 1.6em 0;
 }
-
-.scene-break::after {
+hr.scene-break::after {
   content: "• • •";
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #666666;
 }
 
-/* Poetry/dialogue formatting */
-.poem {
-  margin: 1em 0;
-  text-align: center;
-}
+/* Images */
+img, svg { max-width: 100%; height: auto; }
+figure { margin: 1em 0; text-align: center; break-inside: avoid; }
+figcaption { font-size: 0.9em; }
 
-.poem p {
-  text-indent: 0;
-  margin: 0.3em 0;
-}
+/* Front/back matter */
+.frontmatter, .backmatter { text-align: center; margin: 3em 0; }
+.frontmatter h1, .backmatter h1 { font-size: 2em; margin-bottom: 0.6em; }
 
-/* Table of contents */
-.toc {
-  margin: 2em 0;
-}
-
-.toc h2 {
-  text-align: center;
-  margin-bottom: 1.5em;
-}
-
-.toc ol {
-  list-style-type: decimal;
-  margin-left: 2em;
-}
-
-.toc li {
-  margin: 0.5em 0;
-}
-
-/* Front and back matter */
-.frontmatter, .backmatter {
-  text-align: center;
-  margin: 3em 0;
-}
-
-.frontmatter h1, .backmatter h1 {
-  font-size: 2.2em;
-  margin-bottom: 1em;
-}
-
-.copyright, .dedication {
-  font-style: italic;
-  margin: 2em 0;
-}
-
-/* Ensure clean page breaks */
-h1, h2, h3 {
-  page-break-after: avoid;
-}
-
-p, blockquote, .poem {
-  page-break-inside: avoid;
-}
+em { font-style: italic; }
+strong { font-weight: bold; }
+a { text-decoration: none; }

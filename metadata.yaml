@@ -1,5 +1,5 @@
 title: "The Lamplighter's Daughter"
-author: "William Gordon"
+author: "Casey Keene"
 language: "en"
 uuid: "lamplighters-daughter-2024"
 word_target: 85000
@@ -9,3 +9,11 @@ genre: "Middle Grade Fantasy"
 age_range: "10-14"
 themes: ["identity", "legacy", "chosen duty", "friendship", "stewardship"]
 setting: "Greywater, a foggy harbor city with magical seams in reality"
+
+# EPUB-specific metadata
+publisher: "Casey Keene"
+date: "2025-01-01"
+description: "When fourteen-year-old Ivy Merrin discovers her ability to hear the weak seams in reality, she must choose between a normal life and joining the Night Wardens who protect her foggy harbor city from supernatural threats. A middle-grade fantasy about finding your place in a world more magical than it appears."
+rights: "© 2025 Casey Keene. All rights reserved."
+subject: "Middle Grade Fantasy, Coming of Age, Urban Fantasy"
+cover-image: "book/epub/cover.jpeg"
