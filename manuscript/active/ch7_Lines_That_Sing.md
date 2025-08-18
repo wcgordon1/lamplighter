@@ -31,11 +31,11 @@ The space felt alive with barely contained energy. Overhead, the copper lines hu
 
 "The depot's been here since 1923," Rooke said as they walked. "Back then, it was steam trains on street level, but they moved everything electric and elevated after the flood of '38. The infrastructure's solid, but all that metal and current makes it sensitive to seam activity."
 
-Ivy could see what he meant. The rails themselves seemed to whisper with more than just electrical current—there was an underlying harmonic that rose and fell in patterns too complex to be purely mechanical. It reminded her of the way June's house had hummed before she freed the token from the doorframe, but multiplied and layered until it became almost musical.
+Ivy could see what he meant. The rails themselves seemed to whisper with more than just electrical current; there was an underlying harmonic that rose and fell in patterns too complex to be purely mechanical. It reminded her of the way June's house had hummed before she freed the token from the doorframe, but multiplied and layered until it became almost musical.
 
 "First lesson," Cole said, stopping beside a junction where three sets of tracks converged. "The lines carry more than current. They're diagnostic instruments if you know how to read them."
 
-He pulled out a brass device that looked like a cross between a stethoscope and a tuning fork. "Standard approach is to use the resonance detector—place it on the rail, take readings at regular intervals, plot the frequencies on a graph."
+He pulled out a brass device that looked like a cross between a stethoscope and a tuning fork. "Standard approach is to use the resonance detector; place it on the rail, take readings at regular intervals, plot the frequencies on a graph."
 
 Ivy watched him demonstrate, noting the precise way he positioned the instrument and recorded readings in a small notebook. Cole's methods were thorough and systematic, the kind of approach that would satisfy any city inspector who wanted documentation.
 
@@ -49,7 +49,7 @@ There was a challenge in his voice, the same skepticism she'd heard during their
 
 "No, it's more than that." Ivy stepped closer to the rails, closing her eyes and trying to sort through the overlapping sounds. "There's the current hum, yes, but underneath that there's something else. Like harmonics, but more complex."
 
-She knelt beside the track, not quite touching the metal but close enough to feel the vibration in her bones. The sound layers separated in her mind—the steady electrical thrum at the surface, but beneath that a deeper pattern that seemed to carry information about the entire network. It was like listening to a conversation in a language she was just beginning to understand.
+She knelt beside the track, not quite touching the metal but close enough to feel the vibration in her bones. The sound layers separated in her mind: the steady electrical thrum at the surface, but beneath that a deeper pattern that seemed to carry information about the entire network. It was like listening to a conversation in a language she was just beginning to understand.
 
 "It's not just frequency," she said, opening her eyes and looking at Cole. "It's rhythm, timing, the way different sections of track talk to each other. When everything's normal, they're all singing in harmony. But when there's a problem..." She paused, trying to find words for something she felt more than heard. "It's like one instrument in an orchestra playing out of tune."
 
@@ -75,7 +75,7 @@ The walk to the bridge took fifteen minutes, leading them through the depot's ma
 
 But as they approached the bridge, Ivy could feel something wrong. The token at her throat grew cooler, and the harmonics she'd been tracking along the trolley lines shifted into a discordant pattern that made her teeth ache. The evening air itself seemed to thicken, carrying a metallic taste that reminded her of the moments before a thunderstorm.
 
-The bridge stretched before them, its art deco towers rising into the gathering dusk like sentinels. The structure was beautiful in the fading light—graceful cables sweeping down from the main spans, lamp posts marching in orderly rows along the walkways, the whole assembly reflecting the city's golden age of engineering. But beneath that beauty, something was stirring.
+The bridge stretched before them, its art deco towers rising into the gathering dusk like sentinels. The structure was beautiful in the fading light: graceful cables sweeping down from the main spans, lamp posts marching in orderly rows along the walkways, the whole assembly reflecting the city's golden age of engineering. But beneath that beauty, something was stirring.
 
 "Here," she said, stopping at the bridge approach. "Can you feel it?"
 
@@ -91,7 +91,7 @@ Cole placed his detector on the rail. This time, the reading made him frown and 
 
 Rooke was already scanning the area, his expression alert. "Foot traffic's still heavy for evening rush. We need to clear the pedestrian walkway before this gets worse."
 
-Ivy looked out over the bridge and saw what he meant. Despite the approaching dusk, people were still crossing—couples walking hand in hand, commuters taking the scenic route home, teenagers clustering around the overlook points. And something was wrong with their movement patterns.
+Ivy looked out over the bridge and saw what he meant. Despite the approaching dusk, people were still crossing: couples walking hand in hand, commuters taking the scenic route home, teenagers clustering around the overlook points. And something was wrong with their movement patterns.
 
 They weren't walking in straight lines. Instead, they seemed to be drifting toward the outer edge of the walkway, drawn to the low parapet that separated the pedestrian space from the water below. Most of them appeared unaware of the drift, but Ivy could see the subtle wrongness in their positioning.
 
@@ -117,7 +117,7 @@ They worked quickly but carefully, each movement precise despite the time pressu
 
 The couple passed without a second glance, but Ivy noticed how their path curved slightly toward the outer edge of the walkway before the salt line corrected their drift. The effect was already stronger than when they'd first arrived.
 
-Cole began chalking chevrons on the bridge's support posts, each one pointing toward the ascending street numbers on the far side—the direction that led away from the water and back toward the stable heart of the city. His movements were quick and efficient, the product of months of practice, but Ivy could see the care he took with each mark. The chalk had to be precisely positioned, the angles exact, or the whole binding could fail.
+Cole began chalking chevrons on the bridge's support posts, each one pointing toward the ascending street numbers on the far side; the direction that led away from the water and back toward the stable heart of the city. His movements were quick and efficient, the product of months of practice, but Ivy could see the care he took with each mark. The chalk had to be precisely positioned, the angles exact, or the whole binding could fail.
 
 "Why chevrons?" Ivy asked as she unpacked her own chalk. "Instead of just straight lines?"
 
@@ -129,7 +129,7 @@ Cole began chalking chevrons on the bridge's support posts, each one pointing to
 
 "Lattice pattern next," Rooke instructed Ivy. "Cross-hatching between the chevrons. Draw the lines to connect with the rail anchors."
 
-Ivy had practiced the technique with Tamsin, but doing it in the field, under pressure, with real stakes, felt entirely different. The chalk wanted to skip on the painted metal surface, and she had to press harder than expected to get clean lines. But gradually, the geometric pattern took shape—a network of interconnected lines that would redirect the seam's chaotic energy into the bridge's structural framework.
+Ivy had practiced the technique with Tamsin, but doing it in the field, under pressure, with real stakes, felt entirely different. The chalk wanted to skip on the painted metal surface, and she had to press harder than expected to get clean lines. But gradually, the geometric pattern took shape: a network of interconnected lines that would redirect the seam's chaotic energy into the bridge's structural framework.
 
 "Now the hard part," Cole said, pulling out his lantern. "We need to coordinate the binding. Three of us working together, tide cadence to match the river rhythm. Ivy, are you ready for this?"
 
@@ -137,11 +137,11 @@ She nodded, though her mouth felt dry. This would be her first real field bindin
 
 "Tide cadence," Rooke said, demonstrating the pattern. "Two-three in, two out, hold the rhythm steady. Twelve cycles minimum, fifteen if the binding feels unstable."
 
-They positioned themselves at three points around the chalk lattice, lanterns primed and ready. Ivy could feel the seam's pull more strongly now—not just as sound, but as a physical tug that wanted to draw her toward the bridge's edge. Several pedestrians had stopped at the parapet, ostensibly to look at the view, but their posture suggested confusion rather than casual sightseeing.
+They positioned themselves at three points around the chalk lattice, lanterns primed and ready. Ivy could feel the seam's pull more strongly now; not just as sound, but as a physical tug that wanted to draw her toward the bridge's edge. Several pedestrians had stopped at the parapet, ostensibly to look at the view, but their posture suggested confusion rather than casual sightseeing.
 
 "On my count," Cole said. "Three, two, one."
 
-Ivy began the tide cadence, feeling for the rhythm that would match the river's natural flow below. Two-three in—she could feel the water's pulse in her bones. Two out—releasing the breath with the same timing as the current's movement. The lantern responded, its light shifting from ordinary illumination to something more focused, more present.
+Ivy began the tide cadence, feeling for the rhythm that would match the river's natural flow below. Two-three in; she could feel the water's pulse in her bones. Two out; releasing the breath with the same timing as the current's movement. The lantern responded, its light shifting from ordinary illumination to something more focused, more present.
 
 Around her, she could sense Cole and Rooke maintaining their own rhythms, the three patterns weaving together into something larger than any individual effort. The chalk lattice began to respond, the lines seeming to glow faintly as they channeled the seam's energy away from the pedestrian space and into the bridge's framework.
 
@@ -159,7 +159,7 @@ The change was subtle but unmistakable. The pedestrians at the parapet straighte
 
 "Fifteen cycles. End sequence."
 
-Ivy let the cadence fade, feeling the lantern's light return to normal illumination. The chalk lines still glowed faintly, evidence that the binding was maintaining itself through the bridge's structure. The seam hadn't been eliminated—that would require larger-scale intervention—but it had been contained and redirected.
+Ivy let the cadence fade, feeling the lantern's light return to normal illumination. The chalk lines still glowed faintly, evidence that the binding was maintaining itself through the bridge's structure. The seam hadn't been eliminated; that would require larger-scale intervention; but it had been contained and redirected.
 
 "Good work," Cole said, and for the first time since she'd met him, his approval sounded genuine rather than grudging. "Clean binding, proper duration, no wobble in the cadence despite the interference."
 
@@ -169,7 +169,7 @@ Ivy let the cadence fade, feeling the lantern's light return to normal illuminat
 
 Cole was already pulling out his notebook and stamps. "SEAM-SIGHTED, location, time, level-two waking event," he said as he filled in the details. "Three-person binding, tide cadence, fifteen cycles, successful containment." He looked at Ivy. "First official BOUND stamp for your logbook?"
 
-Ivy nodded, feeling a flush of pride as Cole pressed the rubber stamp onto her logbook page with a solid thunk. The mark was small and simple, but it represented something significant—proof that she could do the work, that she could be trusted with public safety.
+Ivy nodded, feeling a flush of pride as Cole pressed the rubber stamp onto her logbook page with a solid thunk. The mark was small and simple, but it represented something significant: proof that she could do the work, that she could be trusted with public safety.
 
 "Now the technical question," Cole said, putting away his stamps. "How did you know to look here? The resonance readings from the depot were suggestive, but not definitive."
 
@@ -199,13 +199,13 @@ Ivy nodded, thinking about the delicate balance between the city's normal functi
 
 "Cole," she said as they prepared to part ways. "Thank you for giving me a chance to prove I could do the work, even though you had doubts."
 
-Cole looked uncomfortable for a moment, then managed a smile. "I still have doubts. But I have doubts about everyone, including myself. The work's too important for anything less than skepticism." He paused. "But what you did today was solid. Listening and measuring aren't opposites—they're different tools for understanding the same problems."
+Cole looked uncomfortable for a moment, then managed a smile. "I still have doubts. But I have doubts about everyone, including myself. The work's too important for anything less than skepticism." He paused. "But what you did today was solid. Listening and measuring aren't opposites; they're different tools for understanding the same problems."
 
 As Ivy walked home along Rowhouse Lane, her logbook heavy with its first official BOUND stamp, she found herself paying attention to the street lamps in a new way. Each one was part of a network, connected not just by power lines but by the subtle harmonics that carried information about the city's health. And she was learning to read that information, to be part of the community of people who kept the lights burning steady.
 
 The token at her throat had warmed again during the binding work, and it stayed warm now as she approached June's door. The salt was still scattered across the threshold, neat and deliberate, a small domestic version of the larger work she was learning to do. Button appeared from the shadows as she reached the step, his good eye bright with what might have been approval.
 
-Inside, June was waiting with tea and questions about her day. As Ivy described the bridge work—carefully, without technical details that might worry her aunt—she realized that she was beginning to feel like she belonged in Greywater. Not just as someone staying temporarily with family, but as someone with a role to play in keeping the city functioning.
+Inside, June was waiting with tea and questions about her day. As Ivy described the bridge work; carefully, without technical details that might worry her aunt; she realized that she was beginning to feel like she belonged in Greywater. Not just as someone staying temporarily with family, but as someone with a role to play in keeping the city functioning.
 
 The chalk dust under her fingernails and the ache in her shoulders from maintaining the tide cadence were proof that she was becoming something more than just a visitor. She was becoming a Warden.
 

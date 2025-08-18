@@ -55,11 +55,11 @@ But there were things that bothered her about the setup. The lamp posts along th
 
 Council chambers occupied the top floor of a limestone building that projected the kind of solid respectability that municipal governments favored. The waiting area was paneled in dark wood and furnished with leather chairs that had been expensive when they were new decades ago. Campaign posters from recent elections still decorated the walls, and a glass case displayed artifacts from the city's founding that looked dusty and forgotten.
 
-"Ms. Kestrel?" A young woman with a tablet and an efficient manner approached them. "Councilman Dore will see you now. He asked me to apologize for the scheduling change—the press briefing ran longer than expected."
+"Ms. Kestrel?" A young woman with a tablet and an efficient manner approached them. "Councilman Dore will see you now. He asked me to apologize for the scheduling change; the press briefing ran longer than expected."
 
 They were led into an office that managed to be both spacious and crowded, filled with the kind of furniture and decoration that suggested its occupant took himself seriously. Bram Dore rose from behind a mahogany desk that could have served as a small stage, extending his hand with the same practiced warmth Ivy had observed earlier.
 
-"Ms. Kestrel, thank you for making time in what I know is a busy schedule. And you must be Ivy Merrin—I've heard interesting things about your work with the historical society."
+"Ms. Kestrel, thank you for making time in what I know is a busy schedule. And you must be Ivy Merrin; I've heard interesting things about your work with the historical society."
 
 Ivy accepted the handshake, noting the careful phrasing. Historical society, not Night Wardens. She glanced at Ms. Kestrel, who maintained a diplomatically neutral expression.
 
@@ -67,7 +67,7 @@ Ivy accepted the handshake, noting the careful phrasing. Historical society, not
 
 "Indeed there have," Dore said, settling back into his chair and gesturing for them to take seats across from his desk. "Public safety is my top priority, and that means ensuring that all work performed on city infrastructure meets appropriate standards of oversight and accountability."
 
-He pulled out a folder thick with official-looking documents. "The new requirements are straightforward. All after-hours work on municipal systems—lighting, communications, utilities—must be pre-authorized through the appropriate department heads. Emergency exceptions require supervisor approval and follow-up documentation within twenty-four hours."
+He pulled out a folder thick with official-looking documents. "The new requirements are straightforward. All after-hours work on municipal systems; lighting, communications, utilities; must be pre-authorized through the appropriate department heads. Emergency exceptions require supervisor approval and follow-up documentation within twenty-four hours."
 
 "And the definition of 'municipal systems' includes street lamps?"
 
@@ -95,7 +95,7 @@ Ms. Kestrel's expression remained diplomatically neutral, but Ivy could see the 
 
 "Specialized techniques," Dore repeated, making a note on a pad. "Could you elaborate on those techniques? For the record?"
 
-The question hung in the air with uncomfortable weight. Ivy realized that they'd reached the core of the problem—how do you explain seam monitoring and binding work to someone who doesn't believe such things exist? How do you describe the importance of listening to trolley line harmonics or recognizing the behavioral changes that indicate dangerous pull effects?
+The question hung in the air with uncomfortable weight. Ivy realized that they'd reached the core of the problem: how do you explain seam monitoring and binding work to someone who doesn't believe such things exist? How do you describe the importance of listening to trolley line harmonics or recognizing the behavioral changes that indicate dangerous pull effects?
 
 "Pattern recognition mostly," Ms. Kestrel said carefully. "Long-term observation of how various systems interact, particularly during weather changes or periods of increased activity."
 
@@ -161,7 +161,7 @@ Ivy realized the fundamental problem: most of their successes were preventive, a
 
 "The festival safety plan takes precedence. All non-essential activities are suspended from noon on opening day through midnight on closing day."
 
-As they left the Council building, Ivy found herself thinking about the implications of what they'd just heard. The new requirements wouldn't just make their work more difficult—they might make it impossible during the times when it was most needed.
+As they left the Council building, Ivy found herself thinking about the implications of what they'd just heard. The new requirements wouldn't just make their work more difficult; they might make it impossible during the times when it was most needed.
 
 "How bad is this?" she asked as they walked back toward Founders' Green.
 
@@ -183,7 +183,7 @@ But Ivy could see the potential problems more clearly now. The additional electr
 
 "Then we deal with the consequences and try to minimize the damage." Ms. Kestrel looked back at the Council building, its limestone facade gleaming in the morning sun. "Sometimes the most important work happens in the gaps between official policy and actual need."
 
-As they walked back toward the library district, Ivy found herself thinking about the tension between order and flexibility, between accountability and effectiveness. Dore's approach made sense from an administrative perspective, but it didn't account for the reality of seam work—the need for rapid response, specialized knowledge, and the ability to operate in situations that didn't fit standard bureaucratic categories.
+As they walked back toward the library district, Ivy found herself thinking about the tension between order and flexibility, between accountability and effectiveness. Dore's approach made sense from an administrative perspective, but it didn't account for the reality of seam work: the need for rapid response, specialized knowledge, and the ability to operate in situations that didn't fit standard bureaucratic categories.
 
 The festival preparations continued around them, a massive coordinated effort that would create three days of celebration and spectacle. But underneath the bunting and scaffolding, Ivy could sense the city's normal rhythms being disrupted by artificial lighting, modified traffic patterns, and the sheer pressure of trying to accommodate far more people than the infrastructure was designed to handle.
 

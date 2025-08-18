@@ -77,7 +77,7 @@ How long had she been standing there? The afternoon light seemed different now, 
 
 "Memory," Ivy said. "Not message. Just an impression left in the stone by someone who worked here before."
 
-She didn't need to explain who that someone was. The way she'd been standing, the careful distance her teammates had maintained, the quality of attention they'd brought to her exploration—they understood that this was personal territory, the kind of painful ground that couldn't be rushed or forced.
+She didn't need to explain who that someone was. The way she'd been standing, the careful distance her teammates had maintained, the quality of attention they'd brought to her exploration; they understood that this was personal territory, the kind of painful ground that couldn't be rushed or forced.
 
 "Were you talking to her?" Rooke asked quietly.
 

@@ -28,11 +28,11 @@ The Market Ward Arcade stretched under a barrel-vaulted roof that channeled afte
 
 "Park & Daughter Repairs," Tamsin said, stopping before a narrow frontage squeezed between a watch repair shop and a produce stall. The sign above the door was hand-painted in careful block letters, with "Established 1987" in smaller script below. "Dad started it when I was three. Mom joined him after she finished her electrical certification."
 
-The shop was organized chaos—a wall of tiny drawers labeled in Tamsin's neat handwriting, workbenches with tools arranged in patterns that spoke of muscle memory and daily use, and the kind of clean disorder that came from knowing exactly where everything was, even if no one else could find it.
+The shop was organized chaos: a wall of tiny drawers labeled in Tamsin's neat handwriting, workbenches with tools arranged in patterns that spoke of muscle memory and daily use, and the kind of clean disorder that came from knowing exactly where everything was, even if no one else could find it.
 
 "Mom's doing estimates in the back," Tamsin said, leading Ivy to a workbench by the front window. "She'll want to meet you, but she's wrestling with a quote for rewiring the Founders' Green bandstand. City contract, so everything has to be triple-documented."
 
-Button padded in behind them and immediately settled under the bench, his good eye fixed on a point in the middle distance where the light seemed to pool differently than the rest of the room. Ivy had learned to pay attention to his positioning—he always found the quiet spots, the places where the city's subtle tensions seemed to ease.
+Button padded in behind them and immediately settled under the bench, his good eye fixed on a point in the middle distance where the light seemed to pool differently than the rest of the room. Ivy had learned to pay attention to his positioning; he always found the quiet spots, the places where the city's subtle tensions seemed to ease.
 
 "Your kit," Tamsin said, unpacking a wooden case that looked like it had been assembled from salvaged shipping crates. "Maintenance tools first, then we'll talk about the vent wheel."
 
@@ -40,11 +40,11 @@ She laid out implements that looked like they belonged in a watchmaker's shop: t
 
 "Lantern care isn't glamorous," Tamsin said, gesturing for Ivy to set her workhorse model on the bench. "But it's the difference between a binding that holds steady and one that wobbles under pressure. And when you're working level-two or higher, wobble can kill people."
 
-Ivy opened the latches on her lantern case and lifted out the brass body. In the bright window light, she could see details she'd missed the night before—tiny maker's marks stamped into the metal, hairline scratches that spoke of careful use, and the subtle patina that came from being handled by someone who understood its value.
+Ivy opened the latches on her lantern case and lifted out the brass body. In the bright window light, she could see details she'd missed the night before: tiny maker's marks stamped into the metal, hairline scratches that spoke of careful use, and the subtle patina that came from being handled by someone who understood its value.
 
 "First lesson," Tamsin said, pulling the magnifying glass down over the lantern's vent mechanism. "Quarter-clicks, not hope and prayer. The vent wheel controls how the mantle breathes, which affects the cadence resonance. Get it wrong, and your binding either fades too fast or locks too hard."
 
-She demonstrated, her fingers moving with the same confidence Ivy had seen the night before. "True position is marked with this tiny notch—see it? From there, you can go up or down in quarter-click increments. Each position changes the harmonic by just enough to matter."
+She demonstrated, her fingers moving with the same confidence Ivy had seen the night before. "True position is marked with this tiny notch; see it? From there, you can go up or down in quarter-click increments. Each position changes the harmonic by just enough to matter."
 
 Ivy leaned in, trying to see what Tamsin was pointing at. The notch was so small it was almost invisible, but when she squinted, she could make out a mark no bigger than a pinprick.
 
@@ -64,7 +64,7 @@ They spent the next hour taking the lantern apart piece by piece, Tamsin explain
 
 A woman's voice called from the back of the shop. "Tamsin? Is that the new girl?"
 
-"That's Mom," Tamsin said with a grin. "Fair warning—she's going to want to feed you and ask about your schooling."
+"That's Mom," Tamsin said with a grin. "Fair warning; she's going to want to feed you and ask about your schooling."
 
 Mrs. Park appeared from behind a curtain that divided the shop from the living quarters, wiping her hands on a towel. She had Tamsin's dark hair and the same oil-stained fingers, but where Tamsin was compact and quick, her mother moved with the deliberate efficiency of someone who'd spent decades balancing precision work with family life.
 
@@ -72,13 +72,13 @@ Mrs. Park appeared from behind a curtain that divided the shop from the living q
 
 "Thank you, Mrs. Park."
 
-"Call me Elena. And don't let my daughter work you too hard—she gets excited about gear ratios and forgets other people need to eat."
+"Call me Elena. And don't let my daughter work you too hard; she gets excited about gear ratios and forgets other people need to eat."
 
 "I do not," Tamsin protested, but she was smiling. "Though speaking of eating, did you finish the bandstand quote?"
 
-Elena's expression tightened slightly. "Finished it. Filed it. Probably won't hear back for two weeks, and by then they'll want to change half the specifications." She looked at the papers scattered on a nearby desk—invoices, receipts, and what looked like a ledger filled with careful columns of numbers. "City contracts pay well, but they're slow. And we need the cash flow sooner than later."
+Elena's expression tightened slightly. "Finished it. Filed it. Probably won't hear back for two weeks, and by then they'll want to change half the specifications." She looked at the papers scattered on a nearby desk: invoices, receipts, and what looked like a ledger filled with careful columns of numbers. "City contracts pay well, but they're slow. And we need the cash flow sooner than later."
 
-Something in the way she said it made Ivy pay closer attention. The shop was clean and well-organized, but she could see signs of careful economy—tools that had been repaired rather than replaced, inventory that looked lean, and a stack of past-due notices held down by a small paperweight.
+Something in the way she said it made Ivy pay closer attention. The shop was clean and well-organized, but she could see signs of careful economy: tools that had been repaired rather than replaced, inventory that looked lean, and a stack of past-due notices held down by a small paperweight.
 
 "The Founders' Week rush will help," Tamsin said, but her voice carried a note of forced optimism. "Everyone wants their lamps checked before the festival."
 
@@ -90,7 +90,7 @@ She caught Ivy watching and managed a smile. "Don't mind the business talk. Tams
 
 "Only reliable one," Elena said. "There are cheaper options, but bell-metal alloys are tricky. Get the composition wrong, and the harmonic response is off. For regular streetlamps, that's just inefficiency. For the kind of work you and Tamsin do..." She shrugged. "Well, you need equipment you can trust."
 
-Tamsin had gone back to working on the lantern, but Ivy could see the tension in her shoulders. The maintenance work wasn't just about keeping equipment functional—it was about keeping her family's business viable, which meant keeping her own future secure.
+Tamsin had gone back to working on the lantern, but Ivy could see the tension in her shoulders. The maintenance work wasn't just about keeping equipment functional; it was about keeping her family's business viable, which meant keeping her own future secure.
 
 "What about these?" Ivy asked, pointing to a collection of small wooden blocks on the workbench. They looked like they'd been rough-cut from hardwood, each one about the size of a thick coin.
 
@@ -106,7 +106,7 @@ Tamsin had gone back to working on the lantern, but Ivy could see the tension in
 
 Ivy picked up one of the wedges, feeling the smooth hardwood against her palm. "How do you know what shape to cut?"
 
-"Trial and error mostly. And hoping you don't crack anything expensive while you're learning." Tamsin set down her tools and looked at Ivy seriously. "That's the thing about this work—most of it is learned on the job, under pressure, when things are going wrong. The theory is useful, but the real skill comes from making mistakes and learning how to fix them quickly."
+"Trial and error mostly. And hoping you don't crack anything expensive while you're learning." Tamsin set down her tools and looked at Ivy seriously. "That's the thing about this work; most of it is learned on the job, under pressure, when things are going wrong. The theory is useful, but the real skill comes from making mistakes and learning how to fix them quickly."
 
 "Have you made many mistakes?"
 
@@ -120,13 +120,13 @@ From his spot under the bench, Button let out a soft huff that might have been c
 
 "Useful skill around here," Elena said, glancing at the stack of paperwork on her desk. "This business has its share of chaos."
 
-As if summoned by her words, the front door chimed and a customer entered—an older man with paint-stained overalls and the kind of urgent expression that suggested an emergency.
+As if summoned by her words, the front door chimed and a customer entered: an older man with paint-stained overalls and the kind of urgent expression that suggested an emergency.
 
 "Elena? I've got a problem with the floods for the bandstand rehearsal. Half of them are flickering, and the city inspector is coming tomorrow."
 
 "Tom, you're in luck," Elena said, already moving toward her tool kit. "Just finished writing up the bandstand electrical quote. Give me an hour and we'll have them steady."
 
-She paused at the door. "Tamsin, keep working with Ivy on the vent wheel. And both of you—eat something. There's soup on the stove."
+She paused at the door. "Tamsin, keep working with Ivy on the vent wheel. And both of you, eat something. There's soup on the stove."
 
 After she left, the shop felt quieter, more intimate. Tamsin had gone back to the lantern maintenance, but her movements had a restless quality that suggested her mind was elsewhere.
 
@@ -142,7 +142,7 @@ Ivy thought about the careful organization of the shop, the way Tamsin's tools w
 
 "Don't know. Maybe. But it wouldn't be about the craft anymore, just about moving inventory and hitting quotas." Tamsin picked up another clapper wedge blank and turned it over in her hands. "This is what I know, what I'm good at. But being good at something doesn't always pay the bills."
 
-The admission hung in the air between them. Ivy found herself thinking about her own uncertain situation—staying with June, learning the Warden work, trying to find her place in a city that still felt foreign. At least she had the luxury of uncertainty. Tamsin was watching her family's legacy balanced on a knife's edge.
+The admission hung in the air between them. Ivy found herself thinking about her own uncertain situation: staying with June, learning the Warden work, trying to find her place in a city that still felt foreign. At least she had the luxury of uncertainty. Tamsin was watching her family's legacy balanced on a knife's edge.
 
 "There might be other opportunities," Ivy said. "With the Warden work, I mean. Ms. Kestrel mentioned that the city is starting to recognize the value of what you all do."
 
@@ -158,7 +158,7 @@ They worked in comfortable silence for a while, Tamsin guiding Ivy through the r
 
 "Patience. And knowing when to stop before you break something." Tamsin packed away the tools with practiced efficiency. "Want to try lighting it? We can test the vent positions with a low-level cadence."
 
-Ivy nodded, feeling a flutter of nervous excitement. The lantern felt different now that she understood its internal workings—not just a tool, but a precision instrument requiring respect and careful handling.
+Ivy nodded, feeling a flutter of nervous excitement. The lantern felt different now that she understood its internal workings; not just a tool, but a precision instrument requiring respect and careful handling.
 
 "March cadence," Tamsin said. "Two in, two out, nice and steady. Just enough to get the mantle warm and test the vent response."
 
@@ -170,7 +170,7 @@ In, two. Out, two. Ivy let her breathing settle into the pattern she'd practiced
 
 "Try moving the vent up a quarter-click," Tamsin instructed.
 
-Ivy adjusted the wheel carefully, feeling for the resistance that indicated proper positioning. The light shifted slightly—not brighter, but more focused somehow, as if the energy was being channeled more efficiently.
+Ivy adjusted the wheel carefully, feeling for the resistance that indicated proper positioning. The light shifted slightly; not brighter, but more focused somehow, as if the energy was being channeled more efficiently.
 
 "Good. Now down a half-click from neutral."
 
@@ -204,7 +204,7 @@ They spent another hour working through different vent positions and cadence com
 
 "Good news for Ms. Kestrel," Elena said, beginning to close up the shop for the day. "And good news for the city, having another person who understands the importance of keeping things steady."
 
-As they gathered their equipment, Ivy found herself looking around the shop with new appreciation. It wasn't just a business—it was a repository of knowledge and skill, a place where the practical work of keeping the city functioning happened away from public attention. Like the Warden work itself, it was essential but largely invisible.
+As they gathered their equipment, Ivy found herself looking around the shop with new appreciation. It wasn't just a business; it was a repository of knowledge and skill, a place where the practical work of keeping the city functioning happened away from public attention. Like the Warden work itself, it was essential but largely invisible.
 
 "Thank you," she said to Elena. "For letting me learn here."
 
@@ -228,7 +228,7 @@ As they reached the street, Tamsin stopped and looked back at the shop. "I know 
 
 "I'll be here."
 
-As Ivy walked back toward Rowhouse Lane, the route keys chiming against the token with each step, she found herself thinking about the relationship between precision and care, between understanding how things worked and being able to fix them when they broke. The lantern in her satchel felt different now—not just a tool but an instrument she was learning to play, one careful adjustment at a time.
+As Ivy walked back toward Rowhouse Lane, the route keys chiming against the token with each step, she found herself thinking about the relationship between precision and care, between understanding how things worked and being able to fix them when they broke. The lantern in her satchel felt different now; not just a tool but an instrument she was learning to play, one careful adjustment at a time.
 
 Button padded alongside her, occasionally glancing up with his good eye in a way that suggested approval. In the gathering dusk, the street lamps were beginning to come on, their halos round and steady in the still air. For the first time since arriving in Greywater, Ivy felt like she was beginning to understand the city's rhythms, and her place in maintaining them.
 

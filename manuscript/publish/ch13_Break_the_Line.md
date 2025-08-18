@@ -44,7 +44,7 @@ The officer turned to look at her, taking in her chalk-dusty sweater and the sil
 
 Bram cleared his throat. "Officer Martinez, these are the informal volunteers I mentioned. No official standing, but they've been... helpful during routine maintenance."
 
-Officer Martinez—Sergeant Martinez, Ivy corrected herself, reading the stripes—nodded once. "Well, routine maintenance is suspended during festival week. City ordinance. Safety first."
+Officer Martinez; Sergeant Martinez, Ivy corrected herself, reading the stripes; nodded once. "Well, routine maintenance is suspended during festival week. City ordinance. Safety first."
 
 He handed Kestrel a yellow copy of the detention order. The paper looked official enough to stop a freight train, all seals and signatures and numbered paragraphs. Ivy caught a glimpse of pre-printed text: *During the period of Founders' Week Festival Activities...*
 
@@ -80,7 +80,7 @@ Bram watched the door close, then checked his own watch. "Efficient," he murmure
 
 "Mr. Archer has been very cooperative. In fact, he provided us with some useful documentation about your... informal practices." Bram opened his folder and pulled out a sheet of paper. A map plate, copied down to the last lamp number. "This will help us ensure proper oversight during the transition."
 
-Ivy's chest went cold. Cole's neat handwriting filled the margins, noting route patterns and key assignments. Every gap in their coverage, every backup plan they'd discussed, laid out like a blueprint for their own dismantling. She could see her own route marked in blue ink, Tamsin's in red, Rooke's in green. Even the emergency caches were marked—the spare chalk they kept in the storm drains, the salt tins hidden near the promenade.
+Ivy's chest went cold. Cole's neat handwriting filled the margins, noting route patterns and key assignments. Every gap in their coverage, every backup plan they'd discussed, laid out like a blueprint for their own dismantling. She could see her own route marked in blue ink, Tamsin's in red, Rooke's in green. Even the emergency caches were marked: the spare chalk they kept in the storm drains, the salt tins hidden near the promenade.
 
 "When?" Ivy asked, her voice barely above a whisper.
 
@@ -134,7 +134,7 @@ She pulled out a chart covered in symbols. "See, in base four, you only use digi
 
 "Like chess," Rooke said, leaning over Ivy's shoulder. "Rows and columns."
 
-"Exactly. But faster." Tilda ran through a sequence: short-long-long-short, then a pause, then three short, one long, two short. The lamp outside blinked obediently. "Message start, sector three-one-two—that's the promenade near the bandstand—then instruction code."
+"Exactly. But faster." Tilda ran through a sequence: short-long-long-short, then a pause, then three short, one long, two short. The lamp outside blinked obediently. "Message start, sector three-one-two; that's the promenade near the bandstand; then instruction code."
 
 "What kind of instructions?" Ivy asked.
 
@@ -194,7 +194,7 @@ She didn't finish the sentence. She didn't need to.
 
 "Do we?"
 
-Ivy looked at Tamsin, hearing the edge in her voice. "He made a mistake. A bad one. But maybe—"
+Ivy looked at Tamsin, hearing the edge in her voice. "He made a mistake. A bad one. But maybe..."
 
 "Maybe nothing." Tamsin's hands were fists at her sides. "He handed them everything. Every route, every backup plan, every way we keep people safe. And for what? So Bram would pat him on the head and call him a good citizen?"
 
@@ -252,7 +252,7 @@ They sat in the living room, Cole in a chair by the window, the others on the co
 
 "Do you?" Tamsin's voice was flat.
 
-"That I made a mistake. That I should have talked to Kestrel first, should have trusted the team." Cole looked at his hands. "But people could have been hurt. That kid on the promenade, he almost went over the rail. What if next time—"
+"That I made a mistake. That I should have talked to Kestrel first, should have trusted the team." Cole looked at his hands. "But people could have been hurt. That kid on the promenade, he almost went over the rail. What if next time..."
 
 "Next time we won't be there to stop it," Ivy interrupted. "Because you gave them everything they needed to shut us down."
 
@@ -278,19 +278,19 @@ The room went silent except for the tick of a clock somewhere in the house.
 
 "Untrained," Tamsin said, her voice deadly quiet.
 
-"I didn't mean—"
+"I didn't mean..."
 
-"You meant exactly that." Tamsin stood up. "You think we're children playing with things we don't understand. You think Kestrel is some kind of amateur who doesn't know what she's doing. You think the work we've done, the people we've saved, the seams we've bound—you think it's all just luck."
+"You meant exactly that." Tamsin stood up. "You think we're children playing with things we don't understand. You think Kestrel is some kind of amateur who doesn't know what she's doing. You think the work we've done, the people we've saved, the seams we've bound; you think it's all just luck."
 
 "That's not what I said."
 
 "It's what you meant." Tamsin moved toward the door. "And it's what Bram heard when you handed him our files."
 
-Cole started to stand. "Tamsin, wait—"
+Cole started to stand. "Tamsin, wait..."
 
 "No." She turned back, and her face was set like stone. "You want to know what I think? I think you were scared. I think working with us made you feel small and uncertain, and when Bram offered you a chance to feel important, to be the responsible one, you took it."
 
-"That's not—"
+"That's not..."
 
 "I think you told yourself it was about safety. About doing the right thing. But really, it was about being the hero of your own story instead of just part of the team."
 

@@ -26,15 +26,15 @@ Ivy squinted as they descended into the glazier's tunnel, following Tamsin throu
 
 "Careful," Tamsin whispered, her voice echoing strangely in the glass-lined passage. "Some of these are cracked. Sharp edges everywhere."
 
-The tunnel was a forgotten spur of the old glassworks district, abandoned when the factory moved to cheaper land outside the city limits. The mirrors had been left behind—stock that was easier to store than transport, sheets of silvered glass that now created an unintentional labyrinth beneath the streets.
+The tunnel was a forgotten spur of the old glassworks district, abandoned when the factory moved to cheaper land outside the city limits. The mirrors had been left behind; stock that was easier to store than transport, sheets of silvered glass that now created an unintentional labyrinth beneath the streets.
 
 But that wasn't why they were here.
 
-The first sign was the smell—mildew and something else, something that reminded Ivy of old glass backing left too long in damp air. Then came the sound: a soft dripping that didn't match the rhythm of water falling from pipes. Too irregular, like someone counting who'd forgotten the proper sequence.
+The first sign was the smell: mildew and something else, something that reminded Ivy of old glass backing left too long in damp air. Then came the sound: a soft dripping that didn't match the rhythm of water falling from pipes. Too irregular, like someone counting who'd forgotten the proper sequence.
 
 Ivy felt it the moment they passed the third stack of mirrors: a coolness that had nothing to do with the underground air, a pressure that made her chest tight and her breath come short. The token at her throat had gone cold, not the mere coolness of wrong phase but the bone-deep chill that meant something was actively feeding on the Veil.
 
-She pressed her palm against the tunnel wall, feeling for the vibrations she'd learned to recognize. The electrical resonance from the collars was riding through the infrastructure here, but there was something else—a disturbance in the natural patterns that suggested active consumption of Veil energy.
+She pressed her palm against the tunnel wall, feeling for the vibrations she'd learned to recognize. The electrical resonance from the collars was riding through the infrastructure here, but there was something else: a disturbance in the natural patterns that suggested active consumption of Veil energy.
 
 "Level four," she said quietly, and Tamsin nodded.
 
@@ -52,13 +52,13 @@ And in the shifting maze of light and glass, something else was moving.
 
 At first it was just a sense of wrongness, a feeling that the shadows between the mirrors were deeper than they should be. The reflections seemed to lag behind their movements, creating an uncanny moment where Ivy could see herself in a mirror before she'd actually moved into position.
 
-Then she caught glimpses of motion in the reflected light—darkness that flowed like liquid, pooling in the corners where the mirrors didn't quite reach. Not simple shadow, but something that absorbed light without giving it back, creating dead zones in the maze of reflections.
+Then she caught glimpses of motion in the reflected light: darkness that flowed like liquid, pooling in the corners where the mirrors didn't quite reach. Not simple shadow, but something that absorbed light without giving it back, creating dead zones in the maze of reflections.
 
 "There," Rooke said quietly, pointing to a gap between two mirror stacks where the air seemed to shimmer with heat distortion. "No, wait. There too."
 
-Ivy followed his gaze and realized what he meant. The disturbances weren't isolated—they were connected, part of a larger pattern of wrongness that filled the spaces between the mirrors like fog. The whole tunnel was infested.
+Ivy followed his gaze and realized what he meant. The disturbances weren't isolated; they were connected, part of a larger pattern of wrongness that filled the spaces between the mirrors like fog. The whole tunnel was infested.
 
-She looked closer and saw it: a shade, feeding on the disrupted Veil energy that seeped through the tunnel walls. It was hard to make out clearly—less a distinct shape than a disturbance in the air, like looking at something through water. But she could see the way it moved, following the currents of breath and warmth that their bodies generated.
+She looked closer and saw it: a shade, feeding on the disrupted Veil energy that seeped through the tunnel walls. It was hard to make out clearly; less a distinct shape than a disturbance in the air, like looking at something through water. But she could see the way it moved, following the currents of breath and warmth that their bodies generated.
 
 The mirrors were making it worse, she realized. Each reflection multiplied the disturbance, creating not just visual echoes but actual duplications of the shade's presence. What should have been a single entity was being fractured and amplified by the silvered glass, turning one shade into dozens of partial manifestations.
 
@@ -66,19 +66,19 @@ The mirrors were making it worse, she realized. Each reflection multiplied the d
 
 Then the shade split.
 
-It happened so fast that Ivy almost missed it. One moment there was a single disturbance in the air, the next there were two, then four, then too many to count. The shade hadn't multiplied—it had revealed itself, showing that what they'd taken for a single entity was actually a cluster of them, feeding together in the rich seam energy of the tunnel.
+It happened so fast that Ivy almost missed it. One moment there was a single disturbance in the air, the next there were two, then four, then too many to count. The shade hadn't multiplied; it had revealed itself, showing that what they'd taken for a single entity was actually a cluster of them, feeding together in the rich seam energy of the tunnel.
 
 "Level four," Ivy said again, but with more urgency. "Multiple shades, actively feeding."
 
 The air in the tunnel suddenly felt thinner, harder to breathe. The shades were pulling moisture and warmth from the environment, creating pockets of cold that made Ivy's lungs ache. She could feel them moving closer, drawn by the heat and carbon dioxide that the three of them were generating.
 
-Each breath felt like work now, as if the air itself had become thick and resistant. Ivy's exhales came out as visible clouds, and frost began forming on the closest mirror surfaces. The temperature drop wasn't gradual—it was happening fast, the way air chills when a storm front moves through.
+Each breath felt like work now, as if the air itself had become thick and resistant. Ivy's exhales came out as visible clouds, and frost began forming on the closest mirror surfaces. The temperature drop wasn't gradual; it was happening fast, the way air chills when a storm front moves through.
 
 "They're feeding actively," Tamsin said, her voice tight with the effort of speaking. "This isn't just presence. They're consuming the warmth directly."
 
 "No sudden moves," Ivy reminded the others, but even as she said it, one of the shades drifted too close to Rooke's lantern. The glass chimney fogged over instantly, and Rooke stepped back instinctively to protect the flame.
 
-The motion triggered something. Every shade in the tunnel turned toward them—not gradually, but all at once, like a flock of birds responding to a signal. The aimless drifting stopped, replaced by purposeful movement that converged on their position. The air grew noticeably colder, and Ivy's next breath came shallow and sharp.
+The motion triggered something. Every shade in the tunnel turned toward them; not gradually, but all at once, like a flock of birds responding to a signal. The aimless drifting stopped, replaced by purposeful movement that converged on their position. The air grew noticeably colder, and Ivy's next breath came shallow and sharp.
 
 "They're hunting now," Tamsin said, her voice barely above a whisper. "Coordinated behavior. This is worse than level four. We need to work fast."
 
@@ -96,15 +96,15 @@ The salt line sparked as she laid it, each grain hitting the floor with a tiny h
 
 Tamsin was already moving, pulling mirror panes from the nearest stack and arranging them into a crude corridor that led from their salt ring toward a natural alcove in the tunnel wall. Her hands were steady despite the cold, but Ivy could see her breath fogging as she worked.
 
-"The theory is sound," Tamsin said, positioning each mirror with careful attention to the angles. "Shades get confused by multiple reflections. They follow disturbances in the Veil, but mirrors create false disturbances—echoes of the real thing."
+"The theory is sound," Tamsin said, positioning each mirror with careful attention to the angles. "Shades get confused by multiple reflections. They follow disturbances in the Veil, but mirrors create false disturbances; echoes of the real thing."
 
 "Will that work?" Rooke asked, watching nervously as more shades gathered in the space between the mirror stacks. The entities were becoming more agitated, their movements faster and more erratic as they circled the salt barrier.
 
 "In theory," Tamsin said, positioning the last mirror to complete her makeshift corridor. "If we can make them chase their own disturbances instead of ours, they'll get caught in a feedback loop. But the geometry has to be perfect. One wrong angle and they'll realize it's a trap."
 
-The mirror corridor was an impressive feat of improvised engineering—seven panes arranged to create a path that seemed to lead deeper into the tunnel but actually curved back on itself. The reflections bounced back and forth, creating the illusion of infinite depth while actually containing the space in a closed circuit.
+The mirror corridor was an impressive feat of improvised engineering: seven panes arranged to create a path that seemed to lead deeper into the tunnel but actually curved back on itself. The reflections bounced back and forth, creating the illusion of infinite depth while actually containing the space in a closed circuit.
 
-She pulled out her chalk and began drawing on the tunnel floor, creating a closed loop pattern that connected to the mirror corridor. It was more complex than the simple lattices Ivy had learned for structural bindings—a continuous line that curved back on itself, creating a circuit with no beginning and no end.
+She pulled out her chalk and began drawing on the tunnel floor, creating a closed loop pattern that connected to the mirror corridor. It was more complex than the simple lattices Ivy had learned for structural bindings: a continuous line that curved back on itself, creating a circuit with no beginning and no end.
 
 "Loop closed," Tamsin said, finishing the chalk work. "Now we need to settle them."
 
@@ -120,7 +120,7 @@ Tamsin completed the pattern, her breathing synchronized with theirs. "In two th
 
 At first, the shades continued their agitated movement, pressing against the salt ring and creating patches of extreme cold wherever they clustered. But as the waltz cadence continued, something began to change. The frantic motion slowed, becoming more purposeful. The shades began to follow the rhythm of their breathing, drifting in time with the three-count pattern.
 
-Ivy could feel the shift happening—not just in the shades' behavior, but in the air around them. The oppressive cold began to ease slightly, becoming less sharp, less aggressive. The entities were still feeding, but the feeding was becoming synchronized with their breathing, creating a harmony instead of a destructive drain.
+Ivy could feel the shift happening; not just in the shades' behavior, but in the air around them. The oppressive cold began to ease slightly, becoming less sharp, less aggressive. The entities were still feeding, but the feeding was becoming synchronized with their breathing, creating a harmony instead of a destructive drain.
 
 "It's working," Rooke said quietly, not breaking cadence. "In two three, out two three."
 
@@ -128,7 +128,7 @@ The waltz rhythm was having an unexpected effect. Instead of simply calming the 
 
 "They're beautiful," Tamsin whispered, wonder in her voice despite the danger. "In two three, out two three."
 
-And they were. Seen this way, responding to rhythm instead of hunting frantically, the shades looked less like threats and more like living expressions of the Veil itself—patterns made visible, disturbances that danced instead of destroyed.
+And they were. Seen this way, responding to rhythm instead of hunting frantically, the shades looked less like threats and more like living expressions of the Veil itself: patterns made visible, disturbances that danced instead of destroyed.
 
 The shades were moving toward the mirror corridor now, drawn by the reflections that seemed to pulse in time with their breathing. As they entered the corridor, the mirrors multiplied their images, creating a confusing maze of disturbances that made the shades harder to track but easier to control.
 
@@ -138,7 +138,7 @@ They held the cadence for twelve full cycles, ensuring that all the shades had b
 
 "Loop closed. Hold," Tamsin said finally, letting the cadence fade. "I think we got them all."
 
-The tunnel felt different now—still strange with all the mirrors, but no longer actively dangerous. The shades had been neutralized, their feeding disruption contained within the chalk loop until it could dissipate naturally.
+The tunnel felt different now; still strange with all the mirrors, but no longer actively dangerous. The shades had been neutralized, their feeding disruption contained within the chalk loop until it could dissipate naturally.
 
 "How long will that hold?" Rooke asked, eyeing the mirror corridor with suspicion.
 
@@ -160,7 +160,7 @@ They packed up their equipment and prepared to leave the tunnel, but Ivy found h
 
 "The lesson. No metal strikes, no sudden motions. Shades aren't monsters you fight. They're disruptions you settle." Ivy adjusted her lantern strap and checked the salt ring one more time, making sure their exit route was clear. "Reflection and rhythm are the tools."
 
-As they climbed back toward street level, Ivy found herself thinking about what they'd just accomplished. Three trainees with improvised equipment had faced down a level-four shade manifestation and won—not through violence, but through understanding. They'd turned the shades' own nature against them, using mirrors and rhythm to transform hunting entities into something almost harmless.
+As they climbed back toward street level, Ivy found herself thinking about what they'd just accomplished. Three trainees with improvised equipment had faced down a level-four shade manifestation and won; not through violence, but through understanding. They'd turned the shades' own nature against them, using mirrors and rhythm to transform hunting entities into something almost harmless.
 
 It was a lesson that went beyond the immediate threat. The Wardens weren't warriors fighting monsters. They were custodians, maintaining the balance between the ordinary world and the forces that lived in the spaces between. Violence would only make things worse. But patience, skill, and the right kind of knowledge could turn even the most dangerous encounters into something manageable.
 

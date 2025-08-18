@@ -63,7 +63,7 @@ Above them, Rooke rang the bell early.
 
 The strike came a full second before the mechanism's automatic timing, breaking the synchronization that Bram's forced resonance required. The sound rolled across the district with the authority of a century's repetition, but this time it arrived clean and true, unfiltered by the electrical interference that had been distorting the tower's voice. The echo that came back from the buildings was perfectly aligned, sound and reflection in phase for the first time in hours.
 
-"What—" Bram spun toward his control panel, seeing readings that no longer matched his calculations. The sine waves that had been building toward perfect resonance were collapsing, the electrical timing thrown off by manual intervention that his system hadn't been designed to account for.
+"What..." Bram spun toward his control panel, seeing readings that no longer matched his calculations. The sine waves that had been building toward perfect resonance were collapsing, the electrical timing thrown off by manual intervention that his system hadn't been designed to account for.
 
 "Tamsin," Ivy spoke into her radio. "Gear."
 

@@ -51,9 +51,9 @@ They reached a heavy door marked "ARCHIVES - AUTHORIZED PERSONNEL ONLY" where a 
 
 "I figured it must be, given everything that's been happening lately." Tilda unlocked the archive door and led them into a space that felt like a cathedral of paper and knowledge. Tall shelves stretched up into darkness, filled with boxes, bound volumes, and filing cabinets that contained the documented history of Greywater going back to its founding.
 
-The air here was carefully controlled—temperature and humidity maintained at levels that would preserve delicate materials indefinitely. But there was something else in the atmosphere, a sense of accumulated time and recorded experience that made Ivy feel like she was walking through the city's memory.
+The air here was carefully controlled; temperature and humidity maintained at levels that would preserve delicate materials indefinitely. But there was something else in the atmosphere, a sense of accumulated time and recorded experience that made Ivy feel like she was walking through the city's memory.
 
-The silence was profound but not empty. It carried the weight of thousands of documents, hundreds of years of municipal decisions, correspondence, and record-keeping. Every policy that had shaped Greywater's development, every engineering project that had built its infrastructure, every crisis that had tested its resilience—all of it was preserved here in boxes and files that few people would ever see.
+The silence was profound but not empty. It carried the weight of thousands of documents, hundreds of years of municipal decisions, correspondence, and record-keeping. Every policy that had shaped Greywater's development, every engineering project that had built its infrastructure, every crisis that had tested its resilience; all of it was preserved here in boxes and files that few people would ever see.
 
 "The Pike materials are in Section M," Tilda said, leading them deeper into the stacks. "Municipal records from the 1920s and 1930s. Most of it's correspondence, budget documents, and committee reports. But there's one item that's always struck me as unusual."
 
@@ -131,7 +131,7 @@ The implications were clear and frightening. Pike had documented the exact same 
 
 They worked systematically through the journal, identifying key passages and technical drawings that related to the Keystone system. Pike's documentation was remarkably thorough, covering not just the equipment design but operational procedures, maintenance schedules, and troubleshooting protocols for common problems.
 
-As they worked, Ivy found herself developing a clearer picture of what Pike had been trying to accomplish. The lamplighter tradition hadn't just been about maintaining street lighting—it had been about maintaining the underlying stability that allowed a modern city to function. The Keystone system was essentially civic infrastructure, as important as water mains or power grids but invisible to everyone except the people trained to operate it.
+As they worked, Ivy found herself developing a clearer picture of what Pike had been trying to accomplish. The lamplighter tradition hadn't just been about maintaining street lighting; it had been about maintaining the underlying stability that allowed a modern city to function. The Keystone system was essentially civic infrastructure, as important as water mains or power grids but invisible to everyone except the people trained to operate it.
 
 Pike's approach had been methodical and scientific, but it also showed deep intuitive understanding of how cities worked as living systems. She wrote about resonance patterns and frequency modulation with the precision of an engineer, but also about the necessity of listening to the city's needs with the sensitivity of a musician tuning an instrument. The technical and the intuitive were seamlessly integrated in her work.
 
@@ -189,7 +189,7 @@ Now that future had arrived, and it was up to Ivy and the other Wardens to prove
 
 "Then we're not alone," Ms. Kestrel said thoughtfully. "That's valuable information, especially if we need to demonstrate that our work is part of a larger, established tradition rather than local superstition."
 
-As Ivy walked home through the quiet streets, copies of Pike's most important diagrams folded carefully in her document case, she found herself paying attention to the city's nighttime rhythms in a new way. The patterns of traffic and pedestrian movement, the cycling of traffic lights, the distant sound of the ferry's evening horn—all of it was part of the complex symphony that Pike had learned to conduct through her Keystone system.
+As Ivy walked home through the quiet streets, copies of Pike's most important diagrams folded carefully in her document case, she found herself paying attention to the city's nighttime rhythms in a new way. The patterns of traffic and pedestrian movement, the cycling of traffic lights, the distant sound of the ferry's evening horn; all of it was part of the complex symphony that Pike had learned to conduct through her Keystone system.
 
 The token at her throat felt warm against her skin, and Button appeared at her side as she turned onto Rowhouse Lane, his good eye bright with what might have been approval. Whatever forces had brought her to Greywater, whatever connection she had to the city's underlying patterns, she was beginning to understand that her role went beyond simple maintenance work.
 

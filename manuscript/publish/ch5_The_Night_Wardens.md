@@ -26,7 +26,7 @@ change:
 
 The basement reading room smelled of old paper and lamp oil, with a metallic undertone like approaching storms. Ivy descended the narrow stairs behind Ms. Kestrel at seven o'clock, her salt tin solid in her pocket, the brass token warm at her throat.
 
-The space opened larger than the building's footprint should have allowed—vaulted brick walls and gas fixtures throwing steady light across worktables scattered with maps, brass instruments, and books with blank spines. The air hummed with the same frequency she'd felt at June's house, but purposeful here, contained.
+The space opened larger than the building's footprint should have allowed: vaulted brick walls and gas fixtures throwing steady light across worktables scattered with maps, brass instruments, and books with blank spines. The air hummed with the same frequency she'd felt at June's house, but purposeful here, contained.
 
 Three people looked up as they entered. Two were roughly her age, and one was older, maybe early twenties, with the kind of careful posture that suggested he took himself very seriously. All of them wore the same expression of polite evaluation she'd seen on Ms. Kestrel's face when testing her with the reading-room lantern.
 
@@ -34,7 +34,7 @@ Three people looked up as they entered. Two were roughly her age, and one was ol
 
 Cole was the one who'd been watching her with skeptical eyes. He stood with the casual confidence of someone who'd earned his place through effort and wasn't entirely convinced she deserved hers. "Ms. Kestrel says you picked up the latch cadence just from watching yesterday. That's unusual for someone with no training."
 
-There was a challenge in his voice, though he tried to keep it polite. Ivy felt the familiar tightness in her stomach that came with being tested by people her own age—the knowledge that whatever she said would either prove or disprove something she wasn't sure she understood herself.
+There was a challenge in his voice, though he tried to keep it polite. Ivy felt the familiar tightness in her stomach that came with being tested by people her own age; the knowledge that whatever she said would either prove or disprove something she wasn't sure she understood herself.
 
 "I don't know if I picked it up," she said carefully. "I could feel what Ms. Kestrel was doing, the rhythm of it. But I've never tried to do it myself."
 
@@ -50,21 +50,21 @@ Ivy thought back to the laundromat. "The receipts were creeping toward the vent 
 
 Ms. Kestrel set a steaming mug of tea in front of Ivy. The ceramic was warm against her palms, and the smell carried hints of bergamot and something herbal she couldn't identify. "Tamsin, will you show Ivy the map while I gather her kit?"
 
-Tamsin set down her brass instrument and moved to the largest table, where a detailed map of Greywater lay spread under glass. It showed the city in precise detail, but overlaid with markings Ivy had never seen before—colored dots, numbered pins, and lines that didn't correspond to any streets she recognized.
+Tamsin set down her brass instrument and moved to the largest table, where a detailed map of Greywater lay spread under glass. It showed the city in precise detail, but overlaid with markings Ivy had never seen before: colored dots, numbered pins, and lines that didn't correspond to any streets she recognized.
 
-"Each dot is a lamp," Tamsin explained, pointing to a cluster near the harbor. "Numbers match the plates on the posts. The lines show what we call routes—patrol paths that let one person check the most critical areas efficiently." She traced a blue line with her finger. "This is Ms. Kestrel's route. Covers the library district, City Works junction, and the old quay. Takes about four hours to walk if you're just checking, longer if you find problems."
+"Each dot is a lamp," Tamsin explained, pointing to a cluster near the harbor. "Numbers match the plates on the posts. The lines show what we call routes; patrol paths that let one person check the most critical areas efficiently." She traced a blue line with her finger. "This is Ms. Kestrel's route. Covers the library district, City Works junction, and the old quay. Takes about four hours to walk if you're just checking, longer if you find problems."
 
 "What about these red marks?" Ivy asked, pointing to several scattered across the map.
 
 "Known thin places," Rooke said quietly. "Spots where seams open more often than average. We check those every night, weather permitting."
 
-Ivy studied the map more carefully. The red marks seemed to cluster around certain types of locations—near water, around old buildings with thick walls, and particularly dense near the clocktower district. "There are a lot of them near where I'm staying."
+Ivy studied the map more carefully. The red marks seemed to cluster around certain types of locations: near water, around old buildings with thick walls, and particularly dense near the clocktower district. "There are a lot of them near where I'm staying."
 
 "Rowhouse Lane borders the Clock Quarter," Ms. Kestrel said, returning with a wooden crate that clinked softly as she set it down. "Your Aunt June is wise to salt her threshold. The area has been unstable for years."
 
 Cole leaned forward slightly. "Is that why you were placed there? Because you'd naturally encounter seam activity?"
 
-The question felt loaded with implication. Ivy looked between the faces around the table, trying to read the undercurrents. "I don't know. I didn't choose to come here—my mother's arrangements brought me to June's door."
+The question felt loaded with implication. Ivy looked between the faces around the table, trying to read the undercurrents. "I don't know. I didn't choose to come here; my mother's arrangements brought me to June's door."
 
 "Your mother," Ms. Kestrel said carefully, "was she sensitive to these things?"
 
@@ -72,9 +72,9 @@ The token seemed to warm against Ivy's skin. "June says she was lost at sea. She
 
 An odd silence fell over the room. Rooke and Tamsin exchanged a quick glance, and even Cole looked less certain of himself. Ms. Kestrel's expression gave nothing away, but she opened the wooden crate with particular attention to the catches.
 
-"Well," she said briskly, "whatever brought you here, you're here now. And the work needs doing." She lifted out items one by one, setting them on the table with the reverence of someone handling tools rather than mere objects. "Your lantern first. This is a workhorse model—heavier than the reading-room lights, but it'll hold a bind for twenty heartbeats once primed."
+"Well," she said briskly, "whatever brought you here, you're here now. And the work needs doing." She lifted out items one by one, setting them on the table with the reverence of someone handling tools rather than mere objects. "Your lantern first. This is a workhorse model; heavier than the reading-room lights, but it'll hold a bind for twenty heartbeats once primed."
 
-The lantern was beautiful in its functionality—brass body with shock rings around the base, mica windows that would let the light through without glare, and a vent wheel on the side that looked like it had been machined to precise tolerances. The weight felt substantial in Ivy's hands, and she could feel a faint resonance when she touched the vent.
+The lantern was beautiful in its functionality: brass body with shock rings around the base, mica windows that would let the light through without glare, and a vent wheel on the side that looked like it had been machined to precise tolerances. The weight felt substantial in Ivy's hands, and she could feel a faint resonance when she touched the vent.
 
 "Thumb on the vent, exhale low-low-high," Tamsin instructed. "That's the priming sequence. Extends the bind duration."
 
@@ -84,11 +84,11 @@ Ivy followed the instruction, feeling the lantern respond to her breath with a s
 
 "The apron keeps salt and chalk off your clothes," Rooke explained. "Sounds mundane, but if you're wearing the residue of a binding when you walk into a fresh seam, it can interfere with the new work."
 
-"These are your route keys," Ms. Kestrel said, lifting a ring of brass keys from the crate. "Silver grade—they'll open lamp boxes, rail cabinets, and most maintenance doors. Don't lose them, but if you do, don't panic. We can recut them and transfer the authorization."
+"These are your route keys," Ms. Kestrel said, lifting a ring of brass keys from the crate. "Silver grade; they'll open lamp boxes, rail cabinets, and most maintenance doors. Don't lose them, but if you do, don't panic. We can recut them and transfer the authorization."
 
 The keys clinked softly against each other as Ivy took them, and when she slipped them into her pocket, they rang against the transit token like a small bell. The sound made her think of the way the house had hummed until she'd freed the token from the doorframe crack.
 
-"And finally," Ms. Kestrel said, setting a leather-bound notebook on the table, "your logbook. Every incident gets logged—time, location, seam level, materials used, cadence applied, duration. If someone gets hurt or there's property damage, that goes in too. The stamps are in the kit."
+"And finally," Ms. Kestrel said, setting a leather-bound notebook on the table, "your logbook. Every incident gets logged: time, location, seam level, materials used, cadence applied, duration. If someone gets hurt or there's property damage, that goes in too. The stamps are in the kit."
 
 Ivy opened the logbook. The pages were already numbered, and she could see faint guidelines ruled in blue ink. A small pouch in the back cover held four rubber stamps with wooden handles: SEAM-SIGHTED, BOUND, SHADE-ACTIVITY, and CIVILIAN-ASSIST.
 
@@ -96,13 +96,13 @@ Ivy opened the logbook. The pages were already numbered, and she could see faint
 
 "Any trends you've noticed?" Ivy asked, genuinely curious.
 
-"Weather affects frequency," Rooke said. "High pressure systems seem to suppress them, low pressure makes them more likely. And they cluster around infrastructure nodes—places where multiple systems intersect."
+"Weather affects frequency," Rooke said. "High pressure systems seem to suppress them, low pressure makes them more likely. And they cluster around infrastructure nodes; places where multiple systems intersect."
 
 "Like the trolley junction near the harbor," Tamsin added. "Power lines, rail lines, storm drains, and the old gas main all converge there. It's our most active monitoring site."
 
 Ivy studied the map again, beginning to see patterns in the red marks that she'd missed before. "It's like the city has pressure points."
 
-"That's exactly what they are," Ms. Kestrel said with approval. "The work we do is essentially civic acupuncture—finding the blockages and restoring healthy flow."
+"That's exactly what they are," Ms. Kestrel said with approval. "The work we do is essentially civic acupuncture; finding the blockages and restoring healthy flow."
 
 "Speaking of which," Tamsin said, glancing at the clock on the wall, "shouldn't we show her the blink code demonstration? Library Row lamps should be quiet enough this time of evening."
 
@@ -110,7 +110,7 @@ Ms. Kestrel nodded. "Good thinking. Ivy, gather your kit. We'll do a practical l
 
 As they climbed back up to street level, Ivy found herself walking between Rooke and Tamsin, with Cole slightly ahead and Ms. Kestrel leading the group. The evening air felt cooler after the warmth of the basement room, and the fog was beginning to thicken, giving the lamplights soft halos that reminded her of the visual cue they'd discussed.
 
-"The blink code isn't magic," Tamsin explained as they walked. "It's just the lamp control system repurposed. City Works installed it for maintenance efficiency—they can test bulbs and switches remotely. We have an arrangement."
+"The blink code isn't magic," Tamsin explained as they walked. "It's just the lamp control system repurposed. City Works installed it for maintenance efficiency; they can test bulbs and switches remotely. We have an arrangement."
 
 "What kind of arrangement?" Ivy asked.
 
@@ -124,9 +124,9 @@ Cole pulled out a key and opened the box, revealing a panel of switches, dials, 
 
 He manipulated the controls with practiced efficiency. Down the street, Ivy watched the lamp posts respond. The first one blinked quickly, stayed bright for a longer count, stayed bright again, then blinked quickly once more. The pattern repeated down the line until all the visible lamps had acknowledged the signal.
 
-"Now a simple message," Cole said. "Just coordinates—row four, column seven on the district grid." More manipulation of controls, and the lamps responded with a different pattern. "And the closing signal."
+"Now a simple message," Cole said. "Just coordinates; row four, column seven on the district grid." More manipulation of controls, and the lamps responded with a different pattern. "And the closing signal."
 
-The final pattern was different again—short, short, long. After it finished, the lamps returned to steady illumination.
+The final pattern was different again: short, short, long. After it finished, the lamps returned to steady illumination.
 
 "It's like the city talking to itself," Ivy said, watching the last echoes of the signal fade.
 
@@ -134,9 +134,9 @@ The final pattern was different again—short, short, long. After it finished, t
 
 "Interference?" Ivy asked.
 
-"Electronic signals can destabilize active bindings," Ms. Kestrel explained. "Radio waves, cell phone signals, even wireless internet—they all add electromagnetic noise to an environment where we're trying to maintain very precise energy patterns."
+"Electronic signals can destabilize active bindings," Ms. Kestrel explained. "Radio waves, cell phone signals, even wireless internet; they all add electromagnetic noise to an environment where we're trying to maintain very precise energy patterns."
 
-As they walked back toward the library, Ivy found herself looking at the city differently. The lamp posts weren't just lighting—they were nodes in a communication network. The storm drains weren't just flood control—they were pressure release valves for forces she was only beginning to understand. The buildings themselves seemed to breathe with subtle rhythms that she was learning to perceive.
+As they walked back toward the library, Ivy found herself looking at the city differently. The lamp posts weren't just lighting; they were nodes in a communication network. The storm drains weren't just flood control; they were pressure release valves for forces she was only beginning to understand. The buildings themselves seemed to breathe with subtle rhythms that she was learning to perceive.
 
 "I have a question," she said as they reached the library steps. "Yesterday, when Ms. Kestrel was binding the laundromat seam, I felt like I could follow the cadence even before she started counting aloud. Is that normal?"
 
@@ -146,7 +146,7 @@ Cole looked skeptical again. "Most people need months of training before they ca
 
 "Ms. Kestrel," Rooke said quietly, "should we test her cadence sense before we go back down?"
 
-Ms. Kestrel considered this. "A basic test wouldn't hurt. Ivy, would you be comfortable trying to establish a simple cadence? Just the march pattern—two in, two out."
+Ms. Kestrel considered this. "A basic test wouldn't hurt. Ivy, would you be comfortable trying to establish a simple cadence? Just the march pattern; two in, two out."
 
 They were standing in the pool of light from one of the library's exterior lamps. Ivy pulled out her new lantern and held it carefully, remembering the priming sequence. Thumb on vent, exhale low-low-high. The mantle responded, glowing steadier.
 
@@ -154,7 +154,7 @@ They were standing in the pool of light from one of the library's exterior lamps
 
 Ivy closed her eyes and tried to feel the rhythm she'd sensed yesterday. In her mind, she could almost hear the steady beat that had underlaid Ms. Kestrel's work at the laundromat. In, two. Out, two. In, two. Out, two.
 
-When she opened her eyes, the others were staring at her. The lantern's light had shifted—not brighter, but steadier somehow, more present.
+When she opened her eyes, the others were staring at her. The lantern's light had shifted. Not brighter, but steadier somehow, more present.
 
 "How long did I hold that?" she asked.
 
@@ -170,7 +170,7 @@ The weight of implication settled around her like the fog. Ivy felt the token wa
 
 As they filed back into the library, Ivy caught Cole's eye. The challenge was still there, but it had shifted into something more like respect, tinged with curiosity.
 
-"You'll do fine," he said quietly. "Just remember—the work matters more than the recognition."
+"You'll do fine," he said quietly. "Just remember; the work matters more than the recognition."
 
 It felt like advice and warning both. Ivy nodded, tucking her lantern under her arm and feeling the solid weight of her new responsibilities settling into place around her shoulders like a coat she'd grow into.
 
@@ -194,7 +194,7 @@ Cole looked up from his own lantern, which he'd been adjusting with the precisio
 
 "How long has this been going on?" Ivy asked, reassembling her vent mechanism. "The seams, the binding work?"
 
-"As long as cities have existed," Ms. Kestrel said. "In Greywater, we have records going back eighty years. Before that, folklore—stories about people who could 'settle the restless places.'"
+"As long as cities have existed," Ms. Kestrel said. "In Greywater, we have records going back eighty years. Before that, folklore; stories about people who could 'settle the restless places.'"
 
 "My grandmother talked about the lamp riots in '73," Rooke said. "Three days without steady light. People left offerings at lamp bases by the end."
 
@@ -234,7 +234,7 @@ Tamsin closed her tool case with a decisive snap. "Speaking of teams, we should 
 
 "We work around people who don't understand," Rooke added. "Officials who see us as amateurs, citizens who think we're playing with superstitions."
 
-"The results speak for themselves," Ms. Kestrel said. "When lamps stay lit, when accidents don't happen—that's our validation."
+"The results speak for themselves," Ms. Kestrel said. "When lamps stay lit, when accidents don't happen; that's our validation."
 
 Ivy nodded, feeling responsibility settle around her shoulders. The work was bigger than she'd realized, more complex. But there was something satisfying about serving the city's needs, being part of a tradition that kept the lights burning.
 
@@ -248,7 +248,7 @@ The key was warm in Ivy's palm, and when she slipped it into her pocket with the
 
 "That's what the tea is for," Rooke said solemnly, then broke into a smile when the others laughed.
 
-As they gathered their equipment and prepared to leave, Ivy found herself looking around the reading room with new eyes. It wasn't just a basement meeting space—it was a command center, a workshop, a haven for people who'd chosen to carry responsibility most others never even suspected existed.
+As they gathered their equipment and prepared to leave, Ivy found herself looking around the reading room with new eyes. It wasn't just a basement meeting space; it was a command center, a workshop, a haven for people who'd chosen to carry responsibility most others never even suspected existed.
 
 The key tag clinked against the token in her pocket as she stood, and for the first time since arriving in Greywater, she felt like she might truly belong somewhere.
 

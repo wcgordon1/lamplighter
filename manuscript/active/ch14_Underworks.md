@@ -58,7 +58,7 @@ The others stopped. In the quiet, they could hear it: a deep thrumming that rode
 
 "Fan drone," Rooke said quietly, and Ivy heard it too: the steady whir of ventilation equipment that meant they were approaching occupied spaces. But underneath the mechanical noise, that deeper thrumming continued, patient and purposeful.
 
-G-8 branched into a maintenance corridor lined with pipe runs and electrical panels. Emergency lighting cast everything in harsh blues and yellows, and the air hummed with transformer noise that made Ivy's teeth ache. She counted her breaths—in two, out two—using march cadence to keep steady as the seam pressure built.
+G-8 branched into a maintenance corridor lined with pipe runs and electrical panels. Emergency lighting cast everything in harsh blues and yellows, and the air hummed with transformer noise that made Ivy's teeth ache. She counted her breaths; in two, out two; using march cadence to keep steady as the seam pressure built.
 
 Tamsin stopped at a junction box marked with a number Ivy didn't recognize: CB-47-K. "This should feed the clocktower sub-basement. Let me check the routing."
 
@@ -72,15 +72,15 @@ She opened the box with a maintenance key, revealing a nest of cables thick as h
 
 Ivy felt the hairs on her forearms rise as she approached the collar. Not from static electricity, but from something else: a low-frequency hum that seemed to ride through the metal conduits and into her bones. The seam energy was stronger here, focused and shaped by the electrical modifications.
 
-The collar was beautiful work—precision-machined ceramic and brass fittings crafted to tolerances tighter than jewelry. Whoever had designed this understood both electrical engineering and the subtle physics of seam dynamics.
+The collar was beautiful work: precision-machined ceramic and brass fittings crafted to tolerances tighter than jewelry. Whoever had designed this understood both electrical engineering and the subtle physics of seam dynamics.
 
 "This wasn't slapped together," Tamsin said, running her fingers along the mounting points. "This is specialist work."
 
-She pulled out her notebook, sketching quickly. "Someone's building a resonance circuit. These aren't just taps—they're tuned to specific frequencies. Each resonance chamber amplifies a different harmonic."
+She pulled out her notebook, sketching quickly. "Someone's building a resonance circuit. These aren't just taps; they're tuned to specific frequencies. Each resonance chamber amplifies a different harmonic."
 
 "For what?"
 
-"Forced harmonics. Pump current at the right frequency and you can make the whole structure ring like a—" Tamsin stopped, her pencil frozen. She looked up at the collar, face going pale. "Multiple feed points. This is designed to work with others. It's part of a network."
+"Forced harmonics. Pump current at the right frequency and you can make the whole structure ring like a..." Tamsin stopped, her pencil frozen. She looked up at the collar, face going pale. "Multiple feed points. This is designed to work with others. It's part of a network."
 
 She trailed off, staring at her own drawing.
 
@@ -92,7 +92,7 @@ The pieces clicked together in Ivy's head like tumblers in a lock. The festival 
 
 "We need photos," Rooke said. "Documentation. Part numbers, serial codes, anything that shows this wasn't authorized work."
 
-Ivy pulled out the camera, shooting the collar from multiple angles. The invoice stickers told the story: "Greywater Technical Solutions," municipal contractor license, and at the bottom—"Installation certified by G. Morrison, PE."
+Ivy pulled out the camera, shooting the collar from multiple angles. The invoice stickers told the story: "Greywater Technical Solutions," municipal contractor license, and at the bottom; "Installation certified by G. Morrison, PE."
 
 Morrison. Judge Morrison had signed Kestrel's detention order. Now his name appeared on electrical work that shouldn't exist.
 
@@ -102,17 +102,17 @@ A sound echoed from deeper in the tunnel system. Footsteps, maybe. Or equipment 
 
 "There's more," Tamsin said, moving deeper into the corridor. She'd found a service panel that opened onto the main feeder junction, where three separate collar assemblies fed power toward different areas of the tower complex. "They're not just targeting the sub-basement. This is district-wide infrastructure modification."
 
-Ivy followed her to the main junction, where electrical feeds branched like roots. Each branch had been fitted with its own collar assembly—professional work, approved stickers on every one.
+Ivy followed her to the main junction, where electrical feeds branched like roots. Each branch had been fitted with its own collar assembly: professional work, approved stickers on every one.
 
 "This isn't vandalism," Tamsin said, her voice flat. "This is an inside job. They've got people in contracting, permits, inspection. Planning this for months."
 
-Ivy photographed rapidly. Every collar was precision work, every invoice stamped with official approval—proof of systematic sabotage through legitimate channels.
+Ivy photographed rapidly. Every collar was precision work, every invoice stamped with official approval; proof of systematic sabotage through legitimate channels.
 
 The footsteps echoed again, closer now. Definitely footsteps.
 
 "How much power?" she asked as Tamsin measured voltage readings.
 
-"Enough to light up half the old quarter. But they're turning the electrical grid into a giant tuning fork." Tamsin's meter showed frequencies in mathematical progression. "Force the whole district into resonance and—"
+"Enough to light up half the old quarter. But they're turning the electrical grid into a giant tuning fork." Tamsin's meter showed frequencies in mathematical progression. "Force the whole district into resonance and..."
 
 "Every seam opens at once," Ivy finished, her chest tight. The Keystone Lantern sat connected to these same power systems.
 
@@ -126,7 +126,7 @@ The footsteps echoed again, closer now. Definitely footsteps.
 
 "Orders from who?" Tamsin's smile was bitter. "Same people who signed off on these modifications."
 
-They worked fast, photographing and documenting. The seam energy grew stronger as they moved closer to the tower, and Ivy found herself counting breaths—in two, out two—using march cadence to stay steady.
+They worked fast, photographing and documenting. The seam energy grew stronger as they moved closer to the tower, and Ivy found herself counting breaths; in two, out two; using march cadence to stay steady.
 
 "Look at the dates," Rooke said, pointing to work order stamps. "Installation started six weeks ago, approvals last week. They built this piece by piece so no one sees the whole picture."
 

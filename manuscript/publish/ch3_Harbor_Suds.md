@@ -45,11 +45,11 @@ The admission hung between them like a confession. Ivy nodded slowly, and Denise
 
 "Started about an hour ago," Denise said, lowering her voice. "At first I thought it was just the exhaust fan running backward, but when I checked the breaker, everything looked normal. Then Mrs. Patterson's laundry basket started sliding, and old Mr. Chen's scarf..." She gestured helplessly toward the vent. "I called maintenance, but they won't come out until tomorrow."
 
-Ivy studied the vent more carefully. It was a standard industrial exhaust, the kind designed to carry lint and moisture outside. But the air moving through it smelled wrong—not like fabric softener and detergent, but like wet paper and something metallic. The edges of the vent cover had frost on them despite the August evening, and when she held her hand near it, the pull was strong enough to lift the hair off her wrist.
+Ivy studied the vent more carefully. It was a standard industrial exhaust, the kind designed to carry lint and moisture outside. But the air moving through it smelled wrong; not like fabric softener and detergent, but like wet paper and something metallic. The edges of the vent cover had frost on them despite the August evening, and when she held her hand near it, the pull was strong enough to lift the hair off her wrist.
 
 She took her notebook from her pocket and began documenting what she observed. Temperature drop: approximately five degrees within a six-foot radius. Visual anomalies: frost formation in August heat, fluorescent flicker pattern. Auditory: low hum similar to electrical transformer but with organic undertone. Physical effects: papers, fabric, loose objects drawn toward vent opening with increasing force.
 
-The act of writing helped her think more clearly. This wasn't random mechanical failure—there was a pattern here, a logic she was beginning to recognize. The metallic smell reminded her of thunderstorms, that ozone tang that came before lightning. The wet paper scent was exactly what Ms. Kestrel had described yesterday when testing her sensitivity. And the way the fluorescents flickered above the vent wasn't the random stuttering of dying bulbs, but a rhythm that seemed almost intentional.
+The act of writing helped her think more clearly. This wasn't random mechanical failure; there was a pattern here, a logic she was beginning to recognize. The metallic smell reminded her of thunderstorms, that ozone tang that came before lightning. The wet paper scent was exactly what Ms. Kestrel had described yesterday when testing her sensitivity. And the way the fluorescents flickered above the vent wasn't the random stuttering of dying bulbs, but a rhythm that seemed almost intentional.
 
 "Has this happened before?" she asked.
 
@@ -81,13 +81,13 @@ Denise nodded and moved to intercept the elderly man, whose washing machine had 
 
 Mr. Chen allowed himself to be guided away from the vent, though his scarf continued to flutter in that direction like a flag pointing toward trouble. Ivy used the time to observe the phenomenon more carefully, keeping her notebook ready in case she needed to document what she was seeing.
 
-The pull was definitely getting stronger. What had started as a gentle tug was now strong enough to slide empty laundry baskets across the smooth floor. The frost around the vent edges had thickened, and she could see her breath when she stood within six feet of it. More concerning still was the way the fluorescent lights directly above the vent had started to flicker in a pattern that reminded her of Morse code—short bursts followed by longer ones, as if something were trying to communicate.
+The pull was definitely getting stronger. What had started as a gentle tug was now strong enough to slide empty laundry baskets across the smooth floor. The frost around the vent edges had thickened, and she could see her breath when she stood within six feet of it. More concerning still was the way the fluorescent lights directly above the vent had started to flicker in a pattern that reminded her of Morse code: short bursts followed by longer ones, as if something were trying to communicate.
 
 When Ms. Kestrel arrived, she carried a canvas bag that clinked softly with each step. She assessed the situation with the quick efficiency of someone who'd seen similar problems before, her eyes moving from the vent to the scattered papers to the frost patterns on the wall. She spent several minutes taking measurements with what looked like a jeweler's loupe, making notes in a leather-bound book, and holding her hand at various distances from the vent.
 
 "Level two waking," she said quietly to Ivy. "Probably triggered by the humidity changes from all the dryer cycles. The vent's become a pressure point." She opened her bag and pulled out items that looked both familiar and strange: a tin of what appeared to be coarse salt, several sticks of white chalk, and the same small brass lantern she'd shown Ivy at the library.
 
-But there were other things too—a small compass that spun wildly when brought near the vent, a vial of what looked like ordinary water but caught the light strangely, and several pieces of folded paper covered in diagrams that reminded Ivy of engineering blueprints. This wasn't just a repair kit; it was a toolkit for problems that didn't officially exist.
+But there were other things too: a small compass that spun wildly when brought near the vent, a vial of what looked like ordinary water but caught the light strangely, and several pieces of folded paper covered in diagrams that reminded Ivy of engineering blueprints. This wasn't just a repair kit; it was a toolkit for problems that didn't officially exist.
 
 "Have you seen this before?" Ivy asked, gesturing toward the vent.
 
@@ -95,11 +95,11 @@ But there were other things too—a small compass that spun wildly when brought 
 
 "Environmental awakening?"
 
-"When a place becomes aware of itself. Usually harmless—a building that runs warm or cool in certain rooms, elevators that seem to anticipate which floors people want, lights that burn brighter when people are upset or afraid." Ms. Kestrel packed the compass away and selected a specific piece of chalk from her collection. "But sometimes the awareness becomes... hungry. It wants to interact more directly with the world around it."
+"When a place becomes aware of itself. Usually harmless; a building that runs warm or cool in certain rooms, elevators that seem to anticipate which floors people want, lights that burn brighter when people are upset or afraid." Ms. Kestrel packed the compass away and selected a specific piece of chalk from her collection. "But sometimes the awareness becomes... hungry. It wants to interact more directly with the world around it."
 
 "What can I do?" Ivy asked.
 
-"Watch and learn. But first—" Ms. Kestrel handed her the salt tin. "Do you remember what I told you about order of operations?"
+"Watch and learn. But first," Ms. Kestrel handed her the salt tin. "Do you remember what I told you about order of operations?"
 
 Ivy thought back to their conversation in the library, trying to recall the specific words Ms. Kestrel had used. "You said some things needed attention from people who understood what they were really hearing. But you didn't mention any specific order."
 
@@ -109,7 +109,7 @@ She demonstrated by opening the salt tin and pouring a careful line across the f
 
 "The salt acts like a circuit breaker," Ms. Kestrel explained as she worked. "It doesn't solve the problem, but it gives us time to work safely."
 
-Next came the chalk. Ms. Kestrel drew a series of connected lines on the wall beside the vent, creating a pattern that looked like a ladder laid on its side. Each rung was precisely spaced, and she took care to connect the pattern to the building's structural elements—the metal frame around the vent, the electrical conduit that ran along the wall, the bolts that held the vent cover in place.
+Next came the chalk. Ms. Kestrel drew a series of connected lines on the wall beside the vent, creating a pattern that looked like a ladder laid on its side. Each rung was precisely spaced, and she took care to connect the pattern to the building's structural elements: the metal frame around the vent, the electrical conduit that ran along the wall, the bolts that held the vent cover in place.
 
 "Lattice pattern," she said. "It distributes the pressure to anchors that can handle the load. Think of it as adding support beams to a collapsing structure."
 
@@ -119,11 +119,11 @@ The change was immediate. The frost around the vent edges began to melt, and the
 
 "Chalk," Ms. Kestrel said simply. "The right kind, applied in the right pattern, at the right time."
 
-But they weren't finished. Ms. Kestrel set the brass lantern on the floor beside the chalk pattern and turned the small wheel at its base. The device began to emit the same subtle hum Ivy had felt at the library, but this time it seemed to synchronize with something in the walls themselves. Ms. Kestrel placed her hands on the lantern and began to breathe in a deliberate pattern—one count in, two counts out, repeated steadily.
+But they weren't finished. Ms. Kestrel set the brass lantern on the floor beside the chalk pattern and turned the small wheel at its base. The device began to emit the same subtle hum Ivy had felt at the library, but this time it seemed to synchronize with something in the walls themselves. Ms. Kestrel placed her hands on the lantern and began to breathe in a deliberate pattern: one count in, two counts out, repeated steadily.
 
 "Latch cadence," she said quietly. "One in, two out, for temporary bindings. It won't hold forever, but it'll keep things stable until a proper repair crew can address the underlying pressure imbalance."
 
-Ivy watched the process with fascination, noting how each step built on the previous one. The salt had stopped the immediate danger, the chalk had redirected the forces involved, and the light—somehow—was sealing the whole thing in place. It was like watching someone perform surgery on the building itself.
+Ivy watched the process with fascination, noting how each step built on the previous one. The salt had stopped the immediate danger, the chalk had redirected the forces involved, and the light, somehow, was sealing the whole thing in place. It was like watching someone perform surgery on the building itself.
 
 "How long will it hold?" she asked.
 
@@ -151,7 +151,7 @@ Denise was already back to reading her paperback, though Ivy noticed she kept gl
 
 "Yes. And that's both a gift and a responsibility." Ms. Kestrel shouldered her bag and checked her notebook one final time. "The world is full of small mysteries that most people never notice. Someone has to pay attention to them, understand them, help them when they get out of balance."
 
-Ivy looked around the laundromat—at the steady lights, the calm air, the customers who had no idea how close they'd come to something dangerous. "How many other people do this kind of work?"
+Ivy looked around the laundromat: at the steady lights, the calm air, the customers who had no idea how close they'd come to something dangerous. "How many other people do this kind of work?"
 
 "Not many in any given city. Maybe a dozen in a place the size of Greywater. We tend to find each other eventually, or the work finds us." Ms. Kestrel held the door open for Ivy. "The important thing is that someone's watching, someone who can respond when the ordinary world needs a little help staying ordinary."
 
@@ -159,7 +159,7 @@ They walked together toward the library, passing under streetlights that seemed 
 
 "The order of operations," she said. "Is it always salt, chalk, light?"
 
-"For field work, yes. Salt stalls, chalk shapes, light binds. Each step prepares the ground for the next one. Try to skip ahead or reverse the order, and you'll either fail to solve the problem or make it worse." Ms. Kestrel paused under a streetlight to check something in her notebook. "It's not just about the materials—it's about working with natural processes instead of against them."
+"For field work, yes. Salt stalls, chalk shapes, light binds. Each step prepares the ground for the next one. Try to skip ahead or reverse the order, and you'll either fail to solve the problem or make it worse." Ms. Kestrel paused under a streetlight to check something in her notebook. "It's not just about the materials; it's about working with natural processes instead of against them."
 
 "And the breathing? The cadence?"
 
@@ -175,11 +175,11 @@ They reached the library steps, where the brass plaque beside the entrance gleam
 
 Ivy nodded, already looking forward to discovering what lay behind the staff-only door she'd glimpsed earlier. As she walked home through streets that now seemed full of hidden patterns and quiet conversations between lights and shadows, she realized she was no longer the same person who'd arrived in Greywater just two days ago.
 
-The walk home gave her time to process what had happened. She'd witnessed something impossible by conventional standards—a building developing its own intentions, materials that could redirect forces she couldn't name, light that responded to human breath and somehow sealed problems that shouldn't have been solvable. But it hadn't felt impossible in the moment. It had felt like discovering the right tool for a job she'd been trying to do with her bare hands.
+The walk home gave her time to process what had happened. She'd witnessed something impossible by conventional standards: a building developing its own intentions, materials that could redirect forces she couldn't name, light that responded to human breath and somehow sealed problems that shouldn't have been solvable. But it hadn't felt impossible in the moment. It had felt like discovering the right tool for a job she'd been trying to do with her bare hands.
 
 She pulled out her notebook as she walked and added more observations. The way Ms. Kestrel had measured the vent's effect before acting. The precise spacing of the chalk lines. The deliberate rhythm of her breathing while operating the lantern. Every detail had been intentional, part of a system that was both practical and mysterious.
 
-More than that, she'd felt useful. For the first time in her life, the strange things she noticed—the patterns others missed, the sounds that didn't belong, the feelings that places were somehow alive—weren't symptoms of a problem with her. They were tools for solving problems with the world.
+More than that, she'd felt useful. For the first time in her life, the strange things she noticed; the patterns others missed, the sounds that didn't belong, the feelings that places were somehow alive; weren't symptoms of a problem with her. They were tools for solving problems with the world.
 
 The token around her neck pulsed with gentle warmth, the salt tin weighed comfortable and solid in her pocket, and for the first time in her life, the strange things she noticed didn't make her feel broken or crazy. They made her feel useful.
 

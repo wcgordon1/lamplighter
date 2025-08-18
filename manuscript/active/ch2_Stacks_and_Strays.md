@@ -23,7 +23,7 @@ Frosted-glass skylights threw pale squares across the long tables where Ivy sat 
 
 She wanted a place to sit that wasn't watched, but Ms. Kestrel at the reference desk had the kind of eyes that catalogued everything. Twice already, the librarian had glanced up when Ivy shifted in her chair, and once when she'd flinched as the reading lamp above her flickered.
 
-Not flickered—the halo had gone oval, stretched thin like a coin seen edge-on. The light steadied again before anyone else seemed to notice, but Ms. Kestrel's gaze had sharpened.
+Not flickered; the halo had gone oval, stretched thin like a coin seen edge-on. The light steadied again before anyone else seemed to notice, but Ms. Kestrel's gaze had sharpened.
 
 "Reading anything interesting?" The voice came from behind Ivy's shoulder, quiet but carrying the authority of someone who owned every book in sight.
 
@@ -35,7 +35,7 @@ Ivy looked up to find Ms. Kestrel standing beside her table, hands ink-stained a
 
 The token around Ivy's neck warmed slightly, as if responding to something in the librarian's voice. "I'm not sure what you mean."
 
-"Do you hear that?" Ms. Kestrel tilted her head slightly, and Ivy realized she wasn't talking about voices or footsteps. There was something else—a low hum, barely perceptible, like the house frame last night but fainter.
+"Do you hear that?" Ms. Kestrel tilted her head slightly, and Ivy realized she wasn't talking about voices or footsteps. There was something else: a low hum, barely perceptible, like the house frame last night but fainter.
 
 "Feels like a thread under my skin," Ivy said before she could stop herself.
 
@@ -57,7 +57,7 @@ She turned the wheel again, this time in the opposite direction, and the feeling
 
 "Nothing nervous about it." Ms. Kestrel's voice was matter-of-fact. "Some people are born with better hearing than others. Some have better eyesight. You seem to have better... let's call it environmental awareness. It's not common, but it's not unheard of either."
 
-Ivy looked around the reading room, suddenly seeing it differently. The way Ms. Kestrel had positioned herself gave her a clear view of every entrance and exit. The small brass lantern wasn't the only unusual item in her bag—Ivy caught glimpses of what looked like chalk sticks, a small notebook bound in oiled leather, and several other brass implements she couldn't identify.
+Ivy looked around the reading room, suddenly seeing it differently. The way Ms. Kestrel had positioned herself gave her a clear view of every entrance and exit. The small brass lantern wasn't the only unusual item in her bag; Ivy caught glimpses of what looked like chalk sticks, a small notebook bound in oiled leather, and several other brass implements she couldn't identify.
 
 "Are you some kind of scientist?" Ivy asked.
 
@@ -99,7 +99,7 @@ Ivy gathered her things and headed for the exit, but something made her pause at
 
 Ivy studied the map, trying to memorize the pattern. Her street was there, a neat row of circles marching from the harbor up toward the market ward. Number 47 sat at the corner where June's rowhouse stood, marked with a small notation in Ms. Kestrel's precise handwriting: "Stable - J.M. maint."
 
-The map was more detailed than she'd first realized. Some of the circles were filled in solid, others were just outlines. A few had small symbols beside them—stars, triangles, what looked like tiny question marks. Red ink traced lines between certain clusters of lights, creating a secondary pattern that had nothing to do with the actual street layout.
+The map was more detailed than she'd first realized. Some of the circles were filled in solid, others were just outlines. A few had small symbols beside them: stars, triangles, what looked like tiny question marks. Red ink traced lines between certain clusters of lights, creating a secondary pattern that had nothing to do with the actual street layout.
 
 "The symbols," Ivy said. "What do they mean?"
 
@@ -109,7 +109,7 @@ Ms. Kestrel glanced up from her paperwork. "Maintenance codes. Stars for lights 
 
 "Like the one above your table." Ms. Kestrel's pen tapped against her desk once, twice. "Among others."
 
-Ivy counted the question marks on the map. There were more than she'd expected—at least a dozen scattered throughout the old quarter, with a heavy concentration around the clock tower and the harbor district. "That's a lot of unexplained behavior."
+Ivy counted the question marks on the map. There were more than she'd expected; at least a dozen scattered throughout the old quarter, with a heavy concentration around the clock tower and the harbor district. "That's a lot of unexplained behavior."
 
 "Greywater is an old city," Ms. Kestrel said. "Old cities have... quirks. Buildings settle in unexpected ways. Electrical systems develop their own rhythms. Infrastructure takes on a kind of personality after enough decades of use." She set down her pen and leaned back in her chair. "Most people just accept it as part of the charm. A few of us find it interesting enough to document."
 
@@ -121,7 +121,7 @@ Ivy counted the question marks on the map. There were more than she'd expected�
 
 "Curiosity is a useful quality in a researcher." Ms. Kestrel capped her pen and set it aside. "Seven o'clock, if you decide you want to learn more about what you're hearing."
 
-Outside, the afternoon air carried the smell of rain and something else—salt from the harbor, maybe, or the metallic tang that came before storms. Ivy walked slowly down Library Row, looking up at each lamppost she passed. Most looked ordinary, utilitarian fixtures doing their job without fuss. Cast iron poles with simple glass housings, some newer than others but all serving the same basic function.
+Outside, the afternoon air carried the smell of rain and something else: salt from the harbor, maybe, or the metallic tang that came before storms. Ivy walked slowly down Library Row, looking up at each lamppost she passed. Most looked ordinary, utilitarian fixtures doing their job without fuss. Cast iron poles with simple glass housings, some newer than others but all serving the same basic function.
 
 But a few hummed. Faintly, almost inaudibly, but there if you knew how to listen. 
 
@@ -129,7 +129,7 @@ The third one she passed had a slightly different note to it, higher pitched tha
 
 She was beginning to understand what Ms. Kestrel meant about paying attention.
 
-She was halfway to June's street when she realized she was being followed. Not by a person—by the one-eyed dog from last night. He kept to the far side of the street, moving when she moved, stopping when she stopped. Never getting closer, never falling behind. His gait was slightly uneven, favoring his left front paw, and his coat was the kind of brown that had probably once been black before years of weather and hard living had faded it.
+She was halfway to June's street when she realized she was being followed. Not by a person, but by the one-eyed dog from last night. He kept to the far side of the street, moving when she moved, stopping when she stopped. Never getting closer, never falling behind. His gait was slightly uneven, favoring his left front paw, and his coat was the kind of brown that had probably once been black before years of weather and hard living had faded it.
 
 When she paused to look back at him, he sat down and waited patiently, as if this were the most natural thing in the world. His tail didn't wag, but it wasn't tucked either. He held himself with the dignity of an animal who had learned to expect nothing but hoped for everything.
 
@@ -137,7 +137,7 @@ When she paused to look back at him, he sat down and waited patiently, as if thi
 
 The dog tilted his head but didn't approach. His good eye was bright and intelligent, and there was something in his posture that suggested he was waiting for her to figure out the right question. The missing eye was a clean loss, an old injury that had healed well, leaving only a faint scar across the socket.
 
-A trolley bell rang somewhere behind her, and she noticed the way the dog's ears pricked forward at the sound. Not startled—attentive. Like he was listening for something specific in the pattern of chimes. The trolley was still several blocks away, but he'd heard it before she had, and something about the rhythm of the bell seemed to satisfy him.
+A trolley bell rang somewhere behind her, and she noticed the way the dog's ears pricked forward at the sound. Not startled, but attentive. Like he was listening for something specific in the pattern of chimes. The trolley was still several blocks away, but he'd heard it before she had, and something about the rhythm of the bell seemed to satisfy him.
 
 Just like she was starting to do with the lamplights.
 

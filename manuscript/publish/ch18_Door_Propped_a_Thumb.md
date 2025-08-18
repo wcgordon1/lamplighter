@@ -65,11 +65,11 @@ She held up a hand, stopping Tamsin and Rooke on the step behind her. The conver
 
 Ivy pressed her ear to the stone wall, using her Listener sensitivity to filter the echoes. The tower's acoustics were complex, shaped by decades of mechanical vibration and the natural resonance of the stone itself. But underneath the confusion of reflected sound, she could hear fragments of conversation that made her blood run cold.
 
-"—timing is everything—"
+"...timing is everything..."
 
-"—if the resonance builds too fast—"
+"...if the resonance builds too fast..."
 
-"—she'll have to choose—"
+"...she'll have to choose..."
 
 They were talking about her. Not about the Wardens in general or the night's operation, but specifically about Ivy and whatever choice they expected her to make. Which meant this wasn't just about installing a conduit collar and forcing the city's seams open. It was about manipulation, about creating circumstances that would pressure her into decisions she wouldn't normally make.
 
@@ -129,7 +129,7 @@ He was lying, or at least not telling the whole truth. The collar wasn't designe
 
 "I understand exactly what I'm asking." Bram's voice had gone clipped now, the warmth replaced by the kind of impatience that came from dealing with people who refused to see reason. "I'm asking you to help me save this city from its own traditions."
 
-The engineer looked up from his instruments, concern visible on his face. "Mr. Dore, the resonance is building faster than we calculated. If we don't begin the attuning process soon—"
+The engineer looked up from his instruments, concern visible on his face. "Mr. Dore, the resonance is building faster than we calculated. If we don't begin the attuning process soon..."
 
 "Then Ms. Merrin will have to make her choice quickly."
 

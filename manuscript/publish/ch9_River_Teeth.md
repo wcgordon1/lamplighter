@@ -29,11 +29,11 @@ The Promenade stretched along the river like a necklace of light, its string of 
 
 "Good turnout tonight," Tamsin observed, watching families claim spots along the railing and couples settle onto the scattered benches. "Must be sixty people here already, and the music hasn't even started."
 
-The bandstand sat at the promenade's center like a small island of possibility, its white-painted gazebo structure gleaming in the golden light. A three-piece ensemble was setting up inside—guitar, violin, and what looked like a small accordion—their instruments case open at their feet for donations. The musicians tuned and tested their sound levels, sending fragments of melody drifting across the water.
+The bandstand sat at the promenade's center like a small island of possibility, its white-painted gazebo structure gleaming in the golden light. A three-piece ensemble was setting up inside: guitar, violin, and what looked like a small accordion; their instruments case open at their feet for donations. The musicians tuned and tested their sound levels, sending fragments of melody drifting across the water.
 
 "That's what worries me," Rooke said quietly. "Big crowds, open water, musicians who might not understand rhythm safety. Recipe for problems."
 
-Ivy had learned to pay attention to Rooke's concerns about water. His unease wasn't irrational—it came from understanding how seams could use large bodies of water to amplify their effects, turning what should be calming natural rhythms into something dangerous. The river below them moved with deceptive gentleness, but she could feel an underlying restlessness in its flow.
+Ivy had learned to pay attention to Rooke's concerns about water. His unease wasn't irrational; it came from understanding how seams could use large bodies of water to amplify their effects, turning what should be calming natural rhythms into something dangerous. The river below them moved with deceptive gentleness, but she could feel an underlying restlessness in its flow.
 
 "Any readings yet?" she asked, touching the token at her throat. It felt normal temperature, but there was something in the evening air that made her skin prickle with awareness.
 
@@ -41,17 +41,17 @@ Tamsin pulled out a small resonance detector and took readings from the promenad
 
 They positioned themselves strategically around the gathering crowd, close enough to respond quickly but far enough apart to triangulate any problems that might develop. Ivy found a spot near the bandstand where she could watch both the musicians and the audience, while Tamsin moved toward the upstream end of the promenade and Rooke took a position near the downstream railing.
 
-The music began just as the sun touched the horizon, sending long fingers of orange and gold across the water. The musicians had chosen well—a gentle waltz that seemed to complement rather than compete with the river's natural rhythm. The crowd settled into appreciative listening, parents lifting small children for better views, teenagers clustering near the bandstand's edge.
+The music began just as the sun touched the horizon, sending long fingers of orange and gold across the water. The musicians had chosen well; a gentle waltz that seemed to complement rather than compete with the river's natural rhythm. The crowd settled into appreciative listening, parents lifting small children for better views, teenagers clustering near the bandstand's edge.
 
 The violin's melody soared over the guitar's steady accompaniment, while the accordion provided a rich harmonic foundation that seemed to resonate with the promenade's iron railings. Couples swayed together in unconscious response to the three-quarter time, and several children began dancing in the open spaces between family groups.
 
-For the first twenty minutes, everything felt perfectly normal. The music was competent and pleasant, the audience relaxed and engaged, the evening light soft and forgiving. A vendor moved through the crowd selling paper cones of roasted nuts, and someone had brought a thermos of hot cider that they shared with nearby families. The atmosphere was everything a community gathering should be—peaceful, inclusive, and quietly joyful.
+For the first twenty minutes, everything felt perfectly normal. The music was competent and pleasant, the audience relaxed and engaged, the evening light soft and forgiving. A vendor moved through the crowd selling paper cones of roasted nuts, and someone had brought a thermos of hot cider that they shared with nearby families. The atmosphere was everything a community gathering should be: peaceful, inclusive, and quietly joyful.
 
 Ivy found herself wondering if they'd been overly cautious in bringing three team members to what was essentially a community concert. The river flowed peacefully below them, reflecting the last golden light of sunset, and the city's rhythm felt stable and harmonious.
 
 Then the wind shifted.
 
-It was subtle at first—just a change in the river breeze that brought a different scent, something metallic and sharp that didn't belong with the usual mixture of water and urban air. The token at Ivy's throat began to cool, and she saw Tamsin straighten up from her position near the upstream railing.
+It was subtle at first; just a change in the river breeze that brought a different scent, something metallic and sharp that didn't belong with the usual mixture of water and urban air. The token at Ivy's throat began to cool, and she saw Tamsin straighten up from her position near the upstream railing.
 
 The musicians seemed to sense it too, though they probably couldn't have articulated what was wrong. The guitarist's rhythm wavered slightly, and the violinist frowned as if hearing an echo that interfered with her melody. But they continued playing, professional enough to push through minor difficulties.
 
@@ -61,7 +61,7 @@ People began to shift position in ways that seemed casual but weren't quite natu
 
 And slowly, almost imperceptibly, the crowd began to drift toward the promenade's outer edge.
 
-It wasn't dramatic—just a gradual migration that brought more and more people closer to the low railing that separated the walkway from the fifteen-foot drop to the river below. Individuals moved as if seeking better views or more comfortable positions, but the overall effect was unmistakable to anyone who knew what to look for.
+It wasn't dramatic; just a gradual migration that brought more and more people closer to the low railing that separated the walkway from the fifteen-foot drop to the river below. Individuals moved as if seeking better views or more comfortable positions, but the overall effect was unmistakable to anyone who knew what to look for.
 
 "Level-three development," Tamsin's voice carried clearly across the space, pitched to sound like routine maintenance chatter. "Initiating containment protocols."
 
@@ -69,7 +69,7 @@ Ivy felt her heart rate increase as she surveyed the crowd. Sixty people, includ
 
 She moved quickly but casually toward the bandstand, pulling chalk from her kit as she walked. The musicians needed to adjust their rhythm before the seam could synchronize fully with their performance, but she couldn't simply interrupt the music without causing exactly the kind of public disruption they were trying to avoid.
 
-"Excuse me," she said to the guitarist during a brief pause between songs. "I'm with city maintenance. We're seeing some minor acoustic feedback from the river—could you try keeping your tempo to a steady three-count? It'll help with the sound reflection off the water."
+"Excuse me," she said to the guitarist during a brief pause between songs. "I'm with city maintenance. We're seeing some minor acoustic feedback from the river; could you try keeping your tempo to a steady three-count? It'll help with the sound reflection off the water."
 
 The musician looked puzzled but nodded. "Three-four time instead of the waltz pattern?"
 
@@ -97,7 +97,7 @@ But as she worked, she could see that the situation was becoming more serious. T
 
 "Hey there," he said to the teenagers, his voice carefully casual. "City ordinance requires folks to stay on the walkway side of the railing. Safety issue with the evening crowds."
 
-Most of the teens complied without argument, but one—a boy of maybe sixteen—seemed confused and disoriented. He swayed on his perch as if fighting against invisible forces, his eyes fixed on the water below with an expression of dreamy fascination.
+Most of the teens complied without argument, but one; a boy of maybe sixteen; seemed confused and disoriented. He swayed on his perch as if fighting against invisible forces, his eyes fixed on the water below with an expression of dreamy fascination.
 
 "Come on down from there," Rooke said, reaching out to steady the boy. "Concert's behind you, not below you."
 
@@ -105,7 +105,7 @@ But the teenager didn't respond. Instead, he leaned further forward, his balance
 
 "Now would be good," Tamsin said urgently, finishing the last connections in her section of the lattice. "Binding formation, tide cadence."
 
-Ivy moved into position with her lantern, feeling for the rhythm that would counter the seam's pull. But this was different from their previous work—they were surrounded by civilians, including children, and any mistake could result in serious injuries or worse.
+Ivy moved into position with her lantern, feeling for the rhythm that would counter the seam's pull. But this was different from their previous work; they were surrounded by civilians, including children, and any mistake could result in serious injuries or worse.
 
 "Steady rhythm," she called to the musicians, who were looking increasingly puzzled by the crowd's strange behavior. "Whatever you do, keep playing that steady three-count."
 
@@ -119,7 +119,7 @@ But the teenager on the railing was still in immediate danger, swaying forward w
 
 "I've got him," Rooke said, and Ivy heard him take a deep breath before stepping up onto the railing's lower crossbar to get better leverage.
 
-She knew what that cost him—putting himself in the position he most feared, balanced over water with the responsibility for another person's safety. But he moved with steady determination, getting a solid grip on the teenager's shirt and speaking to him in low, calm tones.
+She knew what that cost him; putting himself in the position he most feared, balanced over water with the responsibility for another person's safety. But he moved with steady determination, getting a solid grip on the teenager's shirt and speaking to him in low, calm tones.
 
 "Easy there. Nothing down there worth seeing. Concert's up here with the rest of us."
 
@@ -131,7 +131,7 @@ The binding was beginning to take hold, Ivy could feel it in the way the seam's 
 
 "Fifteen cycles. Binding stable," Ivy announced, letting the tide cadence fade back to normal breathing. Her lantern's light returned to ordinary illumination, and the chalk lines settled into a barely visible network that would continue channeling any residual energy away from the crowd.
 
-The crisis was over, but the evening was far from finished. The musicians continued playing, the audience settled back into comfortable listening positions, and the sunset painted the sky in increasingly dramatic shades of orange and pink. To most observers, nothing unusual had happened—just some routine maintenance work and a teenage boy being reminded about safety regulations.
+The crisis was over, but the evening was far from finished. The musicians continued playing, the audience settled back into comfortable listening positions, and the sunset painted the sky in increasingly dramatic shades of orange and pink. To most observers, nothing unusual had happened; just some routine maintenance work and a teenage boy being reminded about safety regulations.
 
 But Ivy could see the small signs that marked the transition from danger back to safety. Conversations resumed their natural flow as people lost the vague sense of unease that had been building. Children stopped tugging at their parents' hands and returned to their games. The vendor with the roasted nuts completed his circuit of the crowd without the distracted, confused interactions that had marked the seam's influence.
 
@@ -159,7 +159,7 @@ But Ivy was becoming aware of how much careful coordination their work required.
 
 "Does it ever bother you?" she asked Tamsin. "That we can't get credit for what we actually do?"
 
-"Sometimes," Tamsin admitted. "But think about it this way—tonight, sixty people went home safe because we were here. That teenager is going to wake up tomorrow with no idea how close he came to serious injury. Parents won't have to explain to their children why someone fell off the promenade."
+"Sometimes," Tamsin admitted. "But think about it this way; tonight, sixty people went home safe because we were here. That teenager is going to wake up tomorrow with no idea how close he came to serious injury. Parents won't have to explain to their children why someone fell off the promenade."
 
 "The work matters more than the recognition," Rooke added. "And the people who need to know what we do, they know. Ms. Kestrel, city officials who understand the situation, people like Sergeant Morrow who see the patterns."
 
@@ -169,7 +169,7 @@ Ivy nodded, feeling the weight of her logbook in her kit. Tonight would earn the
 
 "Is that possible?" Ivy asked. "Making the problems go away permanently?"
 
-"No," Rooke said firmly. "Seams are part of how cities work, like stress points in any complex system. The goal isn't to eliminate them—it's to manage them so they don't cause harm."
+"No," Rooke said firmly. "Seams are part of how cities work, like stress points in any complex system. The goal isn't to eliminate them; it's to manage them so they don't cause harm."
 
 As they reached the library, Ivy could see lights in the basement reading room where Ms. Kestrel would be waiting for their report. The thought of documenting the evening's work, of adding their small success to the larger record of Warden activities, felt satisfying in a way that public recognition never could.
 
@@ -181,7 +181,7 @@ They'd done the job they'd trained for, protected people who didn't even know th
 
 "I'll be there," Ivy said, shouldering her kit and feeling the familiar weight of responsibility settle comfortably around her shoulders.
 
-As she walked home to Rowhouse Lane, the evening air carried the sound of distant music from other parts of the city—street performers, radios, the occasional church bell marking the hours. All of it wove together into the complex rhythm that was Greywater after dark, a symphony of human activity and natural forces that the Wardens helped keep in harmony.
+As she walked home to Rowhouse Lane, the evening air carried the sound of distant music from other parts of the city: street performers, radios, the occasional church bell marking the hours. All of it wove together into the complex rhythm that was Greywater after dark, a symphony of human activity and natural forces that the Wardens helped keep in harmony.
 
 The token at her throat had returned to its normal warmth, and Button appeared at her side as she turned onto her street, his good eye bright with what might have been approval. Whatever he'd sensed during the day had apparently settled into comfortable normalcy.
 

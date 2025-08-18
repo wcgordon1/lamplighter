@@ -26,13 +26,13 @@ Dawn came gray and soft over the breakwater, the kind of morning that made the c
 
 She'd left the house while June was still asleep, drawn by restlessness and the need to think somewhere that didn't smell like breakfast and careful conversation. The events at Harbor Suds had left her mind buzzing with questions that seemed too large for indoor spaces, and the waterfront promised the kind of quiet that came from being small next to something vast.
 
-The token around her neck hung heavy and still against her chest. No warmth, no pulse—just ordinary brass conducting the morning chill. Whatever forces had stirred yesterday evening seemed to be sleeping now, leaving her alone with the steady slap of wavelets against the stone wall and the distant sound of the city waking up.
+The token around her neck hung heavy and still against her chest. No warmth, no pulse; just ordinary brass conducting the morning chill. Whatever forces had stirred yesterday evening seemed to be sleeping now, leaving her alone with the steady slap of wavelets against the stone wall and the distant sound of the city waking up.
 
 She pulled out her notebook and began writing, trying to capture the difference between yesterday's electric awareness and this morning's calm. The laundromat had felt like a place under pressure, every surface charged with potential energy. But here, with fog drifting between the pier posts and seabirds settling on the breakwater stones, the world felt stable.
 
 The ferry's horn announced its approach with a deep, even note that rolled across the water and seemed to settle something in Ivy's chest she hadn't realized was tight. The sound came again, precisely the same pitch and duration, and she noticed how the queasy feeling she'd been carrying since waking simply... disappeared.
 
-She wrote that down, underlining it twice. Even rhythms. Steady repetition. The ferry horn wasn't just announcing its arrival—it was creating an acoustic anchor that kept things level.
+She wrote that down, underlining it twice. Even rhythms. Steady repetition. The ferry horn wasn't just announcing its arrival; it was creating an acoustic anchor that kept things level.
 
 "You're up early."
 
@@ -46,7 +46,7 @@ Morrow poured coffee from her thermos into a second cup and offered it to Ivy. "
 
 "Harbor Patrol. Sergeant Alden Morrow." She gestured toward the water with her cup. "Twenty-three years watching this bay, and I still can't predict what kind of day it's going to be just by looking at it."
 
-They stood in comfortable silence, watching the ferry complete its approach. The captain brought it in with the kind of practiced precision that made difficult things look effortless, the massive boat settling against the dock with barely a bump. The horn sounded again—that same deep, calming note—and Ivy felt her shoulders relax another degree.
+They stood in comfortable silence, watching the ferry complete its approach. The captain brought it in with the kind of practiced precision that made difficult things look effortless, the massive boat settling against the dock with barely a bump. The horn sounded again; that same deep, calming note; and Ivy felt her shoulders relax another degree.
 
 "Does it always sound like that?" she asked.
 
@@ -54,7 +54,7 @@ They stood in comfortable silence, watching the ferry complete its approach. The
 
 "I notice sounds," Ivy said, which seemed safer than explaining about the way certain rhythms seemed to settle her nerves in ways that had nothing to do with psychology. "The spacing, the pitch. It's very... regular."
 
-"Has to be. Harbor regulations require specific signal patterns for different maneuvers. But Reeves takes it further than most—he treats the schedule like a metronome. Says it helps keep the passengers calm during rough crossings."
+"Has to be. Harbor regulations require specific signal patterns for different maneuvers. But Reeves takes it further than most; he treats the schedule like a metronome. Says it helps keep the passengers calm during rough crossings."
 
 Ivy nodded, making another note in her book. Regulation patterns that served dual purposes. Official requirements that happened to create stability beyond their intended function. She was beginning to understand that the world was full of systems that worked on multiple levels at once.
 
@@ -76,7 +76,7 @@ Ivy shook her head, though she was beginning to suspect the answer had something
 
 "Nothing you could put your finger on. Odd sounds at night. Lights that flickered in patterns that didn't match the electrical grid. People reporting strange dreams." Morrow shrugged. "City blamed it on infrastructure aging, but infrastructure doesn't usually make people pack up and move."
 
-The ferry horn sounded again as the boat prepared to depart, and Ivy felt that same settling sensation. Whatever was happening near the clocktower, this place was its opposite—steady, predictable, grounded in rhythms that had been tested by time and tide.
+The ferry horn sounded again as the boat prepared to depart, and Ivy felt that same settling sensation. Whatever was happening near the clocktower, this place was its opposite: steady, predictable, grounded in rhythms that had been tested by time and tide.
 
 "The ferry schedule," she said. "How long has it been the same?"
 
@@ -92,13 +92,13 @@ The fog was beginning to lift, revealing more of the city across the bay. From t
 
 "June's right to warn you off that district," Morrow said, following her gaze. "But not because it's dangerous in any way you could explain to the insurance company. It's just... unsteady. Like walking on ground that might not hold your weight."
 
-Ivy nodded, understanding more than she could articulate. The laundromat had been unstable in an active way—forces pulling and pushing, requiring intervention. But the clocktower district sounded unstable in a passive way, like a place where the normal rules of cause and effect were wearing thin.
+Ivy nodded, understanding more than she could articulate. The laundromat had been unstable in an active way; forces pulling and pushing, requiring intervention. But the clocktower district sounded unstable in a passive way, like a place where the normal rules of cause and effect were wearing thin.
 
 "The breakwater," she said, gesturing toward the long stone wall that protected the harbor from ocean swells. "How long has it been here?"
 
 "Original construction was 1923, but it's been reinforced and extended half a dozen times since then. Storm damage, mostly." Morrow finished her coffee and screwed the cap back onto her thermos. "Want to walk out on it? Best view of the city you'll get from this side of the bay."
 
-They made their way along the breakwater, Ivy's notebook tucked safely in her jacket pocket as the wind picked up. The structure was more impressive up close—massive fitted stones that had weathered decades of storms without losing their essential solidity. Her footsteps echoed differently here than they had on the ferry landing, the sound absorbed and reflected by stone and water in patterns that felt ancient and reliable.
+They made their way along the breakwater, Ivy's notebook tucked safely in her jacket pocket as the wind picked up. The structure was more impressive up close: massive fitted stones that had weathered decades of storms without losing their essential solidity. Her footsteps echoed differently here than they had on the ferry landing, the sound absorbed and reflected by stone and water in patterns that felt ancient and reliable.
 
 Halfway out, Morrow stopped and pointed toward the city. "There's your aunt's neighborhood," she said, indicating a cluster of narrow houses with bright-painted doors. "And there's the library district, where you probably spent yesterday afternoon." Her finger moved to a different section of buildings. "And there's Pike Street, leading up to the tower."
 
@@ -110,11 +110,11 @@ From this distance, Ivy could see the way the streets arranged themselves around
 
 "I'll walk along the shore. Thank you for the coffee. And the conversation."
 
-"Any time. And Ivy?" Morrow paused, one foot already on the path back to the landing. "If you notice other sounds around town—patterns that don't quite fit—you can always ask June about them. She's got good instincts about which things need attention and which things are better left alone."
+"Any time. And Ivy?" Morrow paused, one foot already on the path back to the landing. "If you notice other sounds around town; patterns that don't quite fit; you can always ask June about them. She's got good instincts about which things need attention and which things are better left alone."
 
 Ivy watched the sergeant make her way back toward the harbor patrol station, moving with the confident stride of someone who understood her territory completely. Then she turned back toward the city, studying it from this new vantage point.
 
-The ferry horn sounded again as the boat returned from its run to the mainland, the same deep, steadying note she'd heard before. But now she understood it differently—not just as a signal, but as a tool. Something that created stability in a place where stability wasn't guaranteed.
+The ferry horn sounded again as the boat returned from its run to the mainland, the same deep, steadying note she'd heard before. But now she understood it differently; not just as a signal, but as a tool. Something that created stability in a place where stability wasn't guaranteed.
 
 She pulled out her notebook and began a new page, heading it with the date and "Ferry Landing - Dawn." Below that, she wrote: "Even rhythms stabilize. Question: What other systems in the city serve double purposes? What else maintains balance without official recognition?"
 
@@ -130,7 +130,7 @@ People seemed to know things without being told. Shop owners arranged displays i
 
 By the time she reached June's street, Ivy had filled six pages with observations and questions. The salt tin in her pocket had remained cool and silent throughout the morning, suggesting that whatever forces required Ms. Kestrel's kind of intervention were indeed sleeping. But that didn't mean they weren't there, waiting beneath the surface of an ordinary Tuesday morning in a small city that was apparently far more complicated than it looked from the outside.
 
-She paused at the corner where June's street met the harbor road, looking back toward the water. The ferry was making its next scheduled run, and even from this distance she could hear the horn's steady call. The sound didn't carry the same immediate settling effect it had when she was standing beside the water, but she could feel its influence—a subtle reminder that some rhythms were reliable, that some patterns could be counted on to hold.
+She paused at the corner where June's street met the harbor road, looking back toward the water. The ferry was making its next scheduled run, and even from this distance she could hear the horn's steady call. The sound didn't carry the same immediate settling effect it had when she was standing beside the water, but she could feel its influence: a subtle reminder that some rhythms were reliable, that some patterns could be counted on to hold.
 
 June was awake when Ivy let herself into the house, standing at the kitchen counter with a cup of tea and yesterday's newspaper spread before her. She looked up as Ivy entered, her expression shifting from casual morning routine to something more focused.
 
@@ -168,7 +168,7 @@ June nodded slowly, as if that was the answer she'd expected but hoped she would
 
 Ivy accepted that, recognizing it as a promise rather than an evasion. She spent the rest of the morning reviewing her notes and transcribing the most important observations. The ferry horn sounded periodically, each blast a reminder that some patterns were deliberately maintained, that the city's stability might depend more on human intention than most people realized.
 
-As afternoon approached and training time drew closer, Ivy found herself looking forward to learning more about the tools and techniques that could help maintain that stability. The salt tin in her pocket had remained quiet all day, but she understood now that its stillness was information too—a sign that the city was holding its balance, at least for now.
+As afternoon approached and training time drew closer, Ivy found herself looking forward to learning more about the tools and techniques that could help maintain that stability. The salt tin in her pocket had remained quiet all day, but she understood now that its stillness was information too; a sign that the city was holding its balance, at least for now.
 
 The token around her neck caught the light from the kitchen window, throwing tiny reflections onto the notebook pages. Still cool, still quiet, but somehow more significant than when she first found it. Like everything else in Greywater, it was probably more than it appeared to be.
 
