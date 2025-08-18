@@ -18,7 +18,7 @@ change:
   - Kestrel detained; Cole's leak exposed; Ivy learns emergency blink routing
 ---
 
-# Break the Line
+# Chapter 13: Break the Line
 
 Council corridor. Copier heat and the sharp smell of ozone from machines running too hot. Glossy handouts scattered across a side table like bad news waiting to be delivered.
 

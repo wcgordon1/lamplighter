@@ -19,7 +19,7 @@ change:
   - Mara produces invoices; Bram arrested; inquiry announced; city normalizes
 ---
 
-# The Paper Ring
+# Chapter 22: The Paper Ring
 
 Evidence bags on a table, signatures lined up.
 

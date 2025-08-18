@@ -18,7 +18,7 @@ change:
   - Conduit collar discovered, evidence documented, forced resonance confirmed
 ---
 
-# Underworks
+# Chapter 14: Underworks
 
 City Works bay, where the air tasted metallic and the shadows held too much geometry.
 

@@ -19,7 +19,7 @@ change:
   - Tamsin gets apprenticeship; Cole accepts discipline; Button becomes library dog; systems normalize
 ---
 
-# Repairs
+# Chapter 23: Repairs
 
 Noticeboard with a new liaison card pinned square.
 

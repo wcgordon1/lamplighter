@@ -19,7 +19,7 @@ change:
   - Rooke rings early; Tamsin jams gear; Ivy attunes with heartbeat; bind holds
 ---
 
-# Heartbeat
+# Chapter 21: Heartbeat
 
 Bell room where the clapper moves, the gear teeth waiting.
 

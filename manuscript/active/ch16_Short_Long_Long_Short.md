@@ -20,7 +20,7 @@ change:
   - Map overlays created with access routes; spare equipment positioned; team coordinated
 ---
 
-# Short–Long–Long–Short
+# Chapter 16: Short–Long–Long–Short
 
 Pre-dawn street where three lamps blinked like a quiet sentence.
 

@@ -19,7 +19,7 @@ change:
   - Crisis begins; seams open to Level 4; team deploys emergency response
 ---
 
-# Thirteen
+# Chapter 20: Thirteen
 
 Floodlights, cameras, bunting. The bell counts toward an extra strike.
 

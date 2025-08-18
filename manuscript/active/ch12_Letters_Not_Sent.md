@@ -18,7 +18,7 @@ change:
   - June admits the sea story was cover; Ivy's mother was a Warden; sealed letters exist
 ---
 
-# Letters Not Sent
+# Chapter 12: Letters Not Sent
 
 Kitchen table. Two mugs. The door lamp turned low so only its amber halo ghosted the window glass.
 

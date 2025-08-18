@@ -19,7 +19,7 @@ change:
   - Ivy establishes moral boundary with grief; resolve hardens for choice ahead
 ---
 
-# Stone Memory
+# Chapter 17: Stone Memory
 
 Hand on tower stair, stone cool, a laugh she knows arriving as an impression rather than a sound.
 

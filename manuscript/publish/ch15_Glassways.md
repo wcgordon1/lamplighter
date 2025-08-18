@@ -18,7 +18,7 @@ change:
   - Mirror corridor technique learned; waltz cadence as shade solution; mirror clips added to kit
 ---
 
-# Glassways
+# Chapter 15: Glassways
 
 Lantern light multiplying in stacked mirrors, making a bright maze that hurt to look at directly.
 

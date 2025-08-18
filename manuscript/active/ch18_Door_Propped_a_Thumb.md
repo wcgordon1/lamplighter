@@ -19,7 +19,7 @@ change:
   - Ivy rejects the deal; team confirms collar installation; Bram reveals control agenda
 ---
 
-# Door Propped a Thumb
+# Chapter 18: Door Propped a Thumb
 
 Service door propped a thumb-width, fresh wedge mark on paint.
 

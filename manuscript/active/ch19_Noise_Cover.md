@@ -19,7 +19,7 @@ change:
   - Equipment positioned; team coordinated; Button's warning noted
 ---
 
-# Noise Cover
+# Chapter 19: Noise Cover
 
 Parade drums above, a useful blanket of sound.
 
